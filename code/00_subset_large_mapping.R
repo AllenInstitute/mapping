@@ -1,9 +1,9 @@
 #streamlining the functions for mapping
 
-source("/allen/programs/celltypes/workgroups/rnaseqanalysis/changkyul/Mapping_On_Taxonomy/HKNN_util.R")
+source("/allen/programs/celltypes/workgroups/rnaseqanalysis/changkyul/Mapping_On_Taxonomy/hmapping/HKNN_util.R")
 
-run_large_mapping <- function(obj, naming, alg = c("HKNN", "FLAT"), path, sub_size = 10000, top.n.genes = 15, run_full = TRUE, start = 0, end = 10) {
-  source("/allen/programs/celltypes/workgroups/rnaseqanalysis/changkyul/Mapping_On_Taxonomy/HKNN_util.R")
+run_large_mapping <- function(obj, naming, alg = c("HKNN", "FLAT"), path, sub_size = 10000, top.n.genes = 15, run_full = TRUE, start = 0, end = 10, MI_FN = "FB_top15_pct0.9train.list.HANN_marker_index.rda") {
+  source("/allen/programs/celltypes/workgroups/rnaseqanalysis/clare_morris/code/altered_hknn_map.R")
 
 
   #load libraries
@@ -15,11 +15,17 @@ run_large_mapping <- function(obj, naming, alg = c("HKNN", "FLAT"), path, sub_si
     library(doMC)
     library(foreach)
     
-    source("/allen/programs/celltypes/workgroups/rnaseqanalysis/changkyul/Mapping_On_Taxonomy/map_knn_k.R")
-    
     #load in training data
     TaxDir = "/allen/programs/celltypes/workgroups/rnaseqanalysis/shiny/Taxonomies/AIT9.0_mouse"
-    load(file.path(TaxDir, "train.list.HANN_marker_index_3.rda"))
+    if(top.n.genes == 15){
+      load(file.path(TaxDir, "FB_top15_pct0.9train.list.HANN_marker_index.rda"))
+    } else if(top.n.genes == 10) {
+      load(file.path(TaxDir, "FB_top10_pct0.9train.list.HANN_marker_index.rda"))
+    } else if(top.n.genes == 5) {
+      load(file.path(TaxDir, "FB_top5_pct0.9train.list.HANN_marker_index.rda"))
+    } else if(top.n.genes == 20) {
+      load(file.path(TaxDir, "FB_top20_pct0.9train.list.HANN_marker_index.rda"))
+    } 
   }
   
   #directory for saving files
@@ -40,6 +46,7 @@ run_large_mapping <- function(obj, naming, alg = c("HKNN", "FLAT"), path, sub_si
     }
   }
 
+   source("/allen/programs/celltypes/workgroups/rnaseqanalysis/changkyul/Mapping_On_Taxonomy/hmapping/map_knn_k.R")
   #run subsets
   if(start <= loops) {
   for(n in start:loops) {
@@ -58,9 +65,10 @@ run_large_mapping <- function(obj, naming, alg = c("HKNN", "FLAT"), path, sub_si
         current_obj <- run_mapping_HKNN(sub_obj,                     # query data
                                         Taxonomy="AIT9.0_mouse",  # taxonomy: forebrain 
                                         prefix="FB",              # prefix for your run
-                                        mc.cores=10, iter=100, top.n.genes = top.n.genes)
+                                        mc.cores=10, iter=100, top.n.genes = top.n.genes, MI_FN = MI_FN)
       }
       if(alg == "FLAT") {
+
         current_obj <- map_cells_knn_bs(topk=1, sub_obj, iter=50, train.list$cl.dat, method="cor")
       }
       
@@ -82,7 +90,7 @@ run_large_mapping <- function(obj, naming, alg = c("HKNN", "FLAT"), path, sub_si
         remainder_obj <- run_mapping_HKNN(obj[,r_start:r_end],                     # query data
                                           Taxonomy="AIT9.0_mouse",  # taxonomy: forebrain 
                                           prefix="FB",              # prefix for your run
-                                          mc.cores=10, iter=100, top.n.genes = z )
+                                          mc.cores=10, iter=100, top.n.genes = top.n.genes, MI_FN = MI_FN)
       }
       if(alg == "FLAT") {
         remainder_obj <- map_cells_knn_bs(topk=1, obj[,r_start:r_end], iter=50, train.list$cl.dat, method="cor")

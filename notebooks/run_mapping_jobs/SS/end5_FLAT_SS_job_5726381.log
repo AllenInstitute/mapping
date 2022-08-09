@@ -1,0 +1,167 @@
+==========================================
+SLURM_JOB_ID = 5726381
+Username = clare.morris
+Group = 10513
+SLURM_JOB_NODELIST = n238
+==========================================
+mkdir: cannot create directory ‘/scratch/fast/5726381/tmp’: File exists
+INFO:    Using cached SIF image
+WARNING: While bind mounting '/scratch/fast/5726381/tmp:/tmp': destination is already in the mount point list
+Attaching SeuratObject
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘data.table’
+
+The following objects are masked from ‘package:dplyr’:
+
+    between, first, last
+
+
+Attaching package: ‘arrow’
+
+The following object is masked from ‘package:utils’:
+
+    timestamp
+
+
+Attaching package: ‘scrattch.bigcat’
+
+The following objects are masked _by_ ‘.GlobalEnv’:
+
+    get_gene_score, select_markers, select_markers_groups,
+    select_markers_pair_direction, select_markers_pair_group,
+    select_markers_pair_group_top, select_N_markers,
+    select_pos_markers, select_top_pos_markers
+
+The following objects are masked from ‘package:scrattch.hicat’:
+
+    adjust_color, angle, avgangle, batch_process, blue.red, build_dend,
+    build_train_index, build_train_index_bs, build_tsne, calc_tau,
+    check_triplet, clean_group_color, clean_group_id, clean_outliers,
+    cleanAnnoyIndex, collect_co_matrix, collect_subsample_cl_matrix,
+    combine_cl, combine_finer_split, compare_annotate, compile_cl_mat,
+    compute_knn, compute_vg_stats, ComputeSNN, convert_pair_matrix,
+    convert_pair_matrix_str, cpm, create_pairs, cutree_dend,
+    de_all_pairs, de_genes_pairs_multiple, de_pair_chisq,
+    de_pair_fast_limma, de_pair_limma, de_pair_summary, de_pair_t.test,
+    de_param, de_selected_pairs, de_stats_pair, dend_lca, dend_list,
+    dend_match, DirectSNNToFile, display_cl4, edgeMaker,
+    export_de_genes, fast_tsne, FastCov, FastCovMats, FastLogVMR,
+    FastRBind, FastSparseRowScale, FastSparseRowScaleWithKnownStats,
+    filter_by_size, filter_gene_mod, filter_RD, find_doublet,
+    find_doublet_all, find_doublet_by_marker, find_vg, findElbowPoint,
+    gene_dispersion, gene_gene_cor_conservation, gene_loess_fit,
+    gene_loess_fit_z, gene_means, gene_vars, gene_z, get_beta_score,
+    get_cell.cl.co.ratio, get_cl_co_stats, get_cl_df, get_cl_mat,
+    get_cl_means, get_cl_means_R, get_cl_medians, get_cl_medians_R,
+    get_cl_present, get_cl_prop, get_cl_sigma, get_cl_sim,
+    get_cl_sim_multiple, get_cl_sqr_means, get_cl_stats, get_cl_sums,
+    get_cl_sums_R, get_cl_vars, get_co_ratio, get_de_genes_sym,
+    get_de_matrix, get_de_pair, get_de_score,
+    get_de_truncate_score_sum, get_dend_markers,
+    get_dend_markers_direction, get_dend_parent, get_eigen,
+    get_gene_score, get_knn, get_knn_batch, get_knn_graph,
+    get_knn_pairs, get_knn_weight, get_pair_matrix,
+    get_pair_matrix_coor, get_pairs, get_PCA, get_RD_cl_center,
+    get_row_means, get_row_sums, get_row_vars, get_weighted_means,
+    GraphToNeighborHelper, group_specific_markers, harmonize,
+    heatmap.3, heatmap.4, i_harmonize, impute_knn, impute_knn_global,
+    ImputeKnn, init_cut, iter_clust, iter_clust_merge,
+    iter_consensus_clust, jaccard, jaccard_leiden, jaccard_louvain,
+    jaccard_louvain.RANN, jet.colors, knn_combine, knn_jaccard,
+    knn_jaccard_clust, knn_joint, l2norm, label_dend, lm_matrix,
+    lm_normalize, logCPM, LogNorm, map_by_cor, map_cells_knn,
+    map_cells_knn_bs, map_cl_summary, map_cv, map_sampling,
+    markers_max_tau, markers_tau_one_vs_other, match_cl, merge_cl,
+    merge_cl_by_co, merge_cl_multiple, multiplot, mybgplot3d, null_de,
+    onestep_clust, pair_cor, pass_louvain, PCA_umap, perp, perpEnd,
+    perpMid, perpStart, plot_2d_select, plot_2d_umap_anno,
+    plot_3d_label, plot_3d_label_multiple, plot_3d_select,
+    plot_3d_umap_anno, plot_3d_val, plot_cell_cl_co_matrix,
+    plot_cl_heatmap4, plot_co_matrix, plot_constellation,
+    plot_de_lfc_num, plot_de_num, plot_dend, plot_doublet, plot_low_qc,
+    plot_pair_matrix, plot_RD_cl, plot_RD_cl_subset, plot_RD_gene,
+    plot_RD_meta, plot_tsne_cl, plot_tSNE_gene, plot_tSNE_meta,
+    plot_umap_constellation, plot_vg, predict_annotate_cor,
+    predict_knn, prune_dend, pvclust_show_signif_gradient,
+    rcpp_get_cl_means, rcpp_get_cl_means_dense,
+    rcpp_get_cl_means_RcppParallel,
+    rcpp_get_cl_means_RcppParallel_dense,
+    rcpp_get_cl_means_RcppParallel_transpose,
+    rcpp_get_cl_means_RcppParallel_transpose_dense,
+    rcpp_get_cl_means_transpose, rcpp_get_cl_means_transpose_dense,
+    rcpp_get_cl_medians, rcpp_get_cl_medians_dense,
+    rcpp_get_cl_medians_RcppParallel,
+    rcpp_get_cl_medians_RcppParallel_dense,
+    rcpp_get_cl_medians_RcppParallel_transpose,
+    rcpp_get_cl_medians_RcppParallel_transpose_dense,
+    rcpp_get_cl_medians_transpose, rcpp_get_cl_medians_transpose_dense,
+    rcpp_get_cl_present, rcpp_get_cl_present_dense,
+    rcpp_get_cl_present_RcppParallel,
+    rcpp_get_cl_present_RcppParallel_dense,
+    rcpp_get_cl_present_RcppParallel_transpose,
+    rcpp_get_cl_present_RcppParallel_transpose_dense,
+    rcpp_get_cl_present_transpose, rcpp_get_cl_present_transpose_dense,
+    rcpp_get_cl_sqr_means, rcpp_get_cl_sqr_means_dense,
+    rcpp_get_cl_sqr_means_RcppParallel,
+    rcpp_get_cl_sqr_means_RcppParallel_dense,
+    rcpp_get_cl_sqr_means_RcppParallel_transpose,
+    rcpp_get_cl_sqr_means_RcppParallel_transpose_dense,
+    rcpp_get_cl_sqr_means_transpose,
+    rcpp_get_cl_sqr_means_transpose_dense, rcpp_get_cl_sqr_sums,
+    rcpp_get_cl_sqr_sums_dense, rcpp_get_cl_sqr_sums_RcppParallel,
+    rcpp_get_cl_sqr_sums_RcppParallel_dense,
+    rcpp_get_cl_sqr_sums_RcppParallel_transpose,
+    rcpp_get_cl_sqr_sums_RcppParallel_transpose_dense,
+    rcpp_get_cl_sqr_sums_transpose,
+    rcpp_get_cl_sqr_sums_transpose_dense, rcpp_get_cl_sums,
+    rcpp_get_cl_sums_dense, rcpp_get_cl_sums_RcppParallel,
+    rcpp_get_cl_sums_RcppParallel_dense,
+    rcpp_get_cl_sums_RcppParallel_transpose,
+    rcpp_get_cl_sums_RcppParallel_transpose_dense,
+    rcpp_get_cl_sums_transpose, rcpp_get_cl_sums_transpose_dense,
+    rd_PCA, rd_Rumap, rd_WGCNA, refine_cl, reorder_cl, reorder_dend,
+    ReplaceColsC, rescale_samples, reset_dend_label, RowMergeMatrices,
+    RowMergeMatricesList, RowVar, run_consensus_clust,
+    run_iter_clust_merge, sample_cells, sample_cl_list,
+    sample_sets_list, score_gene_mod, select_joint_genes,
+    select_markers, select_markers_groups, select_markers_pair,
+    select_markers_pair_direction, select_markers_pair_group,
+    select_markers_pair_group_top, select_N_markers,
+    select_pos_markers, select_top_pos_markers, set_pair_matrix,
+    sim_knn, simple_ebayes, simple_lmFit, sparse_cor, SparseRowMean,
+    SparseRowVar, SparseRowVar2, SparseRowVarStd, standardize,
+    Standardize, test_merge, top_loading_genes, umap_param,
+    unbranch_by_conf, unbranch_by_length, varibow, vec_chisq_test,
+    within_group_specific_markers, WriteEdgeFile, z_score
+
+Warning messages:
+1: package ‘ggplot2’ was built under R version 4.0.5 
+2: package ‘Matrix’ was built under R version 4.0.5 
+3: package ‘dplyr’ was built under R version 4.0.5 
+4: package ‘data.table’ was built under R version 4.0.5 
+5: package ‘arrow’ was built under R version 4.0.5 
+6: package ‘scrattch.bigcat’ was built under R version 4.0.5 
+Loading required package: foreach
+Loading required package: iterators
+Loading required package: parallel
+`summarise()` has grouped output by 'sample_id'. You can override using the
+`.groups` argument.
+Warning messages:
+1: package ‘bigstatsr’ was built under R version 4.0.5 
+2: package ‘doMC’ was built under R version 4.0.5 
+3: package ‘foreach’ was built under R version 4.0.5 
+4: package ‘iterators’ was built under R version 4.0.5 
+5: package ‘BiocNeighbors’ was built under R version 4.0.5 
+`summarise()` has grouped output by 'sample_id'. You can override using the
+`.groups` argument.

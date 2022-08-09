@@ -1,0 +1,6962 @@
+[1] "0.9 3"
+[1] "====================================="
+[1] "  marker/index generation begins...  "
+[1] "  it will take a day  :)             "
+[1] "====================================="
+[1] "children LUT is set"
+[1] "ancestor  LUT is set"
+[1] "4 3"
+[1] "root"
+[1] "@1/3   ngroup=16, ncluster=2154"
+MBO-PALv-OLF Other 
+MBO-PALv-OLF NP-CT-L6b 
+MBO-PALv-OLF OLF-CTXsp-sAMY 
+MBO-PALv-OLF MGE 
+MBO-PALv-OLF sAMY-PAL 
+MBO-PALv-OLF TH-GABA 
+MBO-PALv-OLF TH 
+MBO-PALv-OLF STR-MSN 
+Other sAMY-PAL 
+Other TH-GABA 
+Other TH 
+Other STR-MSN 
+NP-CT-L6b Other 
+NP-CT-L6b OLF-CTXsp-sAMY 
+NP-CT-L6b sAMY-PAL 
+NP-CT-L6b TH-GABA 
+NP-CT-L6b TH 
+NP-CT-L6b STR-MSN 
+ET MBO-PALv-OLF 
+ET Other 
+ET NP-CT-L6b 
+ET OLF-CTXsp-sAMY 
+ET IT 
+ET MGE 
+ET LSX 
+ET sAMY-PAL 
+ET HY 
+ET TH-GABA 
+ET TH 
+ET LH-MH 
+ET STR-MSN 
+OLF-CTXsp-sAMY Other 
+OLF-CTXsp-sAMY sAMY-PAL 
+OLF-CTXsp-sAMY TH-GABA 
+OLF-CTXsp-sAMY TH 
+OLF-CTXsp-sAMY STR-MSN 
+IT MBO-PALv-OLF 
+IT Other 
+IT NP-CT-L6b 
+IT OLF-CTXsp-sAMY 
+IT MGE 
+IT LSX 
+IT sAMY-PAL 
+IT TH-GABA 
+IT TH 
+IT LH-MH 
+IT STR-MSN 
+Car3 MBO-PALv-OLF 
+Car3 Other 
+Car3 NP-CT-L6b 
+Car3 ET 
+Car3 OLF-CTXsp-sAMY 
+Car3 IT 
+Car3 CGE 
+Car3 MGE 
+Car3 LSX 
+Car3 sAMY-PAL 
+Car3 HY 
+Car3 TH-GABA 
+Car3 TH 
+Car3 LH-MH 
+Car3 STR-MSN 
+CGE MBO-PALv-OLF 
+CGE Other 
+CGE NP-CT-L6b 
+CGE ET 
+CGE OLF-CTXsp-sAMY 
+CGE IT 
+CGE MGE 
+CGE LSX 
+CGE sAMY-PAL 
+CGE HY 
+CGE TH-GABA 
+CGE TH 
+CGE LH-MH 
+CGE STR-MSN 
+MGE Other 
+MGE NP-CT-L6b 
+MGE OLF-CTXsp-sAMY 
+MGE sAMY-PAL 
+MGE TH-GABA 
+MGE TH 
+MGE STR-MSN 
+LSX MBO-PALv-OLF 
+LSX Other 
+LSX NP-CT-L6b 
+LSX OLF-CTXsp-sAMY 
+LSX MGE 
+LSX sAMY-PAL 
+LSX TH-GABA 
+LSX TH 
+LSX STR-MSN 
+sAMY-PAL TH-GABA 
+sAMY-PAL TH 
+sAMY-PAL STR-MSN 
+HY MBO-PALv-OLF 
+HY Other 
+HY NP-CT-L6b 
+HY OLF-CTXsp-sAMY 
+HY IT 
+HY MGE 
+HY LSX 
+HY sAMY-PAL 
+HY TH-GABA 
+HY TH 
+HY LH-MH 
+HY STR-MSN 
+TH TH-GABA 
+LH-MH MBO-PALv-OLF 
+LH-MH Other 
+LH-MH NP-CT-L6b 
+LH-MH OLF-CTXsp-sAMY 
+LH-MH MGE 
+LH-MH LSX 
+LH-MH sAMY-PAL 
+LH-MH TH-GABA 
+LH-MH TH 
+LH-MH STR-MSN 
+STR-MSN TH-GABA 
+STR-MSN TH 
+# A tibble: 6 × 2
+  gene          score
+  <chr>         <dbl>
+1 Srrm4          1994
+2 Galnt14        1993
+3 2700069I18Rik  1992
+4 Hunk           1987
+5 Bcl2            997
+6 Col25a1         997
+[1] "Srrm4"
+# A tibble: 6 × 2
+  gene          score
+  <chr>         <dbl>
+1 Galnt14        1993
+2 2700069I18Rik   997
+3 Bcl2            997
+4 Col25a1         997
+5 Etv1            997
+6 Hcn1            997
+[1] "Galnt14"
+# A tibble: 6 × 2
+  gene          score
+  <chr>         <dbl>
+1 2700069I18Rik   997
+2 Bcl2            997
+3 Col25a1         997
+4 Etv1            997
+5 Hcn1            997
+6 Hpcal1          997
+[1] "2700069I18Rik"
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 Bcl2      997
+2 Col25a1   997
+3 Etv1      997
+4 Hcn1      997
+5 Hpcal1    997
+6 Klhdc8a   997
+[1] "Bcl2"
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 Col25a1   997
+2 Etv1      997
+3 Hcn1      997
+4 Hpcal1    997
+5 Klhdc8a   997
+6 Nckap5    997
+[1] "Col25a1"
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 Etv1      997
+2 Hcn1      997
+3 Hpcal1    997
+4 Klhdc8a   997
+5 Nckap5    997
+6 Nrip3     997
+[1] "Etv1"
+# A tibble: 6 × 2
+  gene     score
+  <chr>    <dbl>
+1 Hcn1       997
+2 Hpcal1     997
+3 Klhdc8a    997
+4 Nckap5     997
+5 Nrip3      997
+6 Ppp1r14b   997
+[1] "Hcn1"
+# A tibble: 6 × 2
+  gene     score
+  <chr>    <dbl>
+1 Hpcal1     997
+2 Klhdc8a    997
+3 Nckap5     997
+4 Nrip3      997
+5 Ppp1r14b   997
+6 Rasd2      997
+[1] "Hpcal1"
+# A tibble: 6 × 2
+  gene     score
+  <chr>    <dbl>
+1 Klhdc8a    997
+2 Nckap5     997
+3 Nrip3      997
+4 Ppp1r14b   997
+5 Rasd2      997
+6 Sfmbt2     997
+[1] "Klhdc8a"
+# A tibble: 6 × 2
+  gene     score
+  <chr>    <dbl>
+1 Nckap5     997
+2 Nrip3      997
+3 Ppp1r14b   997
+4 Rasd2      997
+5 Sfmbt2     997
+6 Shisa6     997
+[1] "Nckap5"
+# A tibble: 6 × 2
+  gene     score
+  <chr>    <dbl>
+1 Nrip3      997
+2 Ppp1r14b   997
+3 Rasd2      997
+4 Sfmbt2     997
+5 Shisa6     997
+6 Slc24a4    997
+[1] "Nrip3"
+# A tibble: 6 × 2
+  gene     score
+  <chr>    <dbl>
+1 Ppp1r14b   997
+2 Rasd2      997
+3 Sfmbt2     997
+4 Shisa6     997
+5 Slc24a4    997
+6 Tshz3      997
+[1] "Ppp1r14b"
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 Rasd2     997
+2 Sfmbt2    997
+3 Shisa6    997
+4 Slc24a4   997
+5 Tshz3     997
+6 Nwd2      996
+[1] "Rasd2"
+# A tibble: 4 × 2
+  gene    score
+  <chr>   <dbl>
+1 Sfmbt2    997
+2 Shisa6    997
+3 Slc24a4   997
+4 Tshz3     997
+[1] "Sfmbt2"
+# A tibble: 3 × 2
+  gene    score
+  <chr>   <dbl>
+1 Shisa6    997
+2 Slc24a4   997
+3 Tshz3     997
+[1] "Shisa6"
+# A tibble: 2 × 2
+  gene    score
+  <chr>   <dbl>
+1 Slc24a4   997
+2 Tshz3     997
+[1] "Slc24a4"
+# A tibble: 1 × 2
+  gene  score
+  <chr> <dbl>
+1 Tshz3   997
+[1] "Tshz3"
+[1] "root:MBO-PALv-OLF"
+[1] "@2/3   ngroup=4, ncluster=61"
+PAL Sln Glut sAMY/PAL/HY Skor1 Glut 
+PAL Sln Glut sAMY/PAL/HY Eomes Glut 
+OLF Eomes/Ms4a15 Glut PAL Sln Glut 
+OLF Eomes/Ms4a15 Glut sAMY/PAL/HY Skor1 Glut 
+OLF Eomes/Ms4a15 Glut sAMY/PAL/HY Eomes Glut 
+sAMY/PAL/HY Eomes Glut sAMY/PAL/HY Skor1 Glut 
+# A tibble: 6 × 2
+  gene     score
+  <chr>    <dbl>
+1 Chrnb4    1998
+2 Ebf1      1987
+3 Slc38a3   1985
+4 Slc1a2    1984
+5 AI847159  1983
+6 Chrna3    1981
+[1] "Chrnb4"
+# A tibble: 6 × 2
+  gene          score
+  <chr>         <dbl>
+1 Gpc4           1956
+2 Cdh12           997
+3 Npsr1           997
+4 Syt6            997
+5 9330158H04Rik   996
+6 Egfem1          996
+[1] "Gpc4"
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 Cdh12     997
+2 Egfem1    996
+3 Bhlhe22   995
+4 Ctxn1     994
+5 Fign      993
+6 Galnt14   992
+[1] "Cdh12"
+[1] "root:MBO-PALv-OLF:PAL Sln Glut"
+[1] "@3/3   ngroup=5, ncluster=5"
+[1] "root:MBO-PALv-OLF:OLF Eomes/Ms4a15 Glut"
+[1] "@3/3   ngroup=10, ncluster=10"
+[1] "root:MBO-PALv-OLF:sAMY/PAL/HY Skor1 Glut"
+[1] "@3/3   ngroup=42, ncluster=42"
+[1] "root:MBO-PALv-OLF:sAMY/PAL/HY Eomes Glut"
+[1] "@3/3   ngroup=4, ncluster=4"
+[1] "root:Other"
+[1] "@2/3   ngroup=20, ncluster=178"
+DG Glut L4 RSP-ACA Glut 
+DG Glut OLF IMN 
+DG Glut OLF Frmd7 GABA 
+DG Glut OLF Frmd7 IMN 
+DG Glut OLF Trdn GABA 
+DG Glut OLF Lmcd1 GABA 
+DG Glut DG IMN 
+DG Glut OPC NN 
+DG Glut Oligo NN 
+DG Glut ME Astro NN 
+DG Glut Ependymal NN 
+DG Glut Endo NN 
+DG Glut VLMC NN 
+DG Glut SMC-Peri NN 
+DG Glut Micro-PVM NN 
+L4 RSP-ACA Glut OLF IMN 
+L4 RSP-ACA Glut OLF Frmd7 GABA 
+L4 RSP-ACA Glut OLF Frmd7 IMN 
+L4 RSP-ACA Glut OLF Trdn GABA 
+L4 RSP-ACA Glut OLF Lmcd1 GABA 
+L4 RSP-ACA Glut OPC NN 
+L4 RSP-ACA Glut Oligo NN 
+L4 RSP-ACA Glut ME Astro NN 
+L4 RSP-ACA Glut VLMC NN 
+L4 RSP-ACA Glut SMC-Peri NN 
+L4 RSP-ACA Glut Micro-PVM NN 
+CNU IMN DG Glut 
+CNU IMN L4 RSP-ACA Glut 
+CNU IMN OLF IMN 
+CNU IMN OLF Frmd7 GABA 
+CNU IMN OLF Frmd7 IMN 
+CNU IMN CR Glut 
+CNU IMN OLF Trdn GABA 
+CNU IMN OLF Lmcd1 GABA 
+CNU IMN DG IMN 
+CNU IMN OPC NN 
+CNU IMN Oligo NN 
+CNU IMN ME Astro NN 
+CNU IMN Ependymal NN 
+CNU IMN Endo NN 
+CNU IMN VLMC NN 
+CNU IMN SMC-Peri NN 
+CNU IMN Micro-PVM NN 
+OLF IMN OLF Trdn GABA 
+OLF IMN OLF Lmcd1 GABA 
+OLF IMN OPC NN 
+OLF IMN Oligo NN 
+OLF IMN VLMC NN 
+OLF IMN SMC-Peri NN 
+OLF Frmd7 GABA OLF IMN 
+OLF Frmd7 GABA OLF Frmd7 IMN 
+OLF Frmd7 GABA OLF Trdn GABA 
+OLF Frmd7 GABA OLF Lmcd1 GABA 
+OLF Frmd7 GABA OPC NN 
+OLF Frmd7 GABA Oligo NN 
+OLF Frmd7 GABA VLMC NN 
+OLF Frmd7 GABA SMC-Peri NN 
+OLF Frmd7 IMN OLF IMN 
+OLF Frmd7 IMN OLF Trdn GABA 
+OLF Frmd7 IMN OLF Lmcd1 GABA 
+OLF Frmd7 IMN OPC NN 
+OLF Frmd7 IMN Oligo NN 
+OLF Frmd7 IMN VLMC NN 
+OLF Frmd7 IMN SMC-Peri NN 
+CR Glut DG Glut 
+CR Glut L4 RSP-ACA Glut 
+CR Glut OLF IMN 
+CR Glut OLF Frmd7 GABA 
+CR Glut OLF Frmd7 IMN 
+CR Glut OLF Trdn GABA 
+CR Glut OLF Lmcd1 GABA 
+CR Glut DG IMN 
+CR Glut OPC NN 
+CR Glut Oligo NN 
+CR Glut ME Astro NN 
+CR Glut Ependymal NN 
+CR Glut Endo NN 
+CR Glut VLMC NN 
+CR Glut SMC-Peri NN 
+CR Glut Micro-PVM NN 
+OLF Trdn GABA OPC NN 
+OLF Trdn GABA Oligo NN 
+OLF Trdn GABA VLMC NN 
+OLF Trdn GABA SMC-Peri NN 
+OLF Lmcd1 GABA OLF Trdn GABA 
+OLF Lmcd1 GABA OPC NN 
+OLF Lmcd1 GABA Oligo NN 
+OLF Lmcd1 GABA VLMC NN 
+OLF Lmcd1 GABA SMC-Peri NN 
+DG IMN L4 RSP-ACA Glut 
+DG IMN OLF IMN 
+DG IMN OLF Frmd7 GABA 
+DG IMN OLF Frmd7 IMN 
+DG IMN OLF Trdn GABA 
+DG IMN OLF Lmcd1 GABA 
+DG IMN OPC NN 
+DG IMN Oligo NN 
+DG IMN ME Astro NN 
+DG IMN Ependymal NN 
+DG IMN Endo NN 
+DG IMN VLMC NN 
+DG IMN SMC-Peri NN 
+DG IMN Micro-PVM NN 
+OPC NN VLMC NN 
+OPC NN SMC-Peri NN 
+Oligo NN OPC NN 
+Oligo NN VLMC NN 
+Oligo NN SMC-Peri NN 
+Astro NN DG Glut 
+Astro NN L4 RSP-ACA Glut 
+Astro NN CNU IMN 
+Astro NN OLF IMN 
+Astro NN OLF Frmd7 GABA 
+Astro NN OLF Frmd7 IMN 
+Astro NN CR Glut 
+Astro NN OLF Trdn GABA 
+Astro NN OLF Lmcd1 GABA 
+Astro NN DG IMN 
+Astro NN OPC NN 
+Astro NN Oligo NN 
+Astro NN ME Astro NN 
+Astro NN Ependymal NN 
+Astro NN Endo NN 
+Astro NN VLMC NN 
+Astro NN SMC-Peri NN 
+Astro NN Micro-PVM NN 
+ME Astro NN OLF IMN 
+ME Astro NN OLF Frmd7 GABA 
+ME Astro NN OLF Frmd7 IMN 
+ME Astro NN OLF Trdn GABA 
+ME Astro NN OLF Lmcd1 GABA 
+ME Astro NN OPC NN 
+ME Astro NN Oligo NN 
+ME Astro NN VLMC NN 
+ME Astro NN SMC-Peri NN 
+ME Astro NN Micro-PVM NN 
+Aqp1 NN DG Glut 
+Aqp1 NN L4 RSP-ACA Glut 
+Aqp1 NN CNU IMN 
+Aqp1 NN OLF IMN 
+Aqp1 NN OLF Frmd7 GABA 
+Aqp1 NN OLF Frmd7 IMN 
+Aqp1 NN CR Glut 
+Aqp1 NN OLF Trdn GABA 
+Aqp1 NN OLF Lmcd1 GABA 
+Aqp1 NN DG IMN 
+Aqp1 NN OPC NN 
+Aqp1 NN Oligo NN 
+Aqp1 NN Astro NN 
+Aqp1 NN ME Astro NN 
+Aqp1 NN Ependymal NN 
+Aqp1 NN Endo NN 
+Aqp1 NN VLMC NN 
+Aqp1 NN SMC-Peri NN 
+Aqp1 NN Micro-PVM NN 
+Ependymal NN L4 RSP-ACA Glut 
+Ependymal NN OLF IMN 
+Ependymal NN OLF Frmd7 GABA 
+Ependymal NN OLF Frmd7 IMN 
+Ependymal NN OLF Trdn GABA 
+Ependymal NN OLF Lmcd1 GABA 
+Ependymal NN OPC NN 
+Ependymal NN Oligo NN 
+Ependymal NN ME Astro NN 
+Ependymal NN VLMC NN 
+Ependymal NN SMC-Peri NN 
+Ependymal NN Micro-PVM NN 
+Endo NN L4 RSP-ACA Glut 
+Endo NN OLF IMN 
+Endo NN OLF Frmd7 GABA 
+Endo NN OLF Frmd7 IMN 
+Endo NN OLF Trdn GABA 
+Endo NN OLF Lmcd1 GABA 
+Endo NN OPC NN 
+Endo NN Oligo NN 
+Endo NN ME Astro NN 
+Endo NN Ependymal NN 
+Endo NN VLMC NN 
+Endo NN SMC-Peri NN 
+Endo NN Micro-PVM NN 
+SMC-Peri NN VLMC NN 
+Micro-PVM NN OLF IMN 
+Micro-PVM NN OLF Frmd7 GABA 
+Micro-PVM NN OLF Frmd7 IMN 
+Micro-PVM NN OLF Trdn GABA 
+Micro-PVM NN OLF Lmcd1 GABA 
+Micro-PVM NN OPC NN 
+Micro-PVM NN Oligo NN 
+Micro-PVM NN VLMC NN 
+Micro-PVM NN SMC-Peri NN 
+# A tibble: 6 × 2
+  gene     score
+  <chr>    <dbl>
+1 Daam2     1993
+2 Masp1     1993
+3 Lypd1     1983
+4 Car2      1979
+5 Adamts12   999
+6 Clic4      999
+[1] "Daam2"
+# A tibble: 6 × 2
+  gene     score
+  <chr>    <dbl>
+1 Masp1     1993
+2 Lypd1     1983
+3 Adamts12   999
+4 Clic4      999
+5 Hs3st3a1   999
+6 Kif5c      999
+[1] "Masp1"
+# A tibble: 6 × 2
+  gene     score
+  <chr>    <dbl>
+1 Adamts12   999
+2 Clic4      999
+3 Hs3st3a1   999
+4 Kif5c      999
+5 Kcne1l     998
+6 Ntrk3      998
+[1] "Adamts12"
+# A tibble: 6 × 2
+  gene          score
+  <chr>         <dbl>
+1 Clic4           999
+2 Hs3st3a1        999
+3 Kif5c           999
+4 Kcne1l          998
+5 B230323A14Rik   997
+6 Cdc20           997
+[1] "Clic4"
+# A tibble: 6 × 2
+  gene          score
+  <chr>         <dbl>
+1 Hs3st3a1        999
+2 Kif5c           999
+3 Kcne1l          998
+4 B230323A14Rik   997
+5 Cdc20           997
+6 Esrrg           997
+[1] "Hs3st3a1"
+# A tibble: 6 × 2
+  gene          score
+  <chr>         <dbl>
+1 Kif5c           999
+2 B230323A14Rik   997
+3 Cdc20           997
+4 Esrrg           997
+5 Gata2           997
+6 Gjc1            997
+[1] "Kif5c"
+# A tibble: 6 × 2
+  gene          score
+  <chr>         <dbl>
+1 B230323A14Rik   997
+2 Cdc20           997
+3 Esrrg           997
+4 Gata2           997
+5 Gjc1            997
+6 Homer3          997
+[1] "B230323A14Rik"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Cdc20    997
+2 Esrrg    997
+3 Gata2    997
+4 Gjc1     997
+5 Homer3   997
+6 Hs3st5   997
+[1] "Cdc20"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Esrrg    997
+2 Gata2    997
+3 Gjc1     997
+4 Homer3   997
+5 Hs3st5   997
+6 Lhx2     997
+[1] "Esrrg"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Gata2    997
+2 Gjc1     997
+3 Homer3   997
+4 Hs3st5   997
+5 Lhx2     997
+6 Lrrtm3   997
+[1] "Gata2"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Gjc1     997
+2 Homer3   997
+3 Hs3st5   997
+4 Lhx2     997
+5 Lrrtm3   997
+6 Nxph4    997
+[1] "Gjc1"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Homer3   997
+2 Hs3st5   997
+3 Lhx2     997
+4 Lrrtm3   997
+5 Nxph4    997
+6 Parva    997
+[1] "Homer3"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Hs3st5   997
+2 Lhx2     997
+3 Lrrtm3   997
+4 Nxph4    997
+5 Parva    997
+6 Slit1    997
+[1] "Hs3st5"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Lhx2     997
+2 Lrrtm3   997
+3 Nxph4    997
+4 Parva    997
+5 Slit1    997
+6 Spon1    997
+[1] "Lhx2"
+# A tibble: 6 × 2
+  gene     score
+  <chr>    <dbl>
+1 Lrrtm3     997
+2 Nxph4      997
+3 Parva      997
+4 Slit1      997
+5 Spon1      997
+6 Tmem132b   997
+[1] "Lrrtm3"
+# A tibble: 6 × 2
+  gene     score
+  <chr>    <dbl>
+1 Nxph4      997
+2 Parva      997
+3 Slit1      997
+4 Spon1      997
+5 Tmem132b   997
+6 Ndst4      996
+[1] "Nxph4"
+# A tibble: 6 × 2
+  gene          score
+  <chr>         <dbl>
+1 Parva           997
+2 Slit1           997
+3 Spon1           997
+4 Tmem132b        997
+5 Tnfrsf19        996
+6 2810459M11Rik   995
+[1] "Parva"
+# A tibble: 6 × 2
+  gene          score
+  <chr>         <dbl>
+1 Slit1           997
+2 Spon1           997
+3 Tmem132b        997
+4 Tnfrsf19        996
+5 2810459M11Rik   995
+6 Sema6a          994
+[1] "Slit1"
+# A tibble: 5 × 2
+  gene          score
+  <chr>         <dbl>
+1 Spon1           997
+2 Tmem132b        997
+3 Tnfrsf19        996
+4 2810459M11Rik   995
+5 Sema6a          994
+[1] "Spon1"
+# A tibble: 4 × 2
+  gene          score
+  <chr>         <dbl>
+1 Tmem132b        997
+2 Tnfrsf19        996
+3 2810459M11Rik   995
+4 Sema6a          994
+[1] "Tmem132b"
+[1] "root:Other:DG Glut"
+[1] "@3/3   ngroup=7, ncluster=7"
+[1] "root:Other:L4 RSP-ACA Glut"
+[1] "@3/3   ngroup=1, ncluster=1"
+[1] "root:Other:CNU IMN"
+[1] "@3/3   ngroup=5, ncluster=5"
+[1] "root:Other:OLF IMN"
+[1] "@3/3   ngroup=7, ncluster=7"
+[1] "root:Other:OLF Frmd7 GABA"
+[1] "@3/3   ngroup=42, ncluster=42"
+[1] "root:Other:OLF Frmd7 IMN"
+[1] "@3/3   ngroup=1, ncluster=1"
+[1] "root:Other:CR Glut"
+[1] "@3/3   ngroup=3, ncluster=3"
+[1] "root:Other:OLF Trdn GABA"
+[1] "@3/3   ngroup=3, ncluster=3"
+[1] "root:Other:OLF Lmcd1 GABA"
+[1] "@3/3   ngroup=1, ncluster=1"
+[1] "root:Other:DG IMN"
+[1] "@3/3   ngroup=3, ncluster=3"
+[1] "root:Other:OPC NN"
+[1] "@3/3   ngroup=10, ncluster=10"
+[1] "root:Other:Oligo NN"
+[1] "@3/3   ngroup=31, ncluster=31"
+[1] "root:Other:Astro NN"
+[1] "@3/3   ngroup=20, ncluster=20"
+[1] "root:Other:ME Astro NN"
+[1] "@3/3   ngroup=3, ncluster=3"
+[1] "root:Other:Aqp1 NN"
+[1] "@3/3   ngroup=3, ncluster=3"
+[1] "root:Other:Ependymal NN"
+[1] "@3/3   ngroup=6, ncluster=6"
+[1] "root:Other:Endo NN"
+[1] "@3/3   ngroup=5, ncluster=5"
+[1] "root:Other:VLMC NN"
+[1] "@3/3   ngroup=13, ncluster=13"
+[1] "root:Other:SMC-Peri NN"
+[1] "@3/3   ngroup=6, ncluster=6"
+[1] "root:Other:Micro-PVM NN"
+[1] "@3/3   ngroup=8, ncluster=8"
+[1] "root:NP-CT-L6b"
+[1] "@2/3   ngroup=10, ncluster=52"
+NP PPP Glut NP SUB Glut 
+L5 NP CTX Glut NP PPP Glut 
+L5 NP CTX Glut NP SUB Glut 
+L5 NP CTX Glut L6b/CT ENT Glut 
+L5 NP CTX Glut L6 CT CTX Glut 
+L5 NP CTX Glut L6 CT CTXsp Glut 
+L5 NP CTX Glut L6b CTXsp Glut 
+L5 NP CTX Glut L6b CTX Glut 
+L5 NP CTX Glut L6b CTXsp/ENT Glut 
+CT SUB Glut NP PPP Glut 
+CT SUB Glut L5 NP CTX Glut 
+CT SUB Glut NP SUB Glut 
+CT SUB Glut L6b/CT ENT Glut 
+CT SUB Glut L6 CT CTX Glut 
+CT SUB Glut L6 CT CTXsp Glut 
+CT SUB Glut L6b CTXsp Glut 
+CT SUB Glut L6b CTX Glut 
+CT SUB Glut L6b CTXsp/ENT Glut 
+L6b/CT ENT Glut NP PPP Glut 
+L6b/CT ENT Glut NP SUB Glut 
+L6 CT CTX Glut NP PPP Glut 
+L6 CT CTX Glut NP SUB Glut 
+L6 CT CTX Glut L6b/CT ENT Glut 
+L6 CT CTX Glut L6 CT CTXsp Glut 
+L6 CT CTX Glut L6b CTXsp Glut 
+L6 CT CTX Glut L6b CTX Glut 
+L6 CT CTX Glut L6b CTXsp/ENT Glut 
+L6 CT CTXsp Glut NP PPP Glut 
+L6 CT CTXsp Glut NP SUB Glut 
+L6 CT CTXsp Glut L6b/CT ENT Glut 
+L6 CT CTXsp Glut L6b CTXsp Glut 
+L6 CT CTXsp Glut L6b CTX Glut 
+L6 CT CTXsp Glut L6b CTXsp/ENT Glut 
+L6b CTXsp Glut NP PPP Glut 
+L6b CTXsp Glut NP SUB Glut 
+L6b CTXsp Glut L6b/CT ENT Glut 
+L6b CTXsp Glut L6b CTXsp/ENT Glut 
+L6b CTX Glut NP PPP Glut 
+L6b CTX Glut NP SUB Glut 
+L6b CTX Glut L6b/CT ENT Glut 
+L6b CTX Glut L6b CTXsp Glut 
+L6b CTX Glut L6b CTXsp/ENT Glut 
+L6b CTXsp/ENT Glut NP PPP Glut 
+L6b CTXsp/ENT Glut NP SUB Glut 
+L6b CTXsp/ENT Glut L6b/CT ENT Glut 
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 Hcrtr2   1986
+2 Fbxl7    1984
+3 Vwc2l     998
+4 Camk2n2   997
+5 Cidea     997
+6 Cnksr3    997
+[1] "Hcrtr2"
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 Vwc2l     998
+2 Camk2n2   997
+3 Cnksr3    997
+4 Hs6st2    996
+5 Mtss1     995
+6 Parm1     995
+[1] "Vwc2l"
+# A tibble: 6 × 2
+  gene     score
+  <chr>    <dbl>
+1 Cnksr3     997
+2 Hs6st2     996
+3 Parm1      995
+4 Nrp1       994
+5 Cntnap5c   993
+6 Tmcc3      992
+[1] "Cnksr3"
+[1] "root:NP-CT-L6b:NP PPP Glut"
+[1] "@3/3   ngroup=2, ncluster=2"
+[1] "root:NP-CT-L6b:L5 NP CTX Glut"
+[1] "@3/3   ngroup=9, ncluster=9"
+[1] "root:NP-CT-L6b:NP SUB Glut"
+[1] "@3/3   ngroup=4, ncluster=4"
+[1] "root:NP-CT-L6b:CT SUB Glut"
+[1] "@3/3   ngroup=2, ncluster=2"
+[1] "root:NP-CT-L6b:L6b/CT ENT Glut"
+[1] "@3/3   ngroup=4, ncluster=4"
+[1] "root:NP-CT-L6b:L6 CT CTX Glut"
+[1] "@3/3   ngroup=15, ncluster=15"
+[1] "root:NP-CT-L6b:L6 CT CTXsp Glut"
+[1] "@3/3   ngroup=1, ncluster=1"
+[1] "root:NP-CT-L6b:L6b CTXsp Glut"
+[1] "@3/3   ngroup=2, ncluster=2"
+[1] "root:NP-CT-L6b:L6b CTX Glut"
+[1] "@3/3   ngroup=10, ncluster=10"
+[1] "root:NP-CT-L6b:L6b CTXsp/ENT Glut"
+[1] "@3/3   ngroup=3, ncluster=3"
+[1] "root:ET"
+[1] "@2/3   ngroup=6, ncluster=64"
+L5 PT CTX Glut SUB-ProS Glut 
+L5 PPP Glut L5 PT CTX Glut 
+L5 PPP Glut SUB-ProS Glut 
+CA1-ProS Glut L5 PT CTX Glut 
+CA1-ProS Glut L5 PPP Glut 
+CA1-ProS Glut SUB-ProS Glut 
+CA1-ProS Glut CA2 Glut 
+CA1-ProS Glut CA3 Glut 
+CA2 Glut L5 PT CTX Glut 
+CA2 Glut L5 PPP Glut 
+CA2 Glut SUB-ProS Glut 
+CA2 Glut CA3 Glut 
+CA3 Glut L5 PT CTX Glut 
+CA3 Glut L5 PPP Glut 
+CA3 Glut SUB-ProS Glut 
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 Tm4sf1    999
+2 Fam198b   998
+3 Cpne9     996
+4 Myo1b     995
+5 Cdh13     994
+6 Rgs12     993
+[1] "Tm4sf1"
+[1] "root:ET:L5 PT CTX Glut"
+[1] "@3/3   ngroup=20, ncluster=20"
+[1] "root:ET:L5 PPP Glut"
+[1] "@3/3   ngroup=1, ncluster=1"
+[1] "root:ET:SUB-ProS Glut"
+[1] "@3/3   ngroup=9, ncluster=9"
+[1] "root:ET:CA1-ProS Glut"
+[1] "@3/3   ngroup=21, ncluster=21"
+[1] "root:ET:CA2 Glut"
+[1] "@3/3   ngroup=2, ncluster=2"
+[1] "root:ET:CA3 Glut"
+[1] "@3/3   ngroup=11, ncluster=11"
+[1] "root:OLF-CTXsp-sAMY"
+[1] "@2/3   ngroup=14, ncluster=135"
+OLF Grp Glut OLF/CTXsp Tfap2d Glut 
+OLF Grp Glut OLF Grxcr2 Glut 
+OLF Grp Glut OLF Ly6g6e Glut 
+OLF Grp Glut OLF IT St18 Glut 
+OLF Grp Glut OLF Rho Glut 
+OLF Grp Glut OLF IT Ebf2 Glut 
+OLF Grp Glut sAMY/PAL/CTXsp Col12a1 Glut 
+OLF Grp Glut sAMY/PAL Barhl2 Glut 
+OLF Grp Glut sAMY/PAL Otp Glut 
+OLF Grp Glut sAMY/PAL/CTXsp Ccdc42 Glut 
+OLF/CTXsp Tfap2d Glut sAMY/PAL/CTXsp Col12a1 Glut 
+OLF/CTXsp Tfap2d Glut sAMY/PAL Barhl2 Glut 
+OLF/CTXsp Tfap2d Glut sAMY/PAL Otp Glut 
+OLF/CTXsp Tfap2d Glut sAMY/PAL/CTXsp Ccdc42 Glut 
+OLF Grxcr2 Glut OLF/CTXsp Tfap2d Glut 
+OLF Grxcr2 Glut OLF Ly6g6e Glut 
+OLF Grxcr2 Glut OLF IT St18 Glut 
+OLF Grxcr2 Glut OLF Rho Glut 
+OLF Grxcr2 Glut OLF IT Ebf2 Glut 
+OLF Grxcr2 Glut sAMY/PAL/CTXsp Col12a1 Glut 
+OLF Grxcr2 Glut sAMY/PAL Barhl2 Glut 
+OLF Grxcr2 Glut sAMY/PAL Otp Glut 
+OLF Grxcr2 Glut sAMY/PAL/CTXsp Ccdc42 Glut 
+CTXsp/sAMY Dcn Glut OLF Grp Glut 
+CTXsp/sAMY Dcn Glut OLF/CTXsp Tfap2d Glut 
+CTXsp/sAMY Dcn Glut OLF Grxcr2 Glut 
+CTXsp/sAMY Dcn Glut CTXsp/sAMY/OLF Ecm2 Glut 
+CTXsp/sAMY Dcn Glut OLF Ly6g6e Glut 
+CTXsp/sAMY Dcn Glut OLF IT St18 Glut 
+CTXsp/sAMY Dcn Glut OLF Rho Glut 
+CTXsp/sAMY Dcn Glut OLF IT Ebf2 Glut 
+CTXsp/sAMY Dcn Glut sAMY/PAL/CTXsp Col12a1 Glut 
+CTXsp/sAMY Dcn Glut sAMY/PAL Barhl2 Glut 
+CTXsp/sAMY Dcn Glut sAMY/PAL Otp Glut 
+CTXsp/sAMY Dcn Glut sAMY/PAL/CTXsp Ccdc42 Glut 
+CTXsp/sAMY/OLF Ecm2 Glut OLF Grp Glut 
+CTXsp/sAMY/OLF Ecm2 Glut OLF/CTXsp Tfap2d Glut 
+CTXsp/sAMY/OLF Ecm2 Glut OLF Grxcr2 Glut 
+CTXsp/sAMY/OLF Ecm2 Glut OLF Ly6g6e Glut 
+CTXsp/sAMY/OLF Ecm2 Glut OLF IT St18 Glut 
+CTXsp/sAMY/OLF Ecm2 Glut OLF Rho Glut 
+CTXsp/sAMY/OLF Ecm2 Glut OLF IT Ebf2 Glut 
+CTXsp/sAMY/OLF Ecm2 Glut sAMY/PAL/CTXsp Col12a1 Glut 
+CTXsp/sAMY/OLF Ecm2 Glut sAMY/PAL Barhl2 Glut 
+CTXsp/sAMY/OLF Ecm2 Glut sAMY/PAL Otp Glut 
+CTXsp/sAMY/OLF Ecm2 Glut sAMY/PAL/CTXsp Ccdc42 Glut 
+CTXsp/sAMY Cyp26b1 Glut OLF Grp Glut 
+CTXsp/sAMY Cyp26b1 Glut OLF/CTXsp Tfap2d Glut 
+CTXsp/sAMY Cyp26b1 Glut OLF Grxcr2 Glut 
+CTXsp/sAMY Cyp26b1 Glut CTXsp/sAMY Dcn Glut 
+CTXsp/sAMY Cyp26b1 Glut CTXsp/sAMY/OLF Ecm2 Glut 
+CTXsp/sAMY Cyp26b1 Glut OLF Ly6g6e Glut 
+CTXsp/sAMY Cyp26b1 Glut OLF IT St18 Glut 
+CTXsp/sAMY Cyp26b1 Glut OLF Rho Glut 
+CTXsp/sAMY Cyp26b1 Glut OLF IT Ebf2 Glut 
+CTXsp/sAMY Cyp26b1 Glut sAMY/PAL/CTXsp Col12a1 Glut 
+CTXsp/sAMY Cyp26b1 Glut sAMY/PAL Barhl2 Glut 
+CTXsp/sAMY Cyp26b1 Glut sAMY/PAL Otp Glut 
+CTXsp/sAMY Cyp26b1 Glut sAMY/PAL/CTXsp Ccdc42 Glut 
+OLF Ly6g6e Glut OLF/CTXsp Tfap2d Glut 
+OLF Ly6g6e Glut OLF Rho Glut 
+OLF Ly6g6e Glut sAMY/PAL/CTXsp Col12a1 Glut 
+OLF Ly6g6e Glut sAMY/PAL Barhl2 Glut 
+OLF Ly6g6e Glut sAMY/PAL Otp Glut 
+OLF Ly6g6e Glut sAMY/PAL/CTXsp Ccdc42 Glut 
+OLF IT St18 Glut OLF/CTXsp Tfap2d Glut 
+OLF IT St18 Glut OLF Ly6g6e Glut 
+OLF IT St18 Glut OLF Rho Glut 
+OLF IT St18 Glut sAMY/PAL/CTXsp Col12a1 Glut 
+OLF IT St18 Glut sAMY/PAL Barhl2 Glut 
+OLF IT St18 Glut sAMY/PAL Otp Glut 
+OLF IT St18 Glut sAMY/PAL/CTXsp Ccdc42 Glut 
+OLF Rho Glut OLF/CTXsp Tfap2d Glut 
+OLF Rho Glut sAMY/PAL/CTXsp Col12a1 Glut 
+OLF Rho Glut sAMY/PAL Barhl2 Glut 
+OLF Rho Glut sAMY/PAL Otp Glut 
+OLF Rho Glut sAMY/PAL/CTXsp Ccdc42 Glut 
+OLF IT Ebf2 Glut OLF/CTXsp Tfap2d Glut 
+OLF IT Ebf2 Glut OLF Ly6g6e Glut 
+OLF IT Ebf2 Glut OLF IT St18 Glut 
+OLF IT Ebf2 Glut OLF Rho Glut 
+OLF IT Ebf2 Glut sAMY/PAL/CTXsp Col12a1 Glut 
+OLF IT Ebf2 Glut sAMY/PAL Barhl2 Glut 
+OLF IT Ebf2 Glut sAMY/PAL Otp Glut 
+OLF IT Ebf2 Glut sAMY/PAL/CTXsp Ccdc42 Glut 
+sAMY/PAL Barhl2 Glut sAMY/PAL/CTXsp Col12a1 Glut 
+sAMY/PAL Barhl2 Glut sAMY/PAL Otp Glut 
+sAMY/PAL Barhl2 Glut sAMY/PAL/CTXsp Ccdc42 Glut 
+sAMY/PAL Otp Glut sAMY/PAL/CTXsp Col12a1 Glut 
+sAMY/PAL Otp Glut sAMY/PAL/CTXsp Ccdc42 Glut 
+sAMY/PAL/CTXsp Ccdc42 Glut sAMY/PAL/CTXsp Col12a1 Glut 
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Gpr88   1974
+2 Gfra1   1966
+3 Blnk     999
+4 H2-Q2    999
+5 Hcrtr2   998
+6 Medag    998
+[1] "Gpr88"
+# A tibble: 6 × 2
+  gene          score
+  <chr>         <dbl>
+1 Gfra1          1966
+2 H2-Q2           999
+3 Hcrtr2          998
+4 Medag           998
+5 Cdh20           997
+6 E130114P18Rik   997
+[1] "Gfra1"
+# A tibble: 6 × 2
+  gene          score
+  <chr>         <dbl>
+1 Hcrtr2          998
+2 Cdh20           997
+3 E130114P18Rik   997
+4 Marcksl1        997
+5 Otof            997
+6 Rab3b           997
+[1] "Hcrtr2"
+# A tibble: 6 × 2
+  gene          score
+  <chr>         <dbl>
+1 Cdh20           997
+2 E130114P18Rik   997
+3 Marcksl1        997
+4 Otof            997
+5 Rab3b           997
+6 Ano10           996
+[1] "Cdh20"
+# A tibble: 6 × 2
+  gene          score
+  <chr>         <dbl>
+1 E130114P18Rik   997
+2 Marcksl1        997
+3 Otof            997
+4 Rab3b           997
+5 Ano10           996
+6 Fat4            996
+[1] "E130114P18Rik"
+# A tibble: 6 × 2
+  gene     score
+  <chr>    <dbl>
+1 Marcksl1   997
+2 Otof       997
+3 Rab3b      997
+4 Fat4       996
+5 Galnt14    996
+6 Samd5      996
+[1] "Marcksl1"
+# A tibble: 6 × 2
+  gene          score
+  <chr>         <dbl>
+1 Otof            997
+2 Rab3b           997
+3 Galnt14         996
+4 Samd5           996
+5 1700018A04Rik   995
+6 Airn            994
+[1] "Otof"
+# A tibble: 6 × 2
+  gene          score
+  <chr>         <dbl>
+1 Rab3b           997
+2 Galnt14         996
+3 1700018A04Rik   995
+4 Airn            994
+5 Cryab           993
+6 Egln3           992
+[1] "Rab3b"
+[1] "root:OLF-CTXsp-sAMY:OLF Grp Glut"
+[1] "@3/3   ngroup=2, ncluster=2"
+[1] "root:OLF-CTXsp-sAMY:OLF/CTXsp Tfap2d Glut"
+[1] "@3/3   ngroup=8, ncluster=8"
+[1] "root:OLF-CTXsp-sAMY:OLF Grxcr2 Glut"
+[1] "@3/3   ngroup=4, ncluster=4"
+[1] "root:OLF-CTXsp-sAMY:CTXsp/sAMY Dcn Glut"
+[1] "@3/3   ngroup=24, ncluster=24"
+[1] "root:OLF-CTXsp-sAMY:CTXsp/sAMY/OLF Ecm2 Glut"
+[1] "@3/3   ngroup=10, ncluster=10"
+[1] "root:OLF-CTXsp-sAMY:CTXsp/sAMY Cyp26b1 Glut"
+[1] "@3/3   ngroup=13, ncluster=13"
+[1] "root:OLF-CTXsp-sAMY:OLF Ly6g6e Glut"
+[1] "@3/3   ngroup=9, ncluster=9"
+[1] "root:OLF-CTXsp-sAMY:OLF IT St18 Glut"
+[1] "@3/3   ngroup=1, ncluster=1"
+[1] "root:OLF-CTXsp-sAMY:OLF Rho Glut"
+[1] "@3/3   ngroup=1, ncluster=1"
+[1] "root:OLF-CTXsp-sAMY:OLF IT Ebf2 Glut"
+[1] "@3/3   ngroup=1, ncluster=1"
+[1] "root:OLF-CTXsp-sAMY:sAMY/PAL/CTXsp Col12a1 Glut"
+[1] "@3/3   ngroup=9, ncluster=9"
+[1] "root:OLF-CTXsp-sAMY:sAMY/PAL Barhl2 Glut"
+[1] "@3/3   ngroup=26, ncluster=26"
+[1] "root:OLF-CTXsp-sAMY:sAMY/PAL Otp Glut"
+[1] "@3/3   ngroup=14, ncluster=14"
+[1] "root:OLF-CTXsp-sAMY:sAMY/PAL/CTXsp Ccdc42 Glut"
+[1] "@3/3   ngroup=13, ncluster=13"
+[1] "root:IT"
+[1] "@2/3   ngroup=17, ncluster=134"
+L2/3 IT ENTl/PIR Endou Glut OLF IT Blnk Glut 
+L2/3 IT ENTl/PIR Endou Glut OLF IT Trim54 Glut 
+L2/3 IT ENTl/PIR Endou Glut OLF IT Lnp1 Glut 
+L2/3 IT ENTl/PIR Endou Glut L3 IT ENT Glut 
+L2/3 IT ENTl/PIR Endou Glut L5 IT TPE-ENT Glut 
+L2/3 IT ENTl/PIR Endou Glut L6 IT CTX Glut 
+L2/3 IT ENTl/PIR Endou Glut L2/3 IT PPP Glut 
+L2/3 IT ENTl/PIR Endou Glut L4/5 IT CTX Glut 
+L2/3 IT ENTl/PIR Endou Glut L5 IT CTX Glut 
+OLF IT Blnk Glut OLF IT Trim54 Glut 
+OLF IT Blnk Glut OLF IT Lnp1 Glut 
+OLF IT Lnp1 Glut OLF IT Trim54 Glut 
+L2 IT ENTm Glut L2/3 IT ENTl/PIR Endou Glut 
+L2 IT ENTm Glut OLF IT Blnk Glut 
+L2 IT ENTm Glut OLF IT Trim54 Glut 
+L2 IT ENTm Glut OLF IT Lnp1 Glut 
+L2 IT ENTm Glut L2/3 IT CTX Glut 
+L2 IT ENTm Glut L3 IT ENT Glut 
+L2 IT ENTm Glut L2 IT HATA Glut 
+L2 IT ENTm Glut L5 IT TPE-ENT Glut 
+L2 IT ENTm Glut L6 IT CTX Glut 
+L2 IT ENTm Glut L2/3 IT PPP Glut 
+L2 IT ENTm Glut L4/5 IT CTX Glut 
+L2 IT ENTm Glut L5 IT CTX Glut 
+L2 IT ENTm Glut L2 IT ProS Glut 
+L2/3 IT CTX Glut L2/3 IT ENTl/PIR Endou Glut 
+L2/3 IT CTX Glut OLF IT Blnk Glut 
+L2/3 IT CTX Glut OLF IT Trim54 Glut 
+L2/3 IT CTX Glut OLF IT Lnp1 Glut 
+L2/3 IT CTX Glut L3 IT ENT Glut 
+L2/3 IT CTX Glut L5 IT TPE-ENT Glut 
+L2/3 IT CTX Glut L6 IT CTX Glut 
+L2/3 IT CTX Glut L2/3 IT PPP Glut 
+L2/3 IT CTX Glut L4/5 IT CTX Glut 
+L2/3 IT CTX Glut L5 IT CTX Glut 
+L3 IT ENT Glut OLF IT Blnk Glut 
+L3 IT ENT Glut OLF IT Trim54 Glut 
+L3 IT ENT Glut OLF IT Lnp1 Glut 
+L3 IT ENT Glut L5 IT TPE-ENT Glut 
+L3 IT ENT Glut L6 IT CTX Glut 
+L3 IT ENT Glut L4/5 IT CTX Glut 
+L3 IT ENT Glut L5 IT CTX Glut 
+L2 IT ENTl Glut L2/3 IT ENTl/PIR Endou Glut 
+L2 IT ENTl Glut OLF IT Blnk Glut 
+L2 IT ENTl Glut OLF IT Trim54 Glut 
+L2 IT ENTl Glut OLF IT Lnp1 Glut 
+L2 IT ENTl Glut L2 IT ENTm Glut 
+L2 IT ENTl Glut L2/3 IT CTX Glut 
+L2 IT ENTl Glut L3 IT ENT Glut 
+L2 IT ENTl Glut L2 IT HATA Glut 
+L2 IT ENTl Glut L5 IT TPE-ENT Glut 
+L2 IT ENTl Glut L6 IT CTX Glut 
+L2 IT ENTl Glut L2/3 IT PPP Glut 
+L2 IT ENTl Glut L4/5 IT CTX Glut 
+L2 IT ENTl Glut L5 IT CTX Glut 
+L2 IT ENTl Glut L2 IT ProS Glut 
+L2 IT HATA Glut L2/3 IT ENTl/PIR Endou Glut 
+L2 IT HATA Glut OLF IT Blnk Glut 
+L2 IT HATA Glut OLF IT Trim54 Glut 
+L2 IT HATA Glut OLF IT Lnp1 Glut 
+L2 IT HATA Glut L2/3 IT CTX Glut 
+L2 IT HATA Glut L3 IT ENT Glut 
+L2 IT HATA Glut L5 IT TPE-ENT Glut 
+L2 IT HATA Glut L6 IT CTX Glut 
+L2 IT HATA Glut L2/3 IT PPP Glut 
+L2 IT HATA Glut L4/5 IT CTX Glut 
+L2 IT HATA Glut L5 IT CTX Glut 
+L2 IT HATA Glut L2 IT ProS Glut 
+L5 IT TPE-ENT Glut OLF IT Blnk Glut 
+L5 IT TPE-ENT Glut OLF IT Trim54 Glut 
+L5 IT TPE-ENT Glut OLF IT Lnp1 Glut 
+L5 IT TPE-ENT Glut L6 IT CTX Glut 
+L6 IT CTX Glut OLF IT Blnk Glut 
+L6 IT CTX Glut OLF IT Trim54 Glut 
+L6 IT CTX Glut OLF IT Lnp1 Glut 
+CTXsp/sAMY Osr1 Glut L2/3 IT ENTl/PIR Endou Glut 
+CTXsp/sAMY Osr1 Glut OLF IT Blnk Glut 
+CTXsp/sAMY Osr1 Glut OLF IT Trim54 Glut 
+CTXsp/sAMY Osr1 Glut OLF IT Lnp1 Glut 
+CTXsp/sAMY Osr1 Glut L2 IT ENTm Glut 
+CTXsp/sAMY Osr1 Glut L2/3 IT CTX Glut 
+CTXsp/sAMY Osr1 Glut L3 IT ENT Glut 
+CTXsp/sAMY Osr1 Glut L2 IT ENTl Glut 
+CTXsp/sAMY Osr1 Glut L2 IT HATA Glut 
+CTXsp/sAMY Osr1 Glut L5 IT TPE-ENT Glut 
+CTXsp/sAMY Osr1 Glut L6 IT CTX Glut 
+CTXsp/sAMY Osr1 Glut L2/3 IT PPP Glut 
+CTXsp/sAMY Osr1 Glut L4/5 IT CTX Glut 
+CTXsp/sAMY Osr1 Glut L5 IT CTX Glut 
+CTXsp/sAMY Osr1 Glut L2 IT ProS Glut 
+CTXsp/sAMY Abca8a Glut L2/3 IT ENTl/PIR Endou Glut 
+CTXsp/sAMY Abca8a Glut OLF IT Blnk Glut 
+CTXsp/sAMY Abca8a Glut OLF IT Trim54 Glut 
+CTXsp/sAMY Abca8a Glut OLF IT Lnp1 Glut 
+CTXsp/sAMY Abca8a Glut L2 IT ENTm Glut 
+CTXsp/sAMY Abca8a Glut L2/3 IT CTX Glut 
+CTXsp/sAMY Abca8a Glut L3 IT ENT Glut 
+CTXsp/sAMY Abca8a Glut L2 IT ENTl Glut 
+CTXsp/sAMY Abca8a Glut L2 IT HATA Glut 
+CTXsp/sAMY Abca8a Glut L5 IT TPE-ENT Glut 
+CTXsp/sAMY Abca8a Glut L6 IT CTX Glut 
+CTXsp/sAMY Abca8a Glut CTXsp/sAMY Osr1 Glut 
+CTXsp/sAMY Abca8a Glut L2/3 IT PPP Glut 
+CTXsp/sAMY Abca8a Glut L4/5 IT CTX Glut 
+CTXsp/sAMY Abca8a Glut L5 IT CTX Glut 
+CTXsp/sAMY Abca8a Glut L2 IT ProS Glut 
+L2/3 IT PPP Glut OLF IT Blnk Glut 
+L2/3 IT PPP Glut OLF IT Trim54 Glut 
+L2/3 IT PPP Glut OLF IT Lnp1 Glut 
+L2/3 IT PPP Glut L3 IT ENT Glut 
+L2/3 IT PPP Glut L5 IT TPE-ENT Glut 
+L2/3 IT PPP Glut L6 IT CTX Glut 
+L2/3 IT PPP Glut L4/5 IT CTX Glut 
+L2/3 IT PPP Glut L5 IT CTX Glut 
+L4/5 IT CTX Glut OLF IT Blnk Glut 
+L4/5 IT CTX Glut OLF IT Trim54 Glut 
+L4/5 IT CTX Glut OLF IT Lnp1 Glut 
+L4/5 IT CTX Glut L5 IT TPE-ENT Glut 
+L4/5 IT CTX Glut L6 IT CTX Glut 
+L4/5 IT CTX Glut L5 IT CTX Glut 
+L5 IT CTX Glut OLF IT Blnk Glut 
+L5 IT CTX Glut OLF IT Trim54 Glut 
+L5 IT CTX Glut OLF IT Lnp1 Glut 
+L5 IT CTX Glut L5 IT TPE-ENT Glut 
+L5 IT CTX Glut L6 IT CTX Glut 
+L2 IT ProS Glut L2/3 IT ENTl/PIR Endou Glut 
+L2 IT ProS Glut OLF IT Blnk Glut 
+L2 IT ProS Glut OLF IT Trim54 Glut 
+L2 IT ProS Glut OLF IT Lnp1 Glut 
+L2 IT ProS Glut L2/3 IT CTX Glut 
+L2 IT ProS Glut L3 IT ENT Glut 
+L2 IT ProS Glut L5 IT TPE-ENT Glut 
+L2 IT ProS Glut L6 IT CTX Glut 
+L2 IT ProS Glut L2/3 IT PPP Glut 
+L2 IT ProS Glut L4/5 IT CTX Glut 
+L2 IT ProS Glut L5 IT CTX Glut 
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 Evc2     2988
+2 Adamts2  1995
+3 Kitl     1983
+4 Pik3ip1  1982
+5 Wnt4     1978
+6 Kcnip1   1976
+[1] "Evc2"
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 Adamts2  1995
+2 Kitl     1983
+3 Pik3ip1  1982
+4 Wnt4     1978
+5 Kcnip1   1976
+6 Fam13a   1971
+[1] "Adamts2"
+# A tibble: 6 × 2
+  gene     score
+  <chr>    <dbl>
+1 Kitl      1983
+2 Pappa      999
+3 Syt17      999
+4 Cadps2     998
+5 Chrdl1     998
+6 Cacna2d2   997
+[1] "Kitl"
+# A tibble: 6 × 2
+  gene     score
+  <chr>    <dbl>
+1 Pappa      999
+2 Cadps2     998
+3 Chrdl1     998
+4 Cacna2d2   997
+5 Cartpt     997
+6 Dpp4       997
+[1] "Pappa"
+# A tibble: 6 × 2
+  gene     score
+  <chr>    <dbl>
+1 Cadps2     998
+2 Chrdl1     998
+3 Cacna2d2   997
+4 Dpp4       997
+5 Fgf10      997
+6 Scn4b      997
+[1] "Cadps2"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Chrdl1   998
+2 Dpp4     997
+3 Fgf10    997
+4 Scn4b    997
+5 Cdh6     996
+6 Met      996
+[1] "Chrdl1"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Dpp4     997
+2 Fgf10    997
+3 Scn4b    997
+4 Cdh6     996
+5 Met      996
+6 Sema5b   996
+[1] "Dpp4"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Fgf10    997
+2 Scn4b    997
+3 Cdh6     996
+4 Sema5b   996
+5 C77080   995
+6 Steap2   995
+[1] "Fgf10"
+# A tibble: 3 × 2
+  gene   score
+  <chr>  <dbl>
+1 Scn4b    997
+2 Cdh6     996
+3 C77080   995
+[1] "Scn4b"
+[1] "root:IT:L2/3 IT ENTl/PIR Endou Glut"
+[1] "@3/3   ngroup=6, ncluster=6"
+[1] "root:IT:OLF IT Blnk Glut"
+[1] "@3/3   ngroup=5, ncluster=5"
+[1] "root:IT:OLF IT Trim54 Glut"
+[1] "@3/3   ngroup=3, ncluster=3"
+[1] "root:IT:OLF IT Lnp1 Glut"
+[1] "@3/3   ngroup=4, ncluster=4"
+[1] "root:IT:L2 IT ENTm Glut"
+[1] "@3/3   ngroup=4, ncluster=4"
+[1] "root:IT:L2/3 IT CTX Glut"
+[1] "@3/3   ngroup=7, ncluster=7"
+[1] "root:IT:L3 IT ENT Glut"
+[1] "@3/3   ngroup=11, ncluster=11"
+[1] "root:IT:L2 IT ENTl Glut"
+[1] "@3/3   ngroup=5, ncluster=5"
+[1] "root:IT:L2 IT HATA Glut"
+[1] "@3/3   ngroup=3, ncluster=3"
+[1] "root:IT:L5 IT TPE-ENT Glut"
+[1] "@3/3   ngroup=5, ncluster=5"
+[1] "root:IT:L6 IT CTX Glut"
+[1] "@3/3   ngroup=14, ncluster=14"
+[1] "root:IT:CTXsp/sAMY Osr1 Glut"
+[1] "@3/3   ngroup=13, ncluster=13"
+[1] "root:IT:CTXsp/sAMY Abca8a Glut"
+[1] "@3/3   ngroup=2, ncluster=2"
+[1] "root:IT:L2/3 IT PPP Glut"
+[1] "@3/3   ngroup=22, ncluster=22"
+[1] "root:IT:L4/5 IT CTX Glut"
+[1] "@3/3   ngroup=21, ncluster=21"
+[1] "root:IT:L5 IT CTX Glut"
+[1] "@3/3   ngroup=8, ncluster=8"
+[1] "root:IT:L2 IT ProS Glut"
+[1] "@3/3   ngroup=1, ncluster=1"
+[1] "root:Car3"
+[1] "@2/3   ngroup=1, ncluster=10"
+[1] "root:Car3:Car3 Glut"
+[1] "@3/3   ngroup=10, ncluster=10"
+[1] "root:CGE"
+[1] "@2/3   ngroup=6, ncluster=64"
+OLF Htr3a GABA Vip GABA 
+OLF Htr3a GABA Sncg GABA 
+OLF Htr3a GABA RHP/OLF/sAMY Ndnf GABA 
+Lamp5 GABA OLF Htr3a GABA 
+Lamp5 GABA Vip GABA 
+Lamp5 GABA Sncg GABA 
+Lamp5 GABA RHP/OLF/sAMY Ndnf GABA 
+Lamp5 GABA Lamp5 Lhx6 GABA 
+Sncg GABA Vip GABA 
+RHP/OLF/sAMY Ndnf GABA Vip GABA 
+RHP/OLF/sAMY Ndnf GABA Sncg GABA 
+Lamp5 Lhx6 GABA OLF Htr3a GABA 
+Lamp5 Lhx6 GABA Vip GABA 
+Lamp5 Lhx6 GABA Sncg GABA 
+Lamp5 Lhx6 GABA RHP/OLF/sAMY Ndnf GABA 
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Crh     2997
+2 Kit     2984
+3 Syt7    2949
+4 Cobll1  1995
+5 Penk    1988
+6 Egfr    1987
+[1] "Crh"
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 Kit      1992
+2 Jam2     1987
+3 Unc5b    1986
+4 Kirrel3  1981
+5 Sncg     1978
+6 Megf10   1973
+[1] "Kit"
+# A tibble: 6 × 2
+  gene       score
+  <chr>      <dbl>
+1 Egfr         999
+2 Cd24a        998
+3 Rtn4rl1      997
+4 St6galnac5   997
+5 Baiap3       996
+6 Cdh8         996
+[1] "Egfr"
+# A tibble: 6 × 2
+  gene       score
+  <chr>      <dbl>
+1 Rtn4rl1      997
+2 St6galnac5   997
+3 Baiap3       996
+4 Chn2         996
+5 Fbln7        995
+6 Cybrd1       994
+[1] "Rtn4rl1"
+# A tibble: 2 × 2
+  gene       score
+  <chr>      <dbl>
+1 St6galnac5   997
+2 Baiap3       996
+[1] "St6galnac5"
+[1] "root:CGE:OLF Htr3a GABA"
+[1] "@3/3   ngroup=2, ncluster=2"
+[1] "root:CGE:Vip GABA"
+[1] "@3/3   ngroup=24, ncluster=24"
+[1] "root:CGE:Lamp5 GABA"
+[1] "@3/3   ngroup=10, ncluster=10"
+[1] "root:CGE:Sncg GABA"
+[1] "@3/3   ngroup=19, ncluster=19"
+[1] "root:CGE:RHP/OLF/sAMY Ndnf GABA"
+[1] "@3/3   ngroup=3, ncluster=3"
+[1] "root:CGE:Lamp5 Lhx6 GABA"
+[1] "@3/3   ngroup=6, ncluster=6"
+[1] "root:MGE"
+[1] "@2/3   ngroup=5, ncluster=87"
+Prox1 Lhx6 GABA Sst GABA 
+Prox1 Lhx6 GABA Sst Lhx8 GABA 
+Prox1 Lhx6 GABA Pvalb GABA 
+Prox1 Lhx6 GABA Sst Chodl GABA 
+Sst GABA Sst Lhx8 GABA 
+Pvalb GABA Sst GABA 
+Pvalb GABA Sst Lhx8 GABA 
+Pvalb GABA Sst Chodl GABA 
+Sst Chodl GABA Sst GABA 
+Sst Chodl GABA Sst Lhx8 GABA 
+# A tibble: 6 × 2
+  gene  score
+  <chr> <dbl>
+1 Nfix   2978
+2 Crh    1996
+3 Penk   1988
+4 Gabrd  1987
+5 Gpd1   1982
+6 Padi2  1982
+[1] "Nfix"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Crh     1996
+2 Npas1    998
+3 Pnoc     998
+4 Barx2    997
+5 Htr4     997
+6 Osbpl3   997
+[1] "Crh"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Pnoc     998
+2 Htr4     997
+3 Osbpl3   997
+4 Pamr1    997
+5 Pde11a   997
+6 Slit2    996
+[1] "Pnoc"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Htr4     997
+2 Osbpl3   997
+3 Pde11a   997
+4 Slit2    996
+5 Spag17   996
+6 Gpr139   995
+[1] "Htr4"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Osbpl3   997
+2 Pde11a   997
+3 Slit2    996
+4 Spag17   996
+5 Gpr139   995
+6 Plk2     995
+[1] "Osbpl3"
+# A tibble: 6 × 2
+  gene          score
+  <chr>         <dbl>
+1 Pde11a          997
+2 Spag17          996
+3 Gpr139          995
+4 Stk32b          994
+5 Kcnab3          993
+6 A830082K12Rik   992
+[1] "Pde11a"
+[1] "root:MGE:Prox1 Lhx6 GABA"
+[1] "@3/3   ngroup=6, ncluster=6"
+[1] "root:MGE:Sst GABA"
+[1] "@3/3   ngroup=43, ncluster=43"
+[1] "root:MGE:Sst Lhx8 GABA"
+[1] "@3/3   ngroup=5, ncluster=5"
+[1] "root:MGE:Pvalb GABA"
+[1] "@3/3   ngroup=18, ncluster=18"
+[1] "root:MGE:Sst Chodl GABA"
+[1] "@3/3   ngroup=15, ncluster=15"
+[1] "root:LSX"
+[1] "@2/3   ngroup=6, ncluster=167"
+LSX Otx2 GABA LSX Prdm12 GABA 
+LSX Otx2 GABA LSX Sall3 GABA 
+LSX Prdm12 GABA LSX Sall3 GABA 
+LSX Nkx2-1 GABA LSX Otx2 GABA 
+LSX Nkx2-1 GABA LSX Prdm12 GABA 
+LSX Nkx2-1 GABA LSX Sall3 GABA 
+LSX Lhx8 GABA LSX Otx2 GABA 
+LSX Lhx8 GABA LSX Prdm12 GABA 
+LSX Lhx8 GABA LSX Nkx2-1 GABA 
+LSX Lhx8 GABA LSX Sall3 GABA 
+LSX Chat GABA LSX Otx2 GABA 
+LSX Chat GABA LSX Prdm12 GABA 
+LSX Chat GABA LSX Nkx2-1 GABA 
+LSX Chat GABA LSX Sall3 GABA 
+LSX Chat GABA LSX Lhx8 GABA 
+# A tibble: 6 × 2
+  gene          score
+  <chr>         <dbl>
+1 Cdh13          1994
+2 1810041L15Rik   997
+3 Dlx1            997
+4 Itgb8           997
+5 Kazn            997
+6 Pou3f3          997
+[1] "Cdh13"
+# A tibble: 6 × 2
+  gene          score
+  <chr>         <dbl>
+1 1810041L15Rik   997
+2 Dlx1            997
+3 Itgb8           997
+4 Kazn            997
+5 Pou3f3          997
+6 Shisa6          997
+[1] "1810041L15Rik"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Dlx1     997
+2 Itgb8    997
+3 Kazn     997
+4 Pou3f3   997
+5 Shisa6   997
+6 Sphkap   997
+[1] "Dlx1"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Itgb8    997
+2 Kazn     997
+3 Pou3f3   997
+4 Shisa6   997
+5 Sphkap   997
+6 Pantr1   996
+[1] "Itgb8"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Kazn     997
+2 Pou3f3   997
+3 Shisa6   997
+4 Sphkap   997
+5 Pantr1   996
+6 Sema6a   995
+[1] "Kazn"
+# A tibble: 5 × 2
+  gene   score
+  <chr>  <dbl>
+1 Pou3f3   997
+2 Shisa6   997
+3 Sphkap   997
+4 Pantr1   996
+5 Sema6a   995
+[1] "Pou3f3"
+# A tibble: 2 × 2
+  gene   score
+  <chr>  <dbl>
+1 Shisa6   997
+2 Sphkap   997
+[1] "Shisa6"
+# A tibble: 1 × 2
+  gene   score
+  <chr>  <dbl>
+1 Sphkap   997
+[1] "Sphkap"
+[1] "root:LSX:LSX Otx2 GABA"
+[1] "@3/3   ngroup=23, ncluster=23"
+[1] "root:LSX:LSX Prdm12 GABA"
+[1] "@3/3   ngroup=98, ncluster=98"
+[1] "root:LSX:LSX Nkx2-1 GABA"
+[1] "@3/3   ngroup=11, ncluster=11"
+[1] "root:LSX:LSX Sall3 GABA"
+[1] "@3/3   ngroup=28, ncluster=28"
+[1] "root:LSX:LSX Lhx8 GABA"
+[1] "@3/3   ngroup=2, ncluster=2"
+[1] "root:LSX:LSX Chat GABA"
+[1] "@3/3   ngroup=5, ncluster=5"
+[1] "root:sAMY-PAL"
+[1] "@2/3   ngroup=16, ncluster=312"
+LSX Six3 GABA PAL Avp GABA 
+LSX Six3 GABA PAL/sAMY Sox6 Cyp26b1 GABA 
+LSX Six3 GABA sAMY/PAL/OLF Prox1 GABA 
+LSX Six3 GABA PAL/sAMY Htr3a GABA 
+LSX Six3 GABA PAL/sAMY Six3 Cyp26b1 GABA 
+LSX Six3 GABA sAMY/PAL Six3 Lamp5 GABA 
+LSX Six3 GABA sAMY Ebf1 GABA 
+LSX Six3 GABA sAMY/PAL Ebf1 GABA 
+LSX Six3 GABA sAMY/PAL Six3 Meis2 GABA 
+LSX Six3 GABA PAL/sAMY Crh GABA 
+LSX Six3 GABA sAMY/PAL/HY Lhx8 GABA 
+PAL Avp GABA PAL/sAMY Sox6 Cyp26b1 GABA 
+PAL Avp GABA sAMY/PAL/OLF Prox1 GABA 
+PAL Avp GABA PAL/sAMY Htr3a GABA 
+PAL Avp GABA PAL/sAMY Six3 Cyp26b1 GABA 
+PAL Avp GABA sAMY/PAL Six3 Lamp5 GABA 
+PAL Avp GABA sAMY Ebf1 GABA 
+PAL Avp GABA sAMY/PAL Ebf1 GABA 
+PAL Avp GABA sAMY/PAL Six3 Meis2 GABA 
+PAL Avp GABA PAL/sAMY Crh GABA 
+PAL Avp GABA sAMY/PAL/HY Lhx8 GABA 
+PAL/sAMY Sox6 Cyp26b1 GABA sAMY/PAL/OLF Prox1 GABA 
+PAL/sAMY Sox6 Cyp26b1 GABA sAMY/PAL Six3 Lamp5 GABA 
+PAL/sAMY Sox6 Cyp26b1 GABA sAMY Ebf1 GABA 
+PAL/sAMY Sox6 Cyp26b1 GABA sAMY/PAL Ebf1 GABA 
+PAL/sAMY Sox6 Cyp26b1 GABA sAMY/PAL Six3 Meis2 GABA 
+PAL/sAMY Sox6 Cyp26b1 GABA sAMY/PAL/HY Lhx8 GABA 
+PAL/sAMY Htr3a GABA PAL/sAMY Sox6 Cyp26b1 GABA 
+PAL/sAMY Htr3a GABA sAMY/PAL/OLF Prox1 GABA 
+PAL/sAMY Htr3a GABA PAL/sAMY Six3 Cyp26b1 GABA 
+PAL/sAMY Htr3a GABA sAMY/PAL Six3 Lamp5 GABA 
+PAL/sAMY Htr3a GABA sAMY Ebf1 GABA 
+PAL/sAMY Htr3a GABA sAMY/PAL Ebf1 GABA 
+PAL/sAMY Htr3a GABA sAMY/PAL Six3 Meis2 GABA 
+PAL/sAMY Htr3a GABA sAMY/PAL/HY Lhx8 GABA 
+HY/PAL/sAMY Lhx6 GABA LSX Six3 GABA 
+HY/PAL/sAMY Lhx6 GABA PAL Avp GABA 
+HY/PAL/sAMY Lhx6 GABA PAL/sAMY Sox6 Cyp26b1 GABA 
+HY/PAL/sAMY Lhx6 GABA sAMY/PAL/OLF Prox1 GABA 
+HY/PAL/sAMY Lhx6 GABA PAL/sAMY Htr3a GABA 
+HY/PAL/sAMY Lhx6 GABA HY/PAL/sAMY Sox6 GABA 
+HY/PAL/sAMY Lhx6 GABA PAL/sAMY Six3 Cyp26b1 GABA 
+HY/PAL/sAMY Lhx6 GABA sAMY/PAL Six3 Lamp5 GABA 
+HY/PAL/sAMY Lhx6 GABA sAMY Ebf1 GABA 
+HY/PAL/sAMY Lhx6 GABA sAMY/PAL Ebf1 GABA 
+HY/PAL/sAMY Lhx6 GABA sAMY/PAL Six3 Meis2 GABA 
+HY/PAL/sAMY Lhx6 GABA PAL/sAMY Crh GABA 
+HY/PAL/sAMY Lhx6 GABA sAMY/PAL/HY Lhx8 GABA 
+HY/PAL/sAMY Sox6 GABA LSX Six3 GABA 
+HY/PAL/sAMY Sox6 GABA PAL Avp GABA 
+HY/PAL/sAMY Sox6 GABA PAL/sAMY Sox6 Cyp26b1 GABA 
+HY/PAL/sAMY Sox6 GABA sAMY/PAL/OLF Prox1 GABA 
+HY/PAL/sAMY Sox6 GABA PAL/sAMY Htr3a GABA 
+HY/PAL/sAMY Sox6 GABA PAL/sAMY Six3 Cyp26b1 GABA 
+HY/PAL/sAMY Sox6 GABA sAMY/PAL Six3 Lamp5 GABA 
+HY/PAL/sAMY Sox6 GABA sAMY Ebf1 GABA 
+HY/PAL/sAMY Sox6 GABA sAMY/PAL Ebf1 GABA 
+HY/PAL/sAMY Sox6 GABA sAMY/PAL Six3 Meis2 GABA 
+HY/PAL/sAMY Sox6 GABA PAL/sAMY Crh GABA 
+HY/PAL/sAMY Sox6 GABA sAMY/PAL/HY Lhx8 GABA 
+PAL/sAMY Six3 Cyp26b1 GABA PAL/sAMY Sox6 Cyp26b1 GABA 
+PAL/sAMY Six3 Cyp26b1 GABA sAMY/PAL/OLF Prox1 GABA 
+PAL/sAMY Six3 Cyp26b1 GABA sAMY/PAL Six3 Lamp5 GABA 
+PAL/sAMY Six3 Cyp26b1 GABA sAMY Ebf1 GABA 
+PAL/sAMY Six3 Cyp26b1 GABA sAMY/PAL Ebf1 GABA 
+PAL/sAMY Six3 Cyp26b1 GABA sAMY/PAL Six3 Meis2 GABA 
+PAL/sAMY Six3 Cyp26b1 GABA sAMY/PAL/HY Lhx8 GABA 
+sAMY/PAL Six3 Lamp5 GABA sAMY/PAL/OLF Prox1 GABA 
+sAMY/PAL Six3 Lamp5 GABA sAMY/PAL Six3 Meis2 GABA 
+sAMY/PAL Six3 Lamp5 GABA sAMY/PAL/HY Lhx8 GABA 
+sAMY Ebf1 GABA sAMY/PAL/OLF Prox1 GABA 
+sAMY Ebf1 GABA sAMY/PAL Six3 Lamp5 GABA 
+sAMY Ebf1 GABA sAMY/PAL Ebf1 GABA 
+sAMY Ebf1 GABA sAMY/PAL Six3 Meis2 GABA 
+sAMY Ebf1 GABA sAMY/PAL/HY Lhx8 GABA 
+sAMY/PAL Ebf1 GABA sAMY/PAL/OLF Prox1 GABA 
+sAMY/PAL Ebf1 GABA sAMY/PAL Six3 Lamp5 GABA 
+sAMY/PAL Ebf1 GABA sAMY/PAL Six3 Meis2 GABA 
+sAMY/PAL Ebf1 GABA sAMY/PAL/HY Lhx8 GABA 
+sAMY/PAL Six3 Meis2 GABA sAMY/PAL/OLF Prox1 GABA 
+sAMY/PAL Six3 Meis2 GABA sAMY/PAL/HY Lhx8 GABA 
+HY/PAL/sAMY Isl1 GABA LSX Six3 GABA 
+HY/PAL/sAMY Isl1 GABA PAL Avp GABA 
+HY/PAL/sAMY Isl1 GABA PAL/sAMY Sox6 Cyp26b1 GABA 
+HY/PAL/sAMY Isl1 GABA sAMY/PAL/OLF Prox1 GABA 
+HY/PAL/sAMY Isl1 GABA PAL/sAMY Htr3a GABA 
+HY/PAL/sAMY Isl1 GABA HY/PAL/sAMY Lhx6 GABA 
+HY/PAL/sAMY Isl1 GABA HY/PAL/sAMY Sox6 GABA 
+HY/PAL/sAMY Isl1 GABA PAL/sAMY Six3 Cyp26b1 GABA 
+HY/PAL/sAMY Isl1 GABA sAMY/PAL Six3 Lamp5 GABA 
+HY/PAL/sAMY Isl1 GABA sAMY Ebf1 GABA 
+HY/PAL/sAMY Isl1 GABA sAMY/PAL Ebf1 GABA 
+HY/PAL/sAMY Isl1 GABA sAMY/PAL Six3 Meis2 GABA 
+HY/PAL/sAMY Isl1 GABA PAL/sAMY Crh GABA 
+HY/PAL/sAMY Isl1 GABA sAMY/PAL/HY Lhx8 GABA 
+PAL/sAMY Crh GABA PAL/sAMY Sox6 Cyp26b1 GABA 
+PAL/sAMY Crh GABA sAMY/PAL/OLF Prox1 GABA 
+PAL/sAMY Crh GABA PAL/sAMY Htr3a GABA 
+PAL/sAMY Crh GABA PAL/sAMY Six3 Cyp26b1 GABA 
+PAL/sAMY Crh GABA sAMY/PAL Six3 Lamp5 GABA 
+PAL/sAMY Crh GABA sAMY Ebf1 GABA 
+PAL/sAMY Crh GABA sAMY/PAL Ebf1 GABA 
+PAL/sAMY Crh GABA sAMY/PAL Six3 Meis2 GABA 
+PAL/sAMY Crh GABA sAMY/PAL/HY Lhx8 GABA 
+CEA Vdr GABA LSX Six3 GABA 
+CEA Vdr GABA PAL Avp GABA 
+CEA Vdr GABA PAL/sAMY Sox6 Cyp26b1 GABA 
+CEA Vdr GABA sAMY/PAL/OLF Prox1 GABA 
+CEA Vdr GABA PAL/sAMY Htr3a GABA 
+CEA Vdr GABA HY/PAL/sAMY Lhx6 GABA 
+CEA Vdr GABA HY/PAL/sAMY Sox6 GABA 
+CEA Vdr GABA PAL/sAMY Six3 Cyp26b1 GABA 
+CEA Vdr GABA sAMY/PAL Six3 Lamp5 GABA 
+CEA Vdr GABA sAMY Ebf1 GABA 
+CEA Vdr GABA sAMY/PAL Ebf1 GABA 
+CEA Vdr GABA sAMY/PAL Six3 Meis2 GABA 
+CEA Vdr GABA HY/PAL/sAMY Isl1 GABA 
+CEA Vdr GABA PAL/sAMY Crh GABA 
+CEA Vdr GABA sAMY/PAL/HY Lhx8 GABA 
+sAMY/PAL/HY Lhx8 GABA sAMY/PAL/OLF Prox1 GABA 
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Satb2   1998
+2 Lcp1    1996
+3 Ror1    1996
+4 Pde11a  1993
+5 Dbpht2  1992
+6 Pde3a   1992
+[1] "Satb2"
+# A tibble: 6 × 2
+  gene       score
+  <chr>      <dbl>
+1 Lcp1        1996
+2 Ror1        1996
+3 Dbpht2      1992
+4 Pde3a       1992
+5 Csgalnact1  1991
+6 Erbb4       1991
+[1] "Lcp1"
+# A tibble: 6 × 2
+  gene       score
+  <chr>      <dbl>
+1 Ror1        1996
+2 Dbpht2      1992
+3 Pde3a       1992
+4 Csgalnact1  1991
+5 Erbb4       1991
+6 Sdk1        1991
+[1] "Ror1"
+# A tibble: 6 × 2
+  gene       score
+  <chr>      <dbl>
+1 Dbpht2      1992
+2 Pde3a       1992
+3 Csgalnact1  1991
+4 Erbb4       1991
+5 Sdk1        1991
+6 S100a10     1990
+[1] "Dbpht2"
+# A tibble: 6 × 2
+  gene       score
+  <chr>      <dbl>
+1 Pde3a       1992
+2 Csgalnact1  1991
+3 Sdk1        1991
+4 Gck          999
+5 Nfix         999
+6 Sostdc1      999
+[1] "Pde3a"
+# A tibble: 6 × 2
+  gene       score
+  <chr>      <dbl>
+1 Csgalnact1  1991
+2 Gck          999
+3 Nfix         999
+4 Sostdc1      999
+5 Cacna2d3     998
+6 Fam46a       998
+[1] "Csgalnact1"
+# A tibble: 6 × 2
+  gene     score
+  <chr>    <dbl>
+1 Gck        999
+2 Sostdc1    999
+3 Cacna2d3   998
+4 Fam46a     998
+5 Adora1     997
+6 Alk        997
+[1] "Gck"
+# A tibble: 6 × 2
+  gene     score
+  <chr>    <dbl>
+1 Sostdc1    999
+2 Cacna2d3   998
+3 Fam46a     998
+4 Adora1     997
+5 Alk        997
+6 Fos        997
+[1] "Sostdc1"
+# A tibble: 6 × 2
+  gene     score
+  <chr>    <dbl>
+1 Cacna2d3   998
+2 Fam46a     998
+3 Adora1     997
+4 Alk        997
+5 Fos        997
+6 Hspb8      997
+[1] "Cacna2d3"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Fam46a   998
+2 Adora1   997
+3 Alk      997
+4 Fos      997
+5 Hspb8    997
+6 Lemd1    997
+[1] "Fam46a"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Adora1   997
+2 Alk      997
+3 Fos      997
+4 Hspb8    997
+5 Lemd1    997
+6 Maml3    997
+[1] "Adora1"
+# A tibble: 6 × 2
+  gene  score
+  <chr> <dbl>
+1 Alk     997
+2 Fos     997
+3 Hspb8   997
+4 Lemd1   997
+5 Maml3   997
+6 Mylk    997
+[1] "Alk"
+# A tibble: 6 × 2
+  gene  score
+  <chr> <dbl>
+1 Fos     997
+2 Hspb8   997
+3 Lemd1   997
+4 Maml3   997
+5 Mylk    997
+6 Ndst3   997
+[1] "Fos"
+# A tibble: 6 × 2
+  gene  score
+  <chr> <dbl>
+1 Hspb8   997
+2 Lemd1   997
+3 Maml3   997
+4 Mylk    997
+5 Ndst3   997
+6 Plch1   997
+[1] "Hspb8"
+# A tibble: 6 × 2
+  gene  score
+  <chr> <dbl>
+1 Lemd1   997
+2 Maml3   997
+3 Mylk    997
+4 Ndst3   997
+5 Plch1   997
+6 Socs2   997
+[1] "Lemd1"
+# A tibble: 6 × 2
+  gene  score
+  <chr> <dbl>
+1 Maml3   997
+2 Mylk    997
+3 Ndst3   997
+4 Plch1   997
+5 Socs2   997
+6 Sulf1   997
+[1] "Maml3"
+# A tibble: 6 × 2
+  gene  score
+  <chr> <dbl>
+1 Mylk    997
+2 Ndst3   997
+3 Plch1   997
+4 Socs2   997
+5 Sulf1   997
+6 Unc5d   997
+[1] "Mylk"
+# A tibble: 6 × 2
+  gene  score
+  <chr> <dbl>
+1 Ndst3   997
+2 Plch1   997
+3 Socs2   997
+4 Sulf1   997
+5 Unc5d   997
+6 Clic6   996
+[1] "Ndst3"
+# A tibble: 6 × 2
+  gene  score
+  <chr> <dbl>
+1 Plch1   997
+2 Socs2   997
+3 Sulf1   997
+4 Unc5d   997
+5 Clic6   996
+6 Fgf1    996
+[1] "Plch1"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Socs2    997
+2 Sulf1    997
+3 Unc5d    997
+4 Clic6    996
+5 Foxo1    996
+6 Sncaip   996
+[1] "Socs2"
+# A tibble: 5 × 2
+  gene   score
+  <chr>  <dbl>
+1 Sulf1    997
+2 Unc5d    997
+3 Clic6    996
+4 Sncaip   996
+5 Cacng5   995
+[1] "Sulf1"
+# A tibble: 3 × 2
+  gene   score
+  <chr>  <dbl>
+1 Unc5d    997
+2 Clic6    996
+3 Cacng5   995
+[1] "Unc5d"
+[1] "root:sAMY-PAL:LSX Six3 GABA"
+[1] "@3/3   ngroup=3, ncluster=3"
+[1] "root:sAMY-PAL:PAL Avp GABA"
+[1] "@3/3   ngroup=2, ncluster=2"
+[1] "root:sAMY-PAL:PAL/sAMY Sox6 Cyp26b1 GABA"
+[1] "@3/3   ngroup=4, ncluster=4"
+[1] "root:sAMY-PAL:sAMY/PAL/OLF Prox1 GABA"
+[1] "@3/3   ngroup=5, ncluster=5"
+[1] "root:sAMY-PAL:PAL/sAMY Htr3a GABA"
+[1] "@3/3   ngroup=6, ncluster=6"
+[1] "root:sAMY-PAL:HY/PAL/sAMY Lhx6 GABA"
+[1] "@3/3   ngroup=59, ncluster=59"
+[1] "root:sAMY-PAL:HY/PAL/sAMY Sox6 GABA"
+[1] "@3/3   ngroup=23, ncluster=23"
+[1] "root:sAMY-PAL:PAL/sAMY Six3 Cyp26b1 GABA"
+[1] "@3/3   ngroup=14, ncluster=14"
+[1] "root:sAMY-PAL:sAMY/PAL Six3 Lamp5 GABA"
+[1] "@3/3   ngroup=4, ncluster=4"
+[1] "root:sAMY-PAL:sAMY Ebf1 GABA"
+[1] "@3/3   ngroup=29, ncluster=29"
+[1] "root:sAMY-PAL:sAMY/PAL Ebf1 GABA"
+[1] "@3/3   ngroup=12, ncluster=12"
+[1] "root:sAMY-PAL:sAMY/PAL Six3 Meis2 GABA"
+[1] "@3/3   ngroup=29, ncluster=29"
+[1] "root:sAMY-PAL:HY/PAL/sAMY Isl1 GABA"
+[1] "@3/3   ngroup=3, ncluster=3"
+[1] "root:sAMY-PAL:PAL/sAMY Crh GABA"
+[1] "@3/3   ngroup=9, ncluster=9"
+[1] "root:sAMY-PAL:CEA Vdr GABA"
+[1] "@3/3   ngroup=1, ncluster=1"
+[1] "root:sAMY-PAL:sAMY/PAL/HY Lhx8 GABA"
+[1] "@3/3   ngroup=109, ncluster=109"
+[1] "root:HY"
+[1] "@2/3   ngroup=46, ncluster=629"
+TH Otx2 GABA VMH Tbx3 Glut 
+TH Otx2 GABA VMH Fezf1 Glut 
+TH Otx2 GABA VMH Nr5a1 Glut 
+TH Otx2 GABA VMH Nr5a1 Tbx3 Glut 
+TH Otx2 GABA TH/HY Pax6 GABA 
+TH Otx2 GABA Trp73 Glut 
+TH Otx2 GABA TH Tfap2d Glut 
+HY Otp GABA TH Otx2 GABA 
+HY Otp GABA HY Tbx3 Glut 
+HY Otp GABA VMH Tbx3 Glut 
+HY Otp GABA HY Tbx3 GABA 
+HY Otp GABA HY Vgll2 Glut 
+HY Otp GABA HY Skor2 Glut 
+HY Otp GABA VMH Fezf1 Glut 
+HY Otp GABA VMH Nr5a1 Glut 
+HY Otp GABA VMH Nr5a1 Tbx3 Glut 
+HY Otp GABA HY Six6 GABA 
+HY Otp GABA HY Otp Six6 GABA 
+HY Otp GABA HY Six3 GABA 
+HY Otp GABA HY Tac2 GABA 
+HY Otp GABA HY Prdm12 GABA 
+HY Otp GABA TH/HY Pax6 GABA 
+HY Otp GABA Trp73 Glut 
+HY Otp GABA HY Otp Glut 
+HY Otp GABA HY Pitx2 Glut 
+HY Otp GABA MB En1 Hybrid 
+HY Otp GABA TH Tfap2d Glut 
+HY Otp GABA LSX/HY Otx2 Glut 
+HY Otp GABA LSX/PAL/HY Bsx Glut 
+HY Otp GABA HY/PAL Tbr1 Glut 
+HY Otp GABA LSX/HY Otx2 GABA 
+HY Otp GABA HY Satb2 GABA 
+HY Otp GABA HY Pmch Glut 
+HY Otp GABA sAMY/PAL/HY Cngb3 Hybrid 
+HY Otp GABA HY/TH Gnb3 GABA 
+HY Otp GABA SCH GABA 
+HY Tbx3 Glut TH Otx2 GABA 
+HY Tbx3 Glut VMH Tbx3 Glut 
+HY Tbx3 Glut HY Vgll2 Glut 
+HY Tbx3 Glut VMH Fezf1 Glut 
+HY Tbx3 Glut VMH Nr5a1 Glut 
+HY Tbx3 Glut VMH Nr5a1 Tbx3 Glut 
+HY Tbx3 Glut TH/HY Pax6 GABA 
+HY Tbx3 Glut Trp73 Glut 
+HY Tbx3 Glut MB En1 Hybrid 
+HY Tbx3 Glut TH Tfap2d Glut 
+HY Tbx3 Glut LSX/HY Otx2 Glut 
+HY Tbx3 Glut LSX/PAL/HY Bsx Glut 
+HY Tbx3 Glut HY/PAL Tbr1 Glut 
+HY Tbx3 Glut LSX/HY Otx2 GABA 
+HY Tbx3 Glut sAMY/PAL/HY Cngb3 Hybrid 
+HY Tbx3 Glut HY/TH Gnb3 GABA 
+HY Tbx3 Glut SCH GABA 
+HY Tbx3 GABA TH Otx2 GABA 
+HY Tbx3 GABA HY Tbx3 Glut 
+HY Tbx3 GABA VMH Tbx3 Glut 
+HY Tbx3 GABA HY Vgll2 Glut 
+HY Tbx3 GABA VMH Fezf1 Glut 
+HY Tbx3 GABA VMH Nr5a1 Glut 
+HY Tbx3 GABA VMH Nr5a1 Tbx3 Glut 
+HY Tbx3 GABA TH/HY Pax6 GABA 
+HY Tbx3 GABA Trp73 Glut 
+HY Tbx3 GABA MB En1 Hybrid 
+HY Tbx3 GABA TH Tfap2d Glut 
+HY Tbx3 GABA LSX/HY Otx2 Glut 
+HY Tbx3 GABA LSX/PAL/HY Bsx Glut 
+HY Tbx3 GABA HY/PAL Tbr1 Glut 
+HY Tbx3 GABA LSX/HY Otx2 GABA 
+HY Tbx3 GABA sAMY/PAL/HY Cngb3 Hybrid 
+HY Tbx3 GABA HY/TH Gnb3 GABA 
+HY Tbx3 GABA SCH GABA 
+HY Vgll2 Glut TH Otx2 GABA 
+HY Vgll2 Glut VMH Tbx3 Glut 
+HY Vgll2 Glut VMH Fezf1 Glut 
+HY Vgll2 Glut VMH Nr5a1 Glut 
+HY Vgll2 Glut VMH Nr5a1 Tbx3 Glut 
+HY Vgll2 Glut TH/HY Pax6 GABA 
+HY Vgll2 Glut Trp73 Glut 
+HY Vgll2 Glut MB En1 Hybrid 
+HY Vgll2 Glut TH Tfap2d Glut 
+HY Vgll2 Glut LSX/HY Otx2 Glut 
+HY Vgll2 Glut LSX/PAL/HY Bsx Glut 
+HY Vgll2 Glut HY/PAL Tbr1 Glut 
+HY Vgll2 Glut LSX/HY Otx2 GABA 
+HY Vgll2 Glut sAMY/PAL/HY Cngb3 Hybrid 
+HY Vgll2 Glut HY/TH Gnb3 GABA 
+HY Vgll2 Glut SCH GABA 
+HY Hmx2 Glut TH Otx2 GABA 
+HY Hmx2 Glut HY Otp GABA 
+HY Hmx2 Glut HY Tbx3 Glut 
+HY Hmx2 Glut VMH Tbx3 Glut 
+HY Hmx2 Glut HY Tbx3 GABA 
+HY Hmx2 Glut HY Vgll2 Glut 
+HY Hmx2 Glut HY Skor2 Glut 
+HY Hmx2 Glut VMH Fezf1 Glut 
+HY Hmx2 Glut VMH Nr5a1 Glut 
+HY Hmx2 Glut VMH Nr5a1 Tbx3 Glut 
+HY Hmx2 Glut HY Six6 GABA 
+HY Hmx2 Glut HY Otp Six6 GABA 
+HY Hmx2 Glut HY Six3 GABA 
+HY Hmx2 Glut HY Tac2 GABA 
+HY Hmx2 Glut HY Onecut3 GABA 
+HY Hmx2 Glut HY Lhx1 GABA 
+HY Hmx2 Glut HY Prdm12 GABA 
+HY Hmx2 Glut TH/HY Pax6 GABA 
+HY Hmx2 Glut Trp73 Glut 
+HY Hmx2 Glut HY Otp Glut 
+HY Hmx2 Glut HY Irx6 Glut 
+HY Hmx2 Glut HY Pitx2 Glut 
+HY Hmx2 Glut MB En1 Hybrid 
+HY Hmx2 Glut TH Tfap2d Glut 
+HY Hmx2 Glut HY Isl1 Glut 
+HY Hmx2 Glut LSX/HY Otx2 Glut 
+HY Hmx2 Glut LSX/PAL/HY Bsx Glut 
+HY Hmx2 Glut HY/PAL Tbr1 Glut 
+HY Hmx2 Glut LSX/HY Otx2 GABA 
+HY Hmx2 Glut HY Satb2 GABA 
+HY Hmx2 Glut HY Nkx2-4 GABA 
+HY Hmx2 Glut HY Nkx2-4 Glut 
+HY Hmx2 Glut HY Pmch Glut 
+HY Hmx2 Glut sAMY/PAL/HY Cngb3 Hybrid 
+HY Hmx2 Glut HY/TH Gnb3 GABA 
+HY Hmx2 Glut SCH GABA 
+HY Skor2 Glut TH Otx2 GABA 
+HY Skor2 Glut HY Tbx3 Glut 
+HY Skor2 Glut VMH Tbx3 Glut 
+HY Skor2 Glut HY Tbx3 GABA 
+HY Skor2 Glut HY Vgll2 Glut 
+HY Skor2 Glut VMH Fezf1 Glut 
+HY Skor2 Glut VMH Nr5a1 Glut 
+HY Skor2 Glut VMH Nr5a1 Tbx3 Glut 
+HY Skor2 Glut HY Tac2 GABA 
+HY Skor2 Glut TH/HY Pax6 GABA 
+HY Skor2 Glut Trp73 Glut 
+HY Skor2 Glut MB En1 Hybrid 
+HY Skor2 Glut TH Tfap2d Glut 
+HY Skor2 Glut LSX/HY Otx2 Glut 
+HY Skor2 Glut LSX/PAL/HY Bsx Glut 
+HY Skor2 Glut HY/PAL Tbr1 Glut 
+HY Skor2 Glut LSX/HY Otx2 GABA 
+HY Skor2 Glut sAMY/PAL/HY Cngb3 Hybrid 
+HY Skor2 Glut HY/TH Gnb3 GABA 
+HY Skor2 Glut SCH GABA 
+HY Eomes Glut TH Otx2 GABA 
+HY Eomes Glut HY Otp GABA 
+HY Eomes Glut HY Tbx3 Glut 
+HY Eomes Glut VMH Tbx3 Glut 
+HY Eomes Glut HY Tbx3 GABA 
+HY Eomes Glut HY Vgll2 Glut 
+HY Eomes Glut HY Hmx2 Glut 
+HY Eomes Glut HY Skor2 Glut 
+HY Eomes Glut VMH Fezf1 Glut 
+HY Eomes Glut VMH Nr5a1 Glut 
+HY Eomes Glut VMH Nr5a1 Tbx3 Glut 
+HY Eomes Glut HY Six6 GABA 
+HY Eomes Glut HY Gsx1 GABA 
+HY Eomes Glut HY Otp Six6 GABA 
+HY Eomes Glut HY Six3 GABA 
+HY Eomes Glut HY Hmx2 GABA 
+HY Eomes Glut HY Tac2 GABA 
+HY Eomes Glut HY Onecut3 GABA 
+HY Eomes Glut HY Lhx1 GABA 
+HY Eomes Glut HY Prdm12 GABA 
+HY Eomes Glut TH/HY Pax6 GABA 
+HY Eomes Glut HY Foxd2 GABA 
+HY Eomes Glut Trp73 Glut 
+HY Eomes Glut HY Otp Glut 
+HY Eomes Glut HY Irx6 Glut 
+HY Eomes Glut HY Foxa1 Glut 
+HY Eomes Glut HY Pitx2 Glut 
+HY Eomes Glut MB En1 Hybrid 
+HY Eomes Glut TH Tfap2d Glut 
+HY Eomes Glut HY Foxb1 Glut 
+HY Eomes Glut HY Isl1 Glut 
+HY Eomes Glut LSX/HY Otx2 Glut 
+HY Eomes Glut LSX/PAL/HY Bsx Glut 
+HY Eomes Glut HY/PAL Tbr1 Glut 
+HY Eomes Glut LSX/HY Otx2 GABA 
+HY Eomes Glut HY Satb2 GABA 
+HY Eomes Glut HY Nkx2-4 GABA 
+HY Eomes Glut HY Nkx2-4 Glut 
+HY Eomes Glut HY Pmch Glut 
+HY Eomes Glut sAMY/PAL/HY Cngb3 Hybrid 
+HY Eomes Glut HY/TH Gnb3 GABA 
+HY Eomes Glut SCH GABA 
+HY Eomes Glut HY Gnrh1 Glut 
+VMH Fezf1 Glut VMH Tbx3 Glut 
+VMH Fezf1 Glut VMH Nr5a1 Glut 
+VMH Fezf1 Glut VMH Nr5a1 Tbx3 Glut 
+VMH Nr5a1 Glut VMH Tbx3 Glut 
+VMH Nr5a1 Glut VMH Nr5a1 Tbx3 Glut 
+VMH Nr5a1 Tbx3 Glut VMH Tbx3 Glut 
+HY Six6 GABA TH Otx2 GABA 
+HY Six6 GABA HY Tbx3 Glut 
+HY Six6 GABA VMH Tbx3 Glut 
+HY Six6 GABA HY Tbx3 GABA 
+HY Six6 GABA HY Vgll2 Glut 
+HY Six6 GABA HY Skor2 Glut 
+HY Six6 GABA VMH Fezf1 Glut 
+HY Six6 GABA VMH Nr5a1 Glut 
+HY Six6 GABA VMH Nr5a1 Tbx3 Glut 
+HY Six6 GABA HY Tac2 GABA 
+HY Six6 GABA TH/HY Pax6 GABA 
+HY Six6 GABA Trp73 Glut 
+HY Six6 GABA MB En1 Hybrid 
+HY Six6 GABA TH Tfap2d Glut 
+HY Six6 GABA LSX/HY Otx2 Glut 
+HY Six6 GABA LSX/PAL/HY Bsx Glut 
+HY Six6 GABA HY/PAL Tbr1 Glut 
+HY Six6 GABA LSX/HY Otx2 GABA 
+HY Six6 GABA sAMY/PAL/HY Cngb3 Hybrid 
+HY Six6 GABA HY/TH Gnb3 GABA 
+HY Six6 GABA SCH GABA 
+HY Gsx1 GABA TH Otx2 GABA 
+HY Gsx1 GABA HY Otp GABA 
+HY Gsx1 GABA HY Tbx3 Glut 
+HY Gsx1 GABA VMH Tbx3 Glut 
+HY Gsx1 GABA HY Tbx3 GABA 
+HY Gsx1 GABA HY Vgll2 Glut 
+HY Gsx1 GABA HY Hmx2 Glut 
+HY Gsx1 GABA HY Skor2 Glut 
+HY Gsx1 GABA VMH Fezf1 Glut 
+HY Gsx1 GABA VMH Nr5a1 Glut 
+HY Gsx1 GABA VMH Nr5a1 Tbx3 Glut 
+HY Gsx1 GABA HY Six6 GABA 
+HY Gsx1 GABA HY Otp Six6 GABA 
+HY Gsx1 GABA HY Six3 GABA 
+HY Gsx1 GABA HY Hmx2 GABA 
+HY Gsx1 GABA HY Tac2 GABA 
+HY Gsx1 GABA HY Onecut3 GABA 
+HY Gsx1 GABA HY Lhx1 GABA 
+HY Gsx1 GABA HY Prdm12 GABA 
+HY Gsx1 GABA TH/HY Pax6 GABA 
+HY Gsx1 GABA Trp73 Glut 
+HY Gsx1 GABA HY Otp Glut 
+HY Gsx1 GABA HY Irx6 Glut 
+HY Gsx1 GABA HY Pitx2 Glut 
+HY Gsx1 GABA MB En1 Hybrid 
+HY Gsx1 GABA TH Tfap2d Glut 
+HY Gsx1 GABA HY Isl1 Glut 
+HY Gsx1 GABA LSX/HY Otx2 Glut 
+HY Gsx1 GABA LSX/PAL/HY Bsx Glut 
+HY Gsx1 GABA HY/PAL Tbr1 Glut 
+HY Gsx1 GABA LSX/HY Otx2 GABA 
+HY Gsx1 GABA HY Satb2 GABA 
+HY Gsx1 GABA HY Nkx2-4 GABA 
+HY Gsx1 GABA HY Nkx2-4 Glut 
+HY Gsx1 GABA HY Pmch Glut 
+HY Gsx1 GABA sAMY/PAL/HY Cngb3 Hybrid 
+HY Gsx1 GABA HY/TH Gnb3 GABA 
+HY Gsx1 GABA SCH GABA 
+HY Otp Six6 GABA TH Otx2 GABA 
+HY Otp Six6 GABA HY Tbx3 Glut 
+HY Otp Six6 GABA VMH Tbx3 Glut 
+HY Otp Six6 GABA HY Tbx3 GABA 
+HY Otp Six6 GABA HY Vgll2 Glut 
+HY Otp Six6 GABA HY Skor2 Glut 
+HY Otp Six6 GABA VMH Fezf1 Glut 
+HY Otp Six6 GABA VMH Nr5a1 Glut 
+HY Otp Six6 GABA VMH Nr5a1 Tbx3 Glut 
+HY Otp Six6 GABA HY Six6 GABA 
+HY Otp Six6 GABA HY Six3 GABA 
+HY Otp Six6 GABA HY Tac2 GABA 
+HY Otp Six6 GABA HY Prdm12 GABA 
+HY Otp Six6 GABA TH/HY Pax6 GABA 
+HY Otp Six6 GABA Trp73 Glut 
+HY Otp Six6 GABA HY Pitx2 Glut 
+HY Otp Six6 GABA MB En1 Hybrid 
+HY Otp Six6 GABA TH Tfap2d Glut 
+HY Otp Six6 GABA LSX/HY Otx2 Glut 
+HY Otp Six6 GABA LSX/PAL/HY Bsx Glut 
+HY Otp Six6 GABA HY/PAL Tbr1 Glut 
+HY Otp Six6 GABA LSX/HY Otx2 GABA 
+HY Otp Six6 GABA HY Satb2 GABA 
+HY Otp Six6 GABA HY Pmch Glut 
+HY Otp Six6 GABA sAMY/PAL/HY Cngb3 Hybrid 
+HY Otp Six6 GABA HY/TH Gnb3 GABA 
+HY Otp Six6 GABA SCH GABA 
+HY Six3 GABA TH Otx2 GABA 
+HY Six3 GABA HY Tbx3 Glut 
+HY Six3 GABA VMH Tbx3 Glut 
+HY Six3 GABA HY Tbx3 GABA 
+HY Six3 GABA HY Vgll2 Glut 
+HY Six3 GABA HY Skor2 Glut 
+HY Six3 GABA VMH Fezf1 Glut 
+HY Six3 GABA VMH Nr5a1 Glut 
+HY Six3 GABA VMH Nr5a1 Tbx3 Glut 
+HY Six3 GABA HY Six6 GABA 
+HY Six3 GABA HY Tac2 GABA 
+HY Six3 GABA TH/HY Pax6 GABA 
+HY Six3 GABA Trp73 Glut 
+HY Six3 GABA MB En1 Hybrid 
+HY Six3 GABA TH Tfap2d Glut 
+HY Six3 GABA LSX/HY Otx2 Glut 
+HY Six3 GABA LSX/PAL/HY Bsx Glut 
+HY Six3 GABA HY/PAL Tbr1 Glut 
+HY Six3 GABA LSX/HY Otx2 GABA 
+HY Six3 GABA sAMY/PAL/HY Cngb3 Hybrid 
+HY Six3 GABA HY/TH Gnb3 GABA 
+HY Six3 GABA SCH GABA 
+HY Hmx2 GABA TH Otx2 GABA 
+HY Hmx2 GABA HY Otp GABA 
+HY Hmx2 GABA HY Tbx3 Glut 
+HY Hmx2 GABA VMH Tbx3 Glut 
+HY Hmx2 GABA HY Tbx3 GABA 
+HY Hmx2 GABA HY Vgll2 Glut 
+HY Hmx2 GABA HY Hmx2 Glut 
+HY Hmx2 GABA HY Skor2 Glut 
+HY Hmx2 GABA VMH Fezf1 Glut 
+HY Hmx2 GABA VMH Nr5a1 Glut 
+HY Hmx2 GABA VMH Nr5a1 Tbx3 Glut 
+HY Hmx2 GABA HY Six6 GABA 
+HY Hmx2 GABA HY Otp Six6 GABA 
+HY Hmx2 GABA HY Six3 GABA 
+HY Hmx2 GABA HY Tac2 GABA 
+HY Hmx2 GABA HY Onecut3 GABA 
+HY Hmx2 GABA HY Lhx1 GABA 
+HY Hmx2 GABA HY Prdm12 GABA 
+HY Hmx2 GABA TH/HY Pax6 GABA 
+HY Hmx2 GABA Trp73 Glut 
+HY Hmx2 GABA HY Otp Glut 
+HY Hmx2 GABA HY Irx6 Glut 
+HY Hmx2 GABA HY Pitx2 Glut 
+HY Hmx2 GABA MB En1 Hybrid 
+HY Hmx2 GABA TH Tfap2d Glut 
+HY Hmx2 GABA HY Isl1 Glut 
+HY Hmx2 GABA LSX/HY Otx2 Glut 
+HY Hmx2 GABA LSX/PAL/HY Bsx Glut 
+HY Hmx2 GABA HY/PAL Tbr1 Glut 
+HY Hmx2 GABA LSX/HY Otx2 GABA 
+HY Hmx2 GABA HY Satb2 GABA 
+HY Hmx2 GABA HY Nkx2-4 GABA 
+HY Hmx2 GABA HY Nkx2-4 Glut 
+HY Hmx2 GABA HY Pmch Glut 
+HY Hmx2 GABA sAMY/PAL/HY Cngb3 Hybrid 
+HY Hmx2 GABA HY/TH Gnb3 GABA 
+HY Hmx2 GABA SCH GABA 
+HY Tac2 GABA TH Otx2 GABA 
+HY Tac2 GABA HY Tbx3 Glut 
+HY Tac2 GABA VMH Tbx3 Glut 
+HY Tac2 GABA HY Tbx3 GABA 
+HY Tac2 GABA HY Vgll2 Glut 
+HY Tac2 GABA VMH Fezf1 Glut 
+HY Tac2 GABA VMH Nr5a1 Glut 
+HY Tac2 GABA VMH Nr5a1 Tbx3 Glut 
+HY Tac2 GABA TH/HY Pax6 GABA 
+HY Tac2 GABA Trp73 Glut 
+HY Tac2 GABA MB En1 Hybrid 
+HY Tac2 GABA TH Tfap2d Glut 
+HY Tac2 GABA LSX/HY Otx2 Glut 
+HY Tac2 GABA LSX/PAL/HY Bsx Glut 
+HY Tac2 GABA HY/PAL Tbr1 Glut 
+HY Tac2 GABA LSX/HY Otx2 GABA 
+HY Tac2 GABA sAMY/PAL/HY Cngb3 Hybrid 
+HY Tac2 GABA HY/TH Gnb3 GABA 
+HY Tac2 GABA SCH GABA 
+HY Onecut3 GABA TH Otx2 GABA 
+HY Onecut3 GABA HY Otp GABA 
+HY Onecut3 GABA HY Tbx3 Glut 
+HY Onecut3 GABA VMH Tbx3 Glut 
+HY Onecut3 GABA HY Tbx3 GABA 
+HY Onecut3 GABA HY Vgll2 Glut 
+HY Onecut3 GABA HY Skor2 Glut 
+HY Onecut3 GABA VMH Fezf1 Glut 
+HY Onecut3 GABA VMH Nr5a1 Glut 
+HY Onecut3 GABA VMH Nr5a1 Tbx3 Glut 
+HY Onecut3 GABA HY Six6 GABA 
+HY Onecut3 GABA HY Otp Six6 GABA 
+HY Onecut3 GABA HY Six3 GABA 
+HY Onecut3 GABA HY Tac2 GABA 
+HY Onecut3 GABA HY Prdm12 GABA 
+HY Onecut3 GABA TH/HY Pax6 GABA 
+HY Onecut3 GABA Trp73 Glut 
+HY Onecut3 GABA HY Otp Glut 
+HY Onecut3 GABA HY Pitx2 Glut 
+HY Onecut3 GABA MB En1 Hybrid 
+HY Onecut3 GABA TH Tfap2d Glut 
+HY Onecut3 GABA LSX/HY Otx2 Glut 
+HY Onecut3 GABA LSX/PAL/HY Bsx Glut 
+HY Onecut3 GABA HY/PAL Tbr1 Glut 
+HY Onecut3 GABA LSX/HY Otx2 GABA 
+HY Onecut3 GABA HY Satb2 GABA 
+HY Onecut3 GABA HY Pmch Glut 
+HY Onecut3 GABA sAMY/PAL/HY Cngb3 Hybrid 
+HY Onecut3 GABA HY/TH Gnb3 GABA 
+HY Onecut3 GABA SCH GABA 
+HY Lhx1 GABA TH Otx2 GABA 
+HY Lhx1 GABA HY Otp GABA 
+HY Lhx1 GABA HY Tbx3 Glut 
+HY Lhx1 GABA VMH Tbx3 Glut 
+HY Lhx1 GABA HY Tbx3 GABA 
+HY Lhx1 GABA HY Vgll2 Glut 
+HY Lhx1 GABA HY Skor2 Glut 
+HY Lhx1 GABA VMH Fezf1 Glut 
+HY Lhx1 GABA VMH Nr5a1 Glut 
+HY Lhx1 GABA VMH Nr5a1 Tbx3 Glut 
+HY Lhx1 GABA HY Six6 GABA 
+HY Lhx1 GABA HY Otp Six6 GABA 
+HY Lhx1 GABA HY Six3 GABA 
+HY Lhx1 GABA HY Tac2 GABA 
+HY Lhx1 GABA HY Onecut3 GABA 
+HY Lhx1 GABA HY Prdm12 GABA 
+HY Lhx1 GABA TH/HY Pax6 GABA 
+HY Lhx1 GABA Trp73 Glut 
+HY Lhx1 GABA HY Otp Glut 
+HY Lhx1 GABA HY Pitx2 Glut 
+HY Lhx1 GABA MB En1 Hybrid 
+HY Lhx1 GABA TH Tfap2d Glut 
+HY Lhx1 GABA LSX/HY Otx2 Glut 
+HY Lhx1 GABA LSX/PAL/HY Bsx Glut 
+HY Lhx1 GABA HY/PAL Tbr1 Glut 
+HY Lhx1 GABA LSX/HY Otx2 GABA 
+HY Lhx1 GABA HY Satb2 GABA 
+HY Lhx1 GABA HY Nkx2-4 GABA 
+HY Lhx1 GABA HY Nkx2-4 Glut 
+HY Lhx1 GABA HY Pmch Glut 
+HY Lhx1 GABA sAMY/PAL/HY Cngb3 Hybrid 
+HY Lhx1 GABA HY/TH Gnb3 GABA 
+HY Lhx1 GABA SCH GABA 
+HY Prdm12 GABA TH Otx2 GABA 
+HY Prdm12 GABA HY Tbx3 Glut 
+HY Prdm12 GABA VMH Tbx3 Glut 
+HY Prdm12 GABA HY Tbx3 GABA 
+HY Prdm12 GABA HY Vgll2 Glut 
+HY Prdm12 GABA HY Skor2 Glut 
+HY Prdm12 GABA VMH Fezf1 Glut 
+HY Prdm12 GABA VMH Nr5a1 Glut 
+HY Prdm12 GABA VMH Nr5a1 Tbx3 Glut 
+HY Prdm12 GABA HY Six6 GABA 
+HY Prdm12 GABA HY Six3 GABA 
+HY Prdm12 GABA HY Tac2 GABA 
+HY Prdm12 GABA TH/HY Pax6 GABA 
+HY Prdm12 GABA Trp73 Glut 
+HY Prdm12 GABA MB En1 Hybrid 
+HY Prdm12 GABA TH Tfap2d Glut 
+HY Prdm12 GABA LSX/HY Otx2 Glut 
+HY Prdm12 GABA LSX/PAL/HY Bsx Glut 
+HY Prdm12 GABA HY/PAL Tbr1 Glut 
+HY Prdm12 GABA LSX/HY Otx2 GABA 
+HY Prdm12 GABA HY Satb2 GABA 
+HY Prdm12 GABA sAMY/PAL/HY Cngb3 Hybrid 
+HY Prdm12 GABA HY/TH Gnb3 GABA 
+HY Prdm12 GABA SCH GABA 
+TH/HY Pax6 GABA VMH Tbx3 Glut 
+TH/HY Pax6 GABA VMH Fezf1 Glut 
+TH/HY Pax6 GABA VMH Nr5a1 Glut 
+TH/HY Pax6 GABA VMH Nr5a1 Tbx3 Glut 
+TH/HY Pax6 GABA Trp73 Glut 
+HY Foxd2 GABA TH Otx2 GABA 
+HY Foxd2 GABA HY Otp GABA 
+HY Foxd2 GABA HY Tbx3 Glut 
+HY Foxd2 GABA VMH Tbx3 Glut 
+HY Foxd2 GABA HY Tbx3 GABA 
+HY Foxd2 GABA HY Vgll2 Glut 
+HY Foxd2 GABA HY Hmx2 Glut 
+HY Foxd2 GABA HY Skor2 Glut 
+HY Foxd2 GABA VMH Fezf1 Glut 
+HY Foxd2 GABA VMH Nr5a1 Glut 
+HY Foxd2 GABA VMH Nr5a1 Tbx3 Glut 
+HY Foxd2 GABA HY Six6 GABA 
+HY Foxd2 GABA HY Gsx1 GABA 
+HY Foxd2 GABA HY Otp Six6 GABA 
+HY Foxd2 GABA HY Six3 GABA 
+HY Foxd2 GABA HY Hmx2 GABA 
+HY Foxd2 GABA HY Tac2 GABA 
+HY Foxd2 GABA HY Onecut3 GABA 
+HY Foxd2 GABA HY Lhx1 GABA 
+HY Foxd2 GABA HY Prdm12 GABA 
+HY Foxd2 GABA TH/HY Pax6 GABA 
+HY Foxd2 GABA Trp73 Glut 
+HY Foxd2 GABA HY Otp Glut 
+HY Foxd2 GABA HY Irx6 Glut 
+HY Foxd2 GABA HY Pitx2 Glut 
+HY Foxd2 GABA MB En1 Hybrid 
+HY Foxd2 GABA TH Tfap2d Glut 
+HY Foxd2 GABA HY Isl1 Glut 
+HY Foxd2 GABA LSX/HY Otx2 Glut 
+HY Foxd2 GABA LSX/PAL/HY Bsx Glut 
+HY Foxd2 GABA HY/PAL Tbr1 Glut 
+HY Foxd2 GABA LSX/HY Otx2 GABA 
+HY Foxd2 GABA HY Satb2 GABA 
+HY Foxd2 GABA HY Nkx2-4 GABA 
+HY Foxd2 GABA HY Nkx2-4 Glut 
+HY Foxd2 GABA HY Pmch Glut 
+HY Foxd2 GABA sAMY/PAL/HY Cngb3 Hybrid 
+HY Foxd2 GABA HY/TH Gnb3 GABA 
+HY Foxd2 GABA SCH GABA 
+HY Foxd2 GABA HY Gnrh1 Glut 
+HY Bsx Lef1 GABA TH Otx2 GABA 
+HY Bsx Lef1 GABA HY Otp GABA 
+HY Bsx Lef1 GABA HY Tbx3 Glut 
+HY Bsx Lef1 GABA VMH Tbx3 Glut 
+HY Bsx Lef1 GABA HY Tbx3 GABA 
+HY Bsx Lef1 GABA HY Vgll2 Glut 
+HY Bsx Lef1 GABA HY Hmx2 Glut 
+HY Bsx Lef1 GABA HY Skor2 Glut 
+HY Bsx Lef1 GABA HY Eomes Glut 
+HY Bsx Lef1 GABA VMH Fezf1 Glut 
+HY Bsx Lef1 GABA VMH Nr5a1 Glut 
+HY Bsx Lef1 GABA VMH Nr5a1 Tbx3 Glut 
+HY Bsx Lef1 GABA HY Six6 GABA 
+HY Bsx Lef1 GABA HY Gsx1 GABA 
+HY Bsx Lef1 GABA HY Otp Six6 GABA 
+HY Bsx Lef1 GABA HY Six3 GABA 
+HY Bsx Lef1 GABA HY Hmx2 GABA 
+HY Bsx Lef1 GABA HY Tac2 GABA 
+HY Bsx Lef1 GABA HY Onecut3 GABA 
+HY Bsx Lef1 GABA HY Lhx1 GABA 
+HY Bsx Lef1 GABA HY Prdm12 GABA 
+HY Bsx Lef1 GABA TH/HY Pax6 GABA 
+HY Bsx Lef1 GABA HY Foxd2 GABA 
+HY Bsx Lef1 GABA Trp73 Glut 
+HY Bsx Lef1 GABA HY Otp Glut 
+HY Bsx Lef1 GABA HY Irx6 Glut 
+HY Bsx Lef1 GABA HY Foxa1 Glut 
+HY Bsx Lef1 GABA HY Pitx2 Glut 
+HY Bsx Lef1 GABA MB En1 Hybrid 
+HY Bsx Lef1 GABA TH Tfap2d Glut 
+HY Bsx Lef1 GABA HY Foxb1 Glut 
+HY Bsx Lef1 GABA HY Isl1 Glut 
+HY Bsx Lef1 GABA LSX/HY Otx2 Glut 
+HY Bsx Lef1 GABA LSX/PAL/HY Bsx Glut 
+HY Bsx Lef1 GABA HY/PAL Tbr1 Glut 
+HY Bsx Lef1 GABA LSX/HY Otx2 GABA 
+HY Bsx Lef1 GABA HY Satb2 GABA 
+HY Bsx Lef1 GABA HY Nkx2-4 GABA 
+HY Bsx Lef1 GABA HY Nkx2-4 Glut 
+HY Bsx Lef1 GABA HY Pmch Glut 
+HY Bsx Lef1 GABA sAMY/PAL/HY Cngb3 Hybrid 
+HY Bsx Lef1 GABA HY/TH Gnb3 GABA 
+HY Bsx Lef1 GABA SCH GABA 
+HY Bsx Lef1 GABA HY Gnrh1 Glut 
+HY Barhl2 Glut TH Otx2 GABA 
+HY Barhl2 Glut HY Otp GABA 
+HY Barhl2 Glut HY Tbx3 Glut 
+HY Barhl2 Glut VMH Tbx3 Glut 
+HY Barhl2 Glut HY Tbx3 GABA 
+HY Barhl2 Glut HY Vgll2 Glut 
+HY Barhl2 Glut HY Hmx2 Glut 
+HY Barhl2 Glut HY Skor2 Glut 
+HY Barhl2 Glut HY Eomes Glut 
+HY Barhl2 Glut VMH Fezf1 Glut 
+HY Barhl2 Glut VMH Nr5a1 Glut 
+HY Barhl2 Glut VMH Nr5a1 Tbx3 Glut 
+HY Barhl2 Glut HY Six6 GABA 
+HY Barhl2 Glut HY Gsx1 GABA 
+HY Barhl2 Glut HY Otp Six6 GABA 
+HY Barhl2 Glut HY Six3 GABA 
+HY Barhl2 Glut HY Hmx2 GABA 
+HY Barhl2 Glut HY Tac2 GABA 
+HY Barhl2 Glut HY Onecut3 GABA 
+HY Barhl2 Glut HY Lhx1 GABA 
+HY Barhl2 Glut HY Prdm12 GABA 
+HY Barhl2 Glut TH/HY Pax6 GABA 
+HY Barhl2 Glut HY Foxd2 GABA 
+HY Barhl2 Glut HY Bsx Lef1 GABA 
+HY Barhl2 Glut Trp73 Glut 
+HY Barhl2 Glut HY Otp Glut 
+HY Barhl2 Glut HY Irx6 Glut 
+HY Barhl2 Glut HY Foxa1 Glut 
+HY Barhl2 Glut HY Pitx2 Glut 
+HY Barhl2 Glut MB En1 Hybrid 
+HY Barhl2 Glut TH Tfap2d Glut 
+HY Barhl2 Glut HY Foxb1 Glut 
+HY Barhl2 Glut HY Isl1 Glut 
+HY Barhl2 Glut LSX/HY Otx2 Glut 
+HY Barhl2 Glut LSX/PAL/HY Bsx Glut 
+HY Barhl2 Glut HY/PAL Tbr1 Glut 
+HY Barhl2 Glut LSX/HY Otx2 GABA 
+HY Barhl2 Glut HY Satb2 GABA 
+HY Barhl2 Glut HY Nkx2-4 GABA 
+HY Barhl2 Glut HY Nkx2-4 Glut 
+HY Barhl2 Glut HY Pmch Glut 
+HY Barhl2 Glut sAMY/PAL/HY Cngb3 Hybrid 
+HY Barhl2 Glut HY/TH Gnb3 GABA 
+HY Barhl2 Glut SCH GABA 
+HY Barhl2 Glut HY Gnrh1 Glut 
+Trp73 Glut VMH Tbx3 Glut 
+Trp73 Glut VMH Fezf1 Glut 
+Trp73 Glut VMH Nr5a1 Glut 
+Trp73 Glut VMH Nr5a1 Tbx3 Glut 
+HY Otp Glut TH Otx2 GABA 
+HY Otp Glut HY Tbx3 Glut 
+HY Otp Glut VMH Tbx3 Glut 
+HY Otp Glut HY Tbx3 GABA 
+HY Otp Glut HY Vgll2 Glut 
+HY Otp Glut HY Skor2 Glut 
+HY Otp Glut VMH Fezf1 Glut 
+HY Otp Glut VMH Nr5a1 Glut 
+HY Otp Glut VMH Nr5a1 Tbx3 Glut 
+HY Otp Glut HY Six6 GABA 
+HY Otp Glut HY Otp Six6 GABA 
+HY Otp Glut HY Six3 GABA 
+HY Otp Glut HY Tac2 GABA 
+HY Otp Glut HY Prdm12 GABA 
+HY Otp Glut TH/HY Pax6 GABA 
+HY Otp Glut Trp73 Glut 
+HY Otp Glut HY Pitx2 Glut 
+HY Otp Glut MB En1 Hybrid 
+HY Otp Glut TH Tfap2d Glut 
+HY Otp Glut LSX/HY Otx2 Glut 
+HY Otp Glut LSX/PAL/HY Bsx Glut 
+HY Otp Glut HY/PAL Tbr1 Glut 
+HY Otp Glut LSX/HY Otx2 GABA 
+HY Otp Glut HY Satb2 GABA 
+HY Otp Glut HY Pmch Glut 
+HY Otp Glut sAMY/PAL/HY Cngb3 Hybrid 
+HY Otp Glut HY/TH Gnb3 GABA 
+HY Otp Glut SCH GABA 
+HY Irx6 Glut TH Otx2 GABA 
+HY Irx6 Glut HY Otp GABA 
+HY Irx6 Glut HY Tbx3 Glut 
+HY Irx6 Glut VMH Tbx3 Glut 
+HY Irx6 Glut HY Tbx3 GABA 
+HY Irx6 Glut HY Vgll2 Glut 
+HY Irx6 Glut HY Skor2 Glut 
+HY Irx6 Glut VMH Fezf1 Glut 
+HY Irx6 Glut VMH Nr5a1 Glut 
+HY Irx6 Glut VMH Nr5a1 Tbx3 Glut 
+HY Irx6 Glut HY Six6 GABA 
+HY Irx6 Glut HY Otp Six6 GABA 
+HY Irx6 Glut HY Six3 GABA 
+HY Irx6 Glut HY Tac2 GABA 
+HY Irx6 Glut HY Onecut3 GABA 
+HY Irx6 Glut HY Lhx1 GABA 
+HY Irx6 Glut HY Prdm12 GABA 
+HY Irx6 Glut TH/HY Pax6 GABA 
+HY Irx6 Glut Trp73 Glut 
+HY Irx6 Glut HY Otp Glut 
+HY Irx6 Glut HY Pitx2 Glut 
+HY Irx6 Glut MB En1 Hybrid 
+HY Irx6 Glut TH Tfap2d Glut 
+HY Irx6 Glut HY Isl1 Glut 
+HY Irx6 Glut LSX/HY Otx2 Glut 
+HY Irx6 Glut LSX/PAL/HY Bsx Glut 
+HY Irx6 Glut HY/PAL Tbr1 Glut 
+HY Irx6 Glut LSX/HY Otx2 GABA 
+HY Irx6 Glut HY Satb2 GABA 
+HY Irx6 Glut HY Nkx2-4 GABA 
+HY Irx6 Glut HY Nkx2-4 Glut 
+HY Irx6 Glut HY Pmch Glut 
+HY Irx6 Glut sAMY/PAL/HY Cngb3 Hybrid 
+HY Irx6 Glut HY/TH Gnb3 GABA 
+HY Irx6 Glut SCH GABA 
+HY Foxa1 Glut TH Otx2 GABA 
+HY Foxa1 Glut HY Otp GABA 
+HY Foxa1 Glut HY Tbx3 Glut 
+HY Foxa1 Glut VMH Tbx3 Glut 
+HY Foxa1 Glut HY Tbx3 GABA 
+HY Foxa1 Glut HY Vgll2 Glut 
+HY Foxa1 Glut HY Hmx2 Glut 
+HY Foxa1 Glut HY Skor2 Glut 
+HY Foxa1 Glut VMH Fezf1 Glut 
+HY Foxa1 Glut VMH Nr5a1 Glut 
+HY Foxa1 Glut VMH Nr5a1 Tbx3 Glut 
+HY Foxa1 Glut HY Six6 GABA 
+HY Foxa1 Glut HY Gsx1 GABA 
+HY Foxa1 Glut HY Otp Six6 GABA 
+HY Foxa1 Glut HY Six3 GABA 
+HY Foxa1 Glut HY Hmx2 GABA 
+HY Foxa1 Glut HY Tac2 GABA 
+HY Foxa1 Glut HY Onecut3 GABA 
+HY Foxa1 Glut HY Lhx1 GABA 
+HY Foxa1 Glut HY Prdm12 GABA 
+HY Foxa1 Glut TH/HY Pax6 GABA 
+HY Foxa1 Glut HY Foxd2 GABA 
+HY Foxa1 Glut Trp73 Glut 
+HY Foxa1 Glut HY Otp Glut 
+HY Foxa1 Glut HY Irx6 Glut 
+HY Foxa1 Glut HY Pitx2 Glut 
+HY Foxa1 Glut MB En1 Hybrid 
+HY Foxa1 Glut TH Tfap2d Glut 
+HY Foxa1 Glut HY Foxb1 Glut 
+HY Foxa1 Glut HY Isl1 Glut 
+HY Foxa1 Glut LSX/HY Otx2 Glut 
+HY Foxa1 Glut LSX/PAL/HY Bsx Glut 
+HY Foxa1 Glut HY/PAL Tbr1 Glut 
+HY Foxa1 Glut LSX/HY Otx2 GABA 
+HY Foxa1 Glut HY Satb2 GABA 
+HY Foxa1 Glut HY Nkx2-4 GABA 
+HY Foxa1 Glut HY Nkx2-4 Glut 
+HY Foxa1 Glut HY Pmch Glut 
+HY Foxa1 Glut sAMY/PAL/HY Cngb3 Hybrid 
+HY Foxa1 Glut HY/TH Gnb3 GABA 
+HY Foxa1 Glut SCH GABA 
+HY Foxa1 Glut HY Gnrh1 Glut 
+HY Pitx2 Glut TH Otx2 GABA 
+HY Pitx2 Glut HY Tbx3 Glut 
+HY Pitx2 Glut VMH Tbx3 Glut 
+HY Pitx2 Glut HY Tbx3 GABA 
+HY Pitx2 Glut HY Vgll2 Glut 
+HY Pitx2 Glut HY Skor2 Glut 
+HY Pitx2 Glut VMH Fezf1 Glut 
+HY Pitx2 Glut VMH Nr5a1 Glut 
+HY Pitx2 Glut VMH Nr5a1 Tbx3 Glut 
+HY Pitx2 Glut HY Six6 GABA 
+HY Pitx2 Glut HY Six3 GABA 
+HY Pitx2 Glut HY Tac2 GABA 
+HY Pitx2 Glut HY Prdm12 GABA 
+HY Pitx2 Glut TH/HY Pax6 GABA 
+HY Pitx2 Glut Trp73 Glut 
+HY Pitx2 Glut MB En1 Hybrid 
+HY Pitx2 Glut TH Tfap2d Glut 
+HY Pitx2 Glut LSX/HY Otx2 Glut 
+HY Pitx2 Glut LSX/PAL/HY Bsx Glut 
+HY Pitx2 Glut HY/PAL Tbr1 Glut 
+HY Pitx2 Glut LSX/HY Otx2 GABA 
+HY Pitx2 Glut HY Satb2 GABA 
+HY Pitx2 Glut HY Pmch Glut 
+HY Pitx2 Glut sAMY/PAL/HY Cngb3 Hybrid 
+HY Pitx2 Glut HY/TH Gnb3 GABA 
+HY Pitx2 Glut SCH GABA 
+MB En1 Hybrid TH Otx2 GABA 
+MB En1 Hybrid VMH Tbx3 Glut 
+MB En1 Hybrid VMH Fezf1 Glut 
+MB En1 Hybrid VMH Nr5a1 Glut 
+MB En1 Hybrid VMH Nr5a1 Tbx3 Glut 
+MB En1 Hybrid TH/HY Pax6 GABA 
+MB En1 Hybrid Trp73 Glut 
+MB En1 Hybrid TH Tfap2d Glut 
+MB En1 Hybrid sAMY/PAL/HY Cngb3 Hybrid 
+MB En1 Hybrid SCH GABA 
+TH Tfap2d Glut VMH Tbx3 Glut 
+TH Tfap2d Glut VMH Fezf1 Glut 
+TH Tfap2d Glut VMH Nr5a1 Glut 
+TH Tfap2d Glut VMH Nr5a1 Tbx3 Glut 
+TH Tfap2d Glut TH/HY Pax6 GABA 
+TH Tfap2d Glut Trp73 Glut 
+HY Foxb1 Glut TH Otx2 GABA 
+HY Foxb1 Glut HY Otp GABA 
+HY Foxb1 Glut HY Tbx3 Glut 
+HY Foxb1 Glut VMH Tbx3 Glut 
+HY Foxb1 Glut HY Tbx3 GABA 
+HY Foxb1 Glut HY Vgll2 Glut 
+HY Foxb1 Glut HY Hmx2 Glut 
+HY Foxb1 Glut HY Skor2 Glut 
+HY Foxb1 Glut VMH Fezf1 Glut 
+HY Foxb1 Glut VMH Nr5a1 Glut 
+HY Foxb1 Glut VMH Nr5a1 Tbx3 Glut 
+HY Foxb1 Glut HY Six6 GABA 
+HY Foxb1 Glut HY Gsx1 GABA 
+HY Foxb1 Glut HY Otp Six6 GABA 
+HY Foxb1 Glut HY Six3 GABA 
+HY Foxb1 Glut HY Hmx2 GABA 
+HY Foxb1 Glut HY Tac2 GABA 
+HY Foxb1 Glut HY Onecut3 GABA 
+HY Foxb1 Glut HY Lhx1 GABA 
+HY Foxb1 Glut HY Prdm12 GABA 
+HY Foxb1 Glut TH/HY Pax6 GABA 
+HY Foxb1 Glut HY Foxd2 GABA 
+HY Foxb1 Glut Trp73 Glut 
+HY Foxb1 Glut HY Otp Glut 
+HY Foxb1 Glut HY Irx6 Glut 
+HY Foxb1 Glut HY Pitx2 Glut 
+HY Foxb1 Glut MB En1 Hybrid 
+HY Foxb1 Glut TH Tfap2d Glut 
+HY Foxb1 Glut HY Isl1 Glut 
+HY Foxb1 Glut LSX/HY Otx2 Glut 
+HY Foxb1 Glut LSX/PAL/HY Bsx Glut 
+HY Foxb1 Glut HY/PAL Tbr1 Glut 
+HY Foxb1 Glut LSX/HY Otx2 GABA 
+HY Foxb1 Glut HY Satb2 GABA 
+HY Foxb1 Glut HY Nkx2-4 GABA 
+HY Foxb1 Glut HY Nkx2-4 Glut 
+HY Foxb1 Glut HY Pmch Glut 
+HY Foxb1 Glut sAMY/PAL/HY Cngb3 Hybrid 
+HY Foxb1 Glut HY/TH Gnb3 GABA 
+HY Foxb1 Glut SCH GABA 
+HY Foxb1 Glut HY Gnrh1 Glut 
+HY Isl1 Glut TH Otx2 GABA 
+HY Isl1 Glut HY Otp GABA 
+HY Isl1 Glut HY Tbx3 Glut 
+HY Isl1 Glut VMH Tbx3 Glut 
+HY Isl1 Glut HY Tbx3 GABA 
+HY Isl1 Glut HY Vgll2 Glut 
+HY Isl1 Glut HY Skor2 Glut 
+HY Isl1 Glut VMH Fezf1 Glut 
+HY Isl1 Glut VMH Nr5a1 Glut 
+HY Isl1 Glut VMH Nr5a1 Tbx3 Glut 
+HY Isl1 Glut HY Six6 GABA 
+HY Isl1 Glut HY Otp Six6 GABA 
+HY Isl1 Glut HY Six3 GABA 
+HY Isl1 Glut HY Tac2 GABA 
+HY Isl1 Glut HY Onecut3 GABA 
+HY Isl1 Glut HY Lhx1 GABA 
+HY Isl1 Glut HY Prdm12 GABA 
+HY Isl1 Glut TH/HY Pax6 GABA 
+HY Isl1 Glut Trp73 Glut 
+HY Isl1 Glut HY Otp Glut 
+HY Isl1 Glut HY Pitx2 Glut 
+HY Isl1 Glut MB En1 Hybrid 
+HY Isl1 Glut TH Tfap2d Glut 
+HY Isl1 Glut LSX/HY Otx2 Glut 
+HY Isl1 Glut LSX/PAL/HY Bsx Glut 
+HY Isl1 Glut HY/PAL Tbr1 Glut 
+HY Isl1 Glut LSX/HY Otx2 GABA 
+HY Isl1 Glut HY Satb2 GABA 
+HY Isl1 Glut HY Nkx2-4 GABA 
+HY Isl1 Glut HY Nkx2-4 Glut 
+HY Isl1 Glut HY Pmch Glut 
+HY Isl1 Glut sAMY/PAL/HY Cngb3 Hybrid 
+HY Isl1 Glut HY/TH Gnb3 GABA 
+HY Isl1 Glut SCH GABA 
+LSX/HY Otx2 Glut TH Otx2 GABA 
+LSX/HY Otx2 Glut VMH Tbx3 Glut 
+LSX/HY Otx2 Glut VMH Fezf1 Glut 
+LSX/HY Otx2 Glut VMH Nr5a1 Glut 
+LSX/HY Otx2 Glut VMH Nr5a1 Tbx3 Glut 
+LSX/HY Otx2 Glut TH/HY Pax6 GABA 
+LSX/HY Otx2 Glut Trp73 Glut 
+LSX/HY Otx2 Glut MB En1 Hybrid 
+LSX/HY Otx2 Glut TH Tfap2d Glut 
+LSX/HY Otx2 Glut LSX/PAL/HY Bsx Glut 
+LSX/HY Otx2 Glut sAMY/PAL/HY Cngb3 Hybrid 
+LSX/HY Otx2 Glut SCH GABA 
+LSX/PAL/HY Bsx Glut TH Otx2 GABA 
+LSX/PAL/HY Bsx Glut VMH Tbx3 Glut 
+LSX/PAL/HY Bsx Glut VMH Fezf1 Glut 
+LSX/PAL/HY Bsx Glut VMH Nr5a1 Glut 
+LSX/PAL/HY Bsx Glut VMH Nr5a1 Tbx3 Glut 
+LSX/PAL/HY Bsx Glut TH/HY Pax6 GABA 
+LSX/PAL/HY Bsx Glut Trp73 Glut 
+LSX/PAL/HY Bsx Glut MB En1 Hybrid 
+LSX/PAL/HY Bsx Glut TH Tfap2d Glut 
+LSX/PAL/HY Bsx Glut sAMY/PAL/HY Cngb3 Hybrid 
+LSX/PAL/HY Bsx Glut SCH GABA 
+HY/PAL Tbr1 Glut TH Otx2 GABA 
+HY/PAL Tbr1 Glut VMH Tbx3 Glut 
+HY/PAL Tbr1 Glut VMH Fezf1 Glut 
+HY/PAL Tbr1 Glut VMH Nr5a1 Glut 
+HY/PAL Tbr1 Glut VMH Nr5a1 Tbx3 Glut 
+HY/PAL Tbr1 Glut TH/HY Pax6 GABA 
+HY/PAL Tbr1 Glut Trp73 Glut 
+HY/PAL Tbr1 Glut MB En1 Hybrid 
+HY/PAL Tbr1 Glut TH Tfap2d Glut 
+HY/PAL Tbr1 Glut LSX/HY Otx2 Glut 
+HY/PAL Tbr1 Glut LSX/PAL/HY Bsx Glut 
+HY/PAL Tbr1 Glut LSX/HY Otx2 GABA 
+HY/PAL Tbr1 Glut sAMY/PAL/HY Cngb3 Hybrid 
+HY/PAL Tbr1 Glut HY/TH Gnb3 GABA 
+HY/PAL Tbr1 Glut SCH GABA 
+LSX/HY Otx2 GABA TH Otx2 GABA 
+LSX/HY Otx2 GABA VMH Tbx3 Glut 
+LSX/HY Otx2 GABA VMH Fezf1 Glut 
+LSX/HY Otx2 GABA VMH Nr5a1 Glut 
+LSX/HY Otx2 GABA VMH Nr5a1 Tbx3 Glut 
+LSX/HY Otx2 GABA TH/HY Pax6 GABA 
+LSX/HY Otx2 GABA Trp73 Glut 
+LSX/HY Otx2 GABA MB En1 Hybrid 
+LSX/HY Otx2 GABA TH Tfap2d Glut 
+LSX/HY Otx2 GABA LSX/HY Otx2 Glut 
+LSX/HY Otx2 GABA LSX/PAL/HY Bsx Glut 
+LSX/HY Otx2 GABA sAMY/PAL/HY Cngb3 Hybrid 
+LSX/HY Otx2 GABA SCH GABA 
+HY Satb2 GABA TH Otx2 GABA 
+HY Satb2 GABA HY Tbx3 Glut 
+HY Satb2 GABA VMH Tbx3 Glut 
+HY Satb2 GABA HY Tbx3 GABA 
+HY Satb2 GABA HY Vgll2 Glut 
+HY Satb2 GABA HY Skor2 Glut 
+HY Satb2 GABA VMH Fezf1 Glut 
+HY Satb2 GABA VMH Nr5a1 Glut 
+HY Satb2 GABA VMH Nr5a1 Tbx3 Glut 
+HY Satb2 GABA HY Six6 GABA 
+HY Satb2 GABA HY Six3 GABA 
+HY Satb2 GABA HY Tac2 GABA 
+HY Satb2 GABA TH/HY Pax6 GABA 
+HY Satb2 GABA Trp73 Glut 
+HY Satb2 GABA MB En1 Hybrid 
+HY Satb2 GABA TH Tfap2d Glut 
+HY Satb2 GABA LSX/HY Otx2 Glut 
+HY Satb2 GABA LSX/PAL/HY Bsx Glut 
+HY Satb2 GABA HY/PAL Tbr1 Glut 
+HY Satb2 GABA LSX/HY Otx2 GABA 
+HY Satb2 GABA sAMY/PAL/HY Cngb3 Hybrid 
+HY Satb2 GABA HY/TH Gnb3 GABA 
+HY Satb2 GABA SCH GABA 
+HY Nkx2-4 GABA TH Otx2 GABA 
+HY Nkx2-4 GABA HY Otp GABA 
+HY Nkx2-4 GABA HY Tbx3 Glut 
+HY Nkx2-4 GABA VMH Tbx3 Glut 
+HY Nkx2-4 GABA HY Tbx3 GABA 
+HY Nkx2-4 GABA HY Vgll2 Glut 
+HY Nkx2-4 GABA HY Skor2 Glut 
+HY Nkx2-4 GABA VMH Fezf1 Glut 
+HY Nkx2-4 GABA VMH Nr5a1 Glut 
+HY Nkx2-4 GABA VMH Nr5a1 Tbx3 Glut 
+HY Nkx2-4 GABA HY Six6 GABA 
+HY Nkx2-4 GABA HY Otp Six6 GABA 
+HY Nkx2-4 GABA HY Six3 GABA 
+HY Nkx2-4 GABA HY Tac2 GABA 
+HY Nkx2-4 GABA HY Onecut3 GABA 
+HY Nkx2-4 GABA HY Prdm12 GABA 
+HY Nkx2-4 GABA TH/HY Pax6 GABA 
+HY Nkx2-4 GABA Trp73 Glut 
+HY Nkx2-4 GABA HY Otp Glut 
+HY Nkx2-4 GABA HY Pitx2 Glut 
+HY Nkx2-4 GABA MB En1 Hybrid 
+HY Nkx2-4 GABA TH Tfap2d Glut 
+HY Nkx2-4 GABA LSX/HY Otx2 Glut 
+HY Nkx2-4 GABA LSX/PAL/HY Bsx Glut 
+HY Nkx2-4 GABA HY/PAL Tbr1 Glut 
+HY Nkx2-4 GABA LSX/HY Otx2 GABA 
+HY Nkx2-4 GABA HY Satb2 GABA 
+HY Nkx2-4 GABA HY Nkx2-4 Glut 
+HY Nkx2-4 GABA HY Pmch Glut 
+HY Nkx2-4 GABA sAMY/PAL/HY Cngb3 Hybrid 
+HY Nkx2-4 GABA HY/TH Gnb3 GABA 
+HY Nkx2-4 GABA SCH GABA 
+HY Nkx2-4 Glut TH Otx2 GABA 
+HY Nkx2-4 Glut HY Otp GABA 
+HY Nkx2-4 Glut HY Tbx3 Glut 
+HY Nkx2-4 Glut VMH Tbx3 Glut 
+HY Nkx2-4 Glut HY Tbx3 GABA 
+HY Nkx2-4 Glut HY Vgll2 Glut 
+HY Nkx2-4 Glut HY Skor2 Glut 
+HY Nkx2-4 Glut VMH Fezf1 Glut 
+HY Nkx2-4 Glut VMH Nr5a1 Glut 
+HY Nkx2-4 Glut VMH Nr5a1 Tbx3 Glut 
+HY Nkx2-4 Glut HY Six6 GABA 
+HY Nkx2-4 Glut HY Otp Six6 GABA 
+HY Nkx2-4 Glut HY Six3 GABA 
+HY Nkx2-4 Glut HY Tac2 GABA 
+HY Nkx2-4 Glut HY Onecut3 GABA 
+HY Nkx2-4 Glut HY Prdm12 GABA 
+HY Nkx2-4 Glut TH/HY Pax6 GABA 
+HY Nkx2-4 Glut Trp73 Glut 
+HY Nkx2-4 Glut HY Otp Glut 
+HY Nkx2-4 Glut HY Pitx2 Glut 
+HY Nkx2-4 Glut MB En1 Hybrid 
+HY Nkx2-4 Glut TH Tfap2d Glut 
+HY Nkx2-4 Glut LSX/HY Otx2 Glut 
+HY Nkx2-4 Glut LSX/PAL/HY Bsx Glut 
+HY Nkx2-4 Glut HY/PAL Tbr1 Glut 
+HY Nkx2-4 Glut LSX/HY Otx2 GABA 
+HY Nkx2-4 Glut HY Satb2 GABA 
+HY Nkx2-4 Glut HY Pmch Glut 
+HY Nkx2-4 Glut sAMY/PAL/HY Cngb3 Hybrid 
+HY Nkx2-4 Glut HY/TH Gnb3 GABA 
+HY Nkx2-4 Glut SCH GABA 
+HY Pmch Glut TH Otx2 GABA 
+HY Pmch Glut HY Tbx3 Glut 
+HY Pmch Glut VMH Tbx3 Glut 
+HY Pmch Glut HY Tbx3 GABA 
+HY Pmch Glut HY Vgll2 Glut 
+HY Pmch Glut HY Skor2 Glut 
+HY Pmch Glut VMH Fezf1 Glut 
+HY Pmch Glut VMH Nr5a1 Glut 
+HY Pmch Glut VMH Nr5a1 Tbx3 Glut 
+HY Pmch Glut HY Six6 GABA 
+HY Pmch Glut HY Six3 GABA 
+HY Pmch Glut HY Tac2 GABA 
+HY Pmch Glut HY Prdm12 GABA 
+HY Pmch Glut TH/HY Pax6 GABA 
+HY Pmch Glut Trp73 Glut 
+HY Pmch Glut MB En1 Hybrid 
+HY Pmch Glut TH Tfap2d Glut 
+HY Pmch Glut LSX/HY Otx2 Glut 
+HY Pmch Glut LSX/PAL/HY Bsx Glut 
+HY Pmch Glut HY/PAL Tbr1 Glut 
+HY Pmch Glut LSX/HY Otx2 GABA 
+HY Pmch Glut HY Satb2 GABA 
+HY Pmch Glut sAMY/PAL/HY Cngb3 Hybrid 
+HY Pmch Glut HY/TH Gnb3 GABA 
+HY Pmch Glut SCH GABA 
+sAMY/PAL/HY Cngb3 Hybrid TH Otx2 GABA 
+sAMY/PAL/HY Cngb3 Hybrid VMH Tbx3 Glut 
+sAMY/PAL/HY Cngb3 Hybrid VMH Fezf1 Glut 
+sAMY/PAL/HY Cngb3 Hybrid VMH Nr5a1 Glut 
+sAMY/PAL/HY Cngb3 Hybrid VMH Nr5a1 Tbx3 Glut 
+sAMY/PAL/HY Cngb3 Hybrid TH/HY Pax6 GABA 
+sAMY/PAL/HY Cngb3 Hybrid Trp73 Glut 
+sAMY/PAL/HY Cngb3 Hybrid TH Tfap2d Glut 
+sAMY/PAL/HY Cngb3 Hybrid SCH GABA 
+HY/TH Gnb3 GABA TH Otx2 GABA 
+HY/TH Gnb3 GABA VMH Tbx3 Glut 
+HY/TH Gnb3 GABA VMH Fezf1 Glut 
+HY/TH Gnb3 GABA VMH Nr5a1 Glut 
+HY/TH Gnb3 GABA VMH Nr5a1 Tbx3 Glut 
+HY/TH Gnb3 GABA TH/HY Pax6 GABA 
+HY/TH Gnb3 GABA Trp73 Glut 
+HY/TH Gnb3 GABA MB En1 Hybrid 
+HY/TH Gnb3 GABA TH Tfap2d Glut 
+HY/TH Gnb3 GABA LSX/HY Otx2 Glut 
+HY/TH Gnb3 GABA LSX/PAL/HY Bsx Glut 
+HY/TH Gnb3 GABA LSX/HY Otx2 GABA 
+HY/TH Gnb3 GABA sAMY/PAL/HY Cngb3 Hybrid 
+HY/TH Gnb3 GABA SCH GABA 
+SCH GABA TH Otx2 GABA 
+SCH GABA VMH Tbx3 Glut 
+SCH GABA VMH Fezf1 Glut 
+SCH GABA VMH Nr5a1 Glut 
+SCH GABA VMH Nr5a1 Tbx3 Glut 
+SCH GABA TH/HY Pax6 GABA 
+SCH GABA Trp73 Glut 
+SCH GABA TH Tfap2d Glut 
+HY Gnrh1 Glut TH Otx2 GABA 
+HY Gnrh1 Glut HY Otp GABA 
+HY Gnrh1 Glut HY Tbx3 Glut 
+HY Gnrh1 Glut VMH Tbx3 Glut 
+HY Gnrh1 Glut HY Tbx3 GABA 
+HY Gnrh1 Glut HY Vgll2 Glut 
+HY Gnrh1 Glut HY Hmx2 Glut 
+HY Gnrh1 Glut HY Skor2 Glut 
+HY Gnrh1 Glut VMH Fezf1 Glut 
+HY Gnrh1 Glut VMH Nr5a1 Glut 
+HY Gnrh1 Glut VMH Nr5a1 Tbx3 Glut 
+HY Gnrh1 Glut HY Six6 GABA 
+HY Gnrh1 Glut HY Gsx1 GABA 
+HY Gnrh1 Glut HY Otp Six6 GABA 
+HY Gnrh1 Glut HY Six3 GABA 
+HY Gnrh1 Glut HY Hmx2 GABA 
+HY Gnrh1 Glut HY Tac2 GABA 
+HY Gnrh1 Glut HY Onecut3 GABA 
+HY Gnrh1 Glut HY Lhx1 GABA 
+HY Gnrh1 Glut HY Prdm12 GABA 
+HY Gnrh1 Glut TH/HY Pax6 GABA 
+HY Gnrh1 Glut Trp73 Glut 
+HY Gnrh1 Glut HY Otp Glut 
+HY Gnrh1 Glut HY Irx6 Glut 
+HY Gnrh1 Glut HY Pitx2 Glut 
+HY Gnrh1 Glut MB En1 Hybrid 
+HY Gnrh1 Glut TH Tfap2d Glut 
+HY Gnrh1 Glut HY Isl1 Glut 
+HY Gnrh1 Glut LSX/HY Otx2 Glut 
+HY Gnrh1 Glut LSX/PAL/HY Bsx Glut 
+HY Gnrh1 Glut HY/PAL Tbr1 Glut 
+HY Gnrh1 Glut LSX/HY Otx2 GABA 
+HY Gnrh1 Glut HY Satb2 GABA 
+HY Gnrh1 Glut HY Nkx2-4 GABA 
+HY Gnrh1 Glut HY Nkx2-4 Glut 
+HY Gnrh1 Glut HY Pmch Glut 
+HY Gnrh1 Glut sAMY/PAL/HY Cngb3 Hybrid 
+HY Gnrh1 Glut HY/TH Gnb3 GABA 
+HY Gnrh1 Glut SCH GABA 
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 Rbms1    2990
+2 Cdh6     2989
+3 Grm8     2988
+4 Slit3    2987
+5 Pou2f2   2986
+6 Fam19a1  1998
+[1] "Rbms1"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Cdh6    2989
+2 Grm8    2988
+3 Slit3   2987
+4 Pou2f2  2986
+5 Zfhx3   1997
+6 Cdh9    1995
+[1] "Cdh6"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Slit3   2987
+2 Pou2f2  2986
+3 Zfhx3   1997
+4 Cdh9    1995
+5 Nnat    1995
+6 Hunk    1992
+[1] "Slit3"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Pou2f2  2986
+2 Cdh9    1995
+3 Nnat    1995
+4 Hunk    1992
+5 Tshz2   1992
+6 Crim1   1991
+[1] "Pou2f2"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Cdh9    1995
+2 Hunk    1992
+3 B3glct  1987
+4 Cntn4    999
+5 Crhr2    999
+6 Egflam   999
+[1] "Cdh9"
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 Hunk     1992
+2 B3glct   1987
+3 Cntn4     999
+4 Crhr2     999
+5 Egflam    999
+6 Fam19a2   999
+[1] "Hunk"
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 B3glct   1987
+2 Cntn4     999
+3 Crhr2     999
+4 Egflam    999
+5 Fam19a2   999
+6 Nox4      999
+[1] "B3glct"
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 Cntn4     999
+2 Egflam    999
+3 Fam19a2   999
+4 Nox4      999
+5 Ptger3    999
+6 Cckar     998
+[1] "Cntn4"
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 Egflam    999
+2 Fam19a2   999
+3 Nox4      999
+4 Ptger3    999
+5 Cckar     998
+6 Kcns3     998
+[1] "Egflam"
+# A tibble: 6 × 2
+  gene          score
+  <chr>         <dbl>
+1 Fam19a2         999
+2 Nox4            999
+3 Ptger3          999
+4 Cckar           998
+5 Kcns3           998
+6 1810041L15Rik   997
+[1] "Fam19a2"
+# A tibble: 6 × 2
+  gene          score
+  <chr>         <dbl>
+1 Nox4            999
+2 Ptger3          999
+3 Cckar           998
+4 Kcns3           998
+5 1810041L15Rik   997
+6 Actn2           997
+[1] "Nox4"
+# A tibble: 6 × 2
+  gene          score
+  <chr>         <dbl>
+1 Ptger3          999
+2 Kcns3           998
+3 1810041L15Rik   997
+4 Actn2           997
+5 Ap1s2           997
+6 Arhgap6         997
+[1] "Ptger3"
+# A tibble: 6 × 2
+  gene          score
+  <chr>         <dbl>
+1 Kcns3           998
+2 1810041L15Rik   997
+3 Actn2           997
+4 Ap1s2           997
+5 Arhgap6         997
+6 Pcsk5           997
+[1] "Kcns3"
+# A tibble: 6 × 2
+  gene          score
+  <chr>         <dbl>
+1 1810041L15Rik   997
+2 Actn2           997
+3 Ap1s2           997
+4 Arhgap6         997
+5 Pcsk5           997
+6 Sel1l3          997
+[1] "1810041L15Rik"
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 Actn2     997
+2 Ap1s2     997
+3 Arhgap6   997
+4 Pcsk5     997
+5 Sel1l3    997
+6 Tbc1d8b   997
+[1] "Actn2"
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 Ap1s2     997
+2 Arhgap6   997
+3 Pcsk5     997
+4 Sel1l3    997
+5 Tbc1d8b   997
+6 Tph1      997
+[1] "Ap1s2"
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 Arhgap6   997
+2 Pcsk5     997
+3 Sel1l3    997
+4 Tbc1d8b   997
+5 Tph1      997
+6 Tshz2     997
+[1] "Arhgap6"
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 Pcsk5     997
+2 Sel1l3    997
+3 Tbc1d8b   997
+4 Tph1      997
+5 Tshz2     997
+6 Tspan18   997
+[1] "Pcsk5"
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 Sel1l3    997
+2 Tbc1d8b   997
+3 Tph1      997
+4 Tshz2     997
+5 Tspan18   997
+6 Ust       997
+[1] "Sel1l3"
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 Tbc1d8b   997
+2 Tph1      997
+3 Tshz2     997
+4 Tspan18   997
+5 Ust       997
+6 Csmd2     996
+[1] "Tbc1d8b"
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 Tph1      997
+2 Tshz2     997
+3 Tspan18   997
+4 Ust       997
+5 Csmd2     996
+6 Rbp3      996
+[1] "Tph1"
+# A tibble: 4 × 2
+  gene    score
+  <chr>   <dbl>
+1 Tshz2     997
+2 Tspan18   997
+3 Ust       997
+4 Csmd2     996
+[1] "Tshz2"
+# A tibble: 2 × 2
+  gene    score
+  <chr>   <dbl>
+1 Tspan18   997
+2 Ust       997
+[1] "Tspan18"
+# A tibble: 1 × 2
+  gene  score
+  <chr> <dbl>
+1 Ust     997
+[1] "Ust"
+[1] "root:HY:TH Otx2 GABA"
+[1] "@3/3   ngroup=5, ncluster=5"
+[1] "root:HY:HY Otp GABA"
+[1] "@3/3   ngroup=1, ncluster=1"
+[1] "root:HY:HY Tbx3 Glut"
+[1] "@3/3   ngroup=4, ncluster=4"
+[1] "root:HY:VMH Tbx3 Glut"
+[1] "@3/3   ngroup=3, ncluster=3"
+[1] "root:HY:HY Tbx3 GABA"
+[1] "@3/3   ngroup=9, ncluster=9"
+[1] "root:HY:HY Vgll2 Glut"
+[1] "@3/3   ngroup=3, ncluster=3"
+[1] "root:HY:HY Hmx2 Glut"
+[1] "@3/3   ngroup=5, ncluster=5"
+[1] "root:HY:HY Skor2 Glut"
+[1] "@3/3   ngroup=11, ncluster=11"
+[1] "root:HY:HY Eomes Glut"
+[1] "@3/3   ngroup=12, ncluster=12"
+[1] "root:HY:VMH Fezf1 Glut"
+[1] "@3/3   ngroup=11, ncluster=11"
+[1] "root:HY:VMH Nr5a1 Glut"
+[1] "@3/3   ngroup=9, ncluster=9"
+[1] "root:HY:VMH Nr5a1 Tbx3 Glut"
+[1] "@3/3   ngroup=4, ncluster=4"
+[1] "root:HY:HY Six6 GABA"
+[1] "@3/3   ngroup=10, ncluster=10"
+[1] "root:HY:HY Gsx1 GABA"
+[1] "@3/3   ngroup=17, ncluster=17"
+[1] "root:HY:HY Otp Six6 GABA"
+[1] "@3/3   ngroup=16, ncluster=16"
+[1] "root:HY:HY Six3 GABA"
+[1] "@3/3   ngroup=44, ncluster=44"
+[1] "root:HY:HY Hmx2 GABA"
+[1] "@3/3   ngroup=50, ncluster=50"
+[1] "root:HY:HY Tac2 GABA"
+[1] "@3/3   ngroup=11, ncluster=11"
+[1] "root:HY:HY Onecut3 GABA"
+[1] "@3/3   ngroup=8, ncluster=8"
+[1] "root:HY:HY Lhx1 GABA"
+[1] "@3/3   ngroup=25, ncluster=25"
+[1] "root:HY:HY Prdm12 GABA"
+[1] "@3/3   ngroup=19, ncluster=19"
+[1] "root:HY:TH/HY Pax6 GABA"
+[1] "@3/3   ngroup=36, ncluster=36"
+[1] "root:HY:HY Foxd2 GABA"
+[1] "@3/3   ngroup=15, ncluster=15"
+[1] "root:HY:HY Bsx Lef1 GABA"
+[1] "@3/3   ngroup=3, ncluster=3"
+[1] "root:HY:HY Barhl2 Glut"
+[1] "@3/3   ngroup=11, ncluster=11"
+[1] "root:HY:Trp73 Glut"
+[1] "@3/3   ngroup=12, ncluster=12"
+[1] "root:HY:HY Otp Glut"
+[1] "@3/3   ngroup=75, ncluster=75"
+[1] "root:HY:HY Irx6 Glut"
+[1] "@3/3   ngroup=19, ncluster=19"
+[1] "root:HY:HY Foxa1 Glut"
+[1] "@3/3   ngroup=22, ncluster=22"
+[1] "root:HY:HY Pitx2 Glut"
+[1] "@3/3   ngroup=30, ncluster=30"
+[1] "root:HY:MB En1 Hybrid"
+[1] "@3/3   ngroup=3, ncluster=3"
+[1] "root:HY:TH Tfap2d Glut"
+[1] "@3/3   ngroup=16, ncluster=16"
+[1] "root:HY:HY Foxb1 Glut"
+[1] "@3/3   ngroup=28, ncluster=28"
+[1] "root:HY:HY Isl1 Glut"
+[1] "@3/3   ngroup=1, ncluster=1"
+[1] "root:HY:LSX/HY Otx2 Glut"
+[1] "@3/3   ngroup=4, ncluster=4"
+[1] "root:HY:LSX/PAL/HY Bsx Glut"
+[1] "@3/3   ngroup=10, ncluster=10"
+[1] "root:HY:HY/PAL Tbr1 Glut"
+[1] "@3/3   ngroup=15, ncluster=15"
+[1] "root:HY:LSX/HY Otx2 GABA"
+[1] "@3/3   ngroup=8, ncluster=8"
+[1] "root:HY:HY Satb2 GABA"
+[1] "@3/3   ngroup=7, ncluster=7"
+[1] "root:HY:HY Nkx2-4 GABA"
+[1] "@3/3   ngroup=5, ncluster=5"
+[1] "root:HY:HY Nkx2-4 Glut"
+[1] "@3/3   ngroup=5, ncluster=5"
+[1] "root:HY:HY Pmch Glut"
+[1] "@3/3   ngroup=4, ncluster=4"
+[1] "root:HY:sAMY/PAL/HY Cngb3 Hybrid"
+[1] "@3/3   ngroup=3, ncluster=3"
+[1] "root:HY:HY/TH Gnb3 GABA"
+[1] "@3/3   ngroup=12, ncluster=12"
+[1] "root:HY:SCH GABA"
+[1] "@3/3   ngroup=7, ncluster=7"
+[1] "root:HY:HY Gnrh1 Glut"
+[1] "@3/3   ngroup=1, ncluster=1"
+[1] "root:TH-GABA"
+[1] "@2/3   ngroup=2, ncluster=32"
+[1] "root:TH-GABA:TH/HY Gata3 GABA"
+[1] "@3/3   ngroup=31, ncluster=31"
+[1] "root:TH-GABA:TH Dmbx1 GABA"
+[1] "@3/3   ngroup=1, ncluster=1"
+[1] "root:TH"
+[1] "@2/3   ngroup=9, ncluster=123"
+TH/HY Gbx2 Zim1 Glut TH/HY Pth2 Glut 
+TH/HY Gbx2 Fmo1 Glut TH/HY Gbx2 Zim1 Glut 
+TH/HY Gbx2 Fmo1 Glut TH/HY Pth2 Glut 
+TH PF_Fzd5 Glut TH/HY Gbx2 Zim1 Glut 
+TH PF_Fzd5 Glut TH/HY Pth2 Glut 
+TH PF_Fzd5 Glut TH/HY Gbx2 Fmo1 Glut 
+TH PF_Fzd5 Glut TH PVT_Ntrk1 Glut 
+TH PF_Fzd5 Glut TH_Rxfp1_Epb4 Glut 
+TH PF_Fzd5 Glut TH Prkcd_Grin2c Glut 
+TH PF_Fzd5 Glut TH Serpinb7 Glut 
+TH PVT_Ntrk1 Glut TH/HY Gbx2 Zim1 Glut 
+TH PVT_Ntrk1 Glut TH/HY Pth2 Glut 
+TH PVT_Ntrk1 Glut TH/HY Gbx2 Fmo1 Glut 
+TH PVT_Ntrk1 Glut TH_Rxfp1_Epb4 Glut 
+TH PVT_Ntrk1 Glut TH Serpinb7 Glut 
+TH_Rxfp1_Epb4 Glut TH/HY Gbx2 Zim1 Glut 
+TH_Rxfp1_Epb4 Glut TH/HY Pth2 Glut 
+TH_Rxfp1_Epb4 Glut TH/HY Gbx2 Fmo1 Glut 
+TH Prkcd_Grin2c Glut TH/HY Gbx2 Zim1 Glut 
+TH Prkcd_Grin2c Glut TH/HY Pth2 Glut 
+TH Prkcd_Grin2c Glut TH/HY Gbx2 Fmo1 Glut 
+TH Prkcd_Grin2c Glut TH PVT_Ntrk1 Glut 
+TH Prkcd_Grin2c Glut TH_Rxfp1_Epb4 Glut 
+TH Prkcd_Grin2c Glut TH Serpinb7 Glut 
+TH AV_Col27a1 Glut TH/HY Gbx2 Zim1 Glut 
+TH AV_Col27a1 Glut TH/HY Pth2 Glut 
+TH AV_Col27a1 Glut TH/HY Gbx2 Fmo1 Glut 
+TH AV_Col27a1 Glut TH PF_Fzd5 Glut 
+TH AV_Col27a1 Glut TH PVT_Ntrk1 Glut 
+TH AV_Col27a1 Glut TH_Rxfp1_Epb4 Glut 
+TH AV_Col27a1 Glut TH Prkcd_Grin2c Glut 
+TH AV_Col27a1 Glut TH Serpinb7 Glut 
+TH Serpinb7 Glut TH/HY Gbx2 Zim1 Glut 
+TH Serpinb7 Glut TH/HY Pth2 Glut 
+TH Serpinb7 Glut TH/HY Gbx2 Fmo1 Glut 
+TH Serpinb7 Glut TH_Rxfp1_Epb4 Glut 
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 Heg1     1990
+2 Cntnap3  1989
+3 Lypd1    1985
+4 Kcnmb2   1983
+5 Glra1    1967
+6 Ebf3      999
+[1] "Heg1"
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 Cntnap3  1989
+2 Lypd1    1985
+3 Glra1    1967
+4 Ebf3      999
+5 Foxp2     999
+6 Prlr      999
+[1] "Cntnap3"
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 Lypd1    1985
+2 Prlr      999
+3 Ddc       997
+4 Pcp4l1    997
+5 Slc17a8   997
+6 Sox2      997
+[1] "Lypd1"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Pcp4l1   997
+2 Sox2     997
+3 Vstm5    997
+4 Megf11   996
+5 Plcl1    996
+6 Trpm6    996
+[1] "Pcp4l1"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Sox2     997
+2 Vstm5    997
+3 Megf11   996
+4 Trpm6    996
+5 Mylk     995
+6 Sema3d   994
+[1] "Sox2"
+# A tibble: 4 × 2
+  gene   score
+  <chr>  <dbl>
+1 Vstm5    997
+2 Trpm6    996
+3 Mylk     995
+4 Sema3d   994
+[1] "Vstm5"
+[1] "root:TH:TH/HY Gbx2 Zim1 Glut"
+[1] "@3/3   ngroup=31, ncluster=31"
+[1] "root:TH:TH/HY Pth2 Glut"
+[1] "@3/3   ngroup=5, ncluster=5"
+[1] "root:TH:TH/HY Gbx2 Fmo1 Glut"
+[1] "@3/3   ngroup=1, ncluster=1"
+[1] "root:TH:TH PF_Fzd5 Glut"
+[1] "@3/3   ngroup=12, ncluster=12"
+[1] "root:TH:TH PVT_Ntrk1 Glut"
+[1] "@3/3   ngroup=9, ncluster=9"
+[1] "root:TH:TH_Rxfp1_Epb4 Glut"
+[1] "@3/3   ngroup=29, ncluster=29"
+[1] "root:TH:TH Prkcd_Grin2c Glut"
+[1] "@3/3   ngroup=33, ncluster=33"
+[1] "root:TH:TH AV_Col27a1 Glut"
+[1] "@3/3   ngroup=2, ncluster=2"
+[1] "root:TH:TH Serpinb7 Glut"
+[1] "@3/3   ngroup=1, ncluster=1"
+[1] "root:LH-MH"
+[1] "@2/3   ngroup=2, ncluster=30"
+[1] "root:LH-MH:TH LH_Pou4f1_Sox1 Glut"
+[1] "@3/3   ngroup=12, ncluster=12"
+[1] "root:LH-MH:TH MH_Tac2 Glut"
+[1] "@3/3   ngroup=18, ncluster=18"
+[1] "root:STR-MSN"
+[1] "@2/3   ngroup=5, ncluster=76"
+MSN D1 outer GABA sAMY/PAL Chst9 GABA 
+MSN D1 outer GABA MSN D2 GABA 
+MSN D2 GABA sAMY/PAL Chst9 GABA 
+MSN D1 GABA sAMY/PAL Chst9 GABA 
+MSN D1 GABA MSN D1 outer GABA 
+MSN D1 GABA MSN D2 GABA 
+HY/PAL/STR Folh1 GABA sAMY/PAL Chst9 GABA 
+HY/PAL/STR Folh1 GABA MSN D1 outer GABA 
+HY/PAL/STR Folh1 GABA MSN D2 GABA 
+HY/PAL/STR Folh1 GABA MSN D1 GABA 
+# A tibble: 6 × 2
+  gene     score
+  <chr>    <dbl>
+1 Nts        998
+2 Cacna2d2   997
+3 Cntnap5b   997
+4 Efna5      997
+5 Gfra1      997
+6 Col6a1     996
+[1] "Nts"
+# A tibble: 6 × 2
+  gene     score
+  <chr>    <dbl>
+1 Cntnap5b   997
+2 Efna5      997
+3 Gfra1      997
+4 Col6a1     996
+5 Htr2c      996
+6 Tle4       996
+[1] "Cntnap5b"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Efna5    997
+2 Gfra1    997
+3 Htr2c    996
+4 Tle4     996
+5 Htr1b    995
+6 Sema5a   995
+[1] "Efna5"
+# A tibble: 4 × 2
+  gene   score
+  <chr>  <dbl>
+1 Gfra1    997
+2 Tle4     996
+3 Sema5a   995
+4 Mpped1   994
+[1] "Gfra1"
+[1] "root:STR-MSN:sAMY/PAL Chst9 GABA"
+[1] "@3/3   ngroup=18, ncluster=18"
+[1] "root:STR-MSN:MSN D1 outer GABA"
+[1] "@3/3   ngroup=7, ncluster=7"
+[1] "root:STR-MSN:MSN D2 GABA"
+[1] "@3/3   ngroup=24, ncluster=24"
+[1] "root:STR-MSN:MSN D1 GABA"
+[1] "@3/3   ngroup=25, ncluster=25"
+[1] "root:STR-MSN:HY/PAL/STR Folh1 GABA"
+[1] "@3/3   ngroup=2, ncluster=2"
+[1] "0.9 4"
+[1] "====================================="
+[1] "  marker/index generation begins...  "
+[1] "  it will take a day  :)             "
+[1] "====================================="
+[1] "children LUT is set"
+[1] "ancestor  LUT is set"
+[1] "4 3"
+[1] "root"
+[1] "@1/3   ngroup=16, ncluster=2154"
+MBO-PALv-OLF Other 
+MBO-PALv-OLF NP-CT-L6b 
+MBO-PALv-OLF OLF-CTXsp-sAMY 
+MBO-PALv-OLF MGE 
+MBO-PALv-OLF sAMY-PAL 
+MBO-PALv-OLF TH-GABA 
+MBO-PALv-OLF TH 
+MBO-PALv-OLF STR-MSN 
+Other sAMY-PAL 
+Other TH-GABA 
+Other TH 
+Other STR-MSN 
+NP-CT-L6b Other 
+NP-CT-L6b OLF-CTXsp-sAMY 
+NP-CT-L6b sAMY-PAL 
+NP-CT-L6b TH-GABA 
+NP-CT-L6b TH 
+NP-CT-L6b STR-MSN 
+ET MBO-PALv-OLF 
+ET Other 
+ET NP-CT-L6b 
+ET OLF-CTXsp-sAMY 
+ET IT 
+ET MGE 
+ET LSX 
+ET sAMY-PAL 
+ET HY 
+ET TH-GABA 
+ET TH 
+ET LH-MH 
+ET STR-MSN 
+OLF-CTXsp-sAMY Other 
+OLF-CTXsp-sAMY sAMY-PAL 
+OLF-CTXsp-sAMY TH-GABA 
+OLF-CTXsp-sAMY TH 
+OLF-CTXsp-sAMY STR-MSN 
+IT MBO-PALv-OLF 
+IT Other 
+IT NP-CT-L6b 
+IT OLF-CTXsp-sAMY 
+IT MGE 
+IT LSX 
+IT sAMY-PAL 
+IT TH-GABA 
+IT TH 
+IT LH-MH 
+IT STR-MSN 
+Car3 MBO-PALv-OLF 
+Car3 Other 
+Car3 NP-CT-L6b 
+Car3 ET 
+Car3 OLF-CTXsp-sAMY 
+Car3 IT 
+Car3 CGE 
+Car3 MGE 
+Car3 LSX 
+Car3 sAMY-PAL 
+Car3 HY 
+Car3 TH-GABA 
+Car3 TH 
+Car3 LH-MH 
+Car3 STR-MSN 
+CGE MBO-PALv-OLF 
+CGE Other 
+CGE NP-CT-L6b 
+CGE ET 
+CGE OLF-CTXsp-sAMY 
+CGE IT 
+CGE MGE 
+CGE LSX 
+CGE sAMY-PAL 
+CGE HY 
+CGE TH-GABA 
+CGE TH 
+CGE LH-MH 
+CGE STR-MSN 
+MGE Other 
+MGE NP-CT-L6b 
+MGE OLF-CTXsp-sAMY 
+MGE sAMY-PAL 
+MGE TH-GABA 
+MGE TH 
+MGE STR-MSN 
+LSX MBO-PALv-OLF 
+LSX Other 
+LSX NP-CT-L6b 
+LSX OLF-CTXsp-sAMY 
+LSX MGE 
+LSX sAMY-PAL 
+LSX TH-GABA 
+LSX TH 
+LSX STR-MSN 
+sAMY-PAL TH-GABA 
+sAMY-PAL TH 
+sAMY-PAL STR-MSN 
+HY MBO-PALv-OLF 
+HY Other 
+HY NP-CT-L6b 
+HY OLF-CTXsp-sAMY 
+HY IT 
+HY MGE 
+HY LSX 
+HY sAMY-PAL 
+HY TH-GABA 
+HY TH 
+HY LH-MH 
+HY STR-MSN 
+TH TH-GABA 
+LH-MH MBO-PALv-OLF 
+LH-MH Other 
+LH-MH NP-CT-L6b 
+LH-MH OLF-CTXsp-sAMY 
+LH-MH MGE 
+LH-MH LSX 
+LH-MH sAMY-PAL 
+LH-MH TH-GABA 
+LH-MH TH 
+LH-MH STR-MSN 
+STR-MSN TH-GABA 
+STR-MSN TH 
+# A tibble: 6 × 2
+  gene          score
+  <chr>         <dbl>
+1 2010300C02Rik   996
+2 Cacna1e         996
+3 Dcdc2a          996
+4 Matn2           996
+5 Nexn            996
+6 Nwd2            996
+[1] "2010300C02Rik"
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 Cacna1e   996
+2 Dcdc2a    996
+3 Matn2     996
+4 Nexn      996
+5 Nwd2      996
+6 P2rx4     996
+[1] "Cacna1e"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Dcdc2a   996
+2 Matn2    996
+3 Nexn     996
+4 Nwd2     996
+5 P2rx4    996
+6 Pknox2   996
+[1] "Dcdc2a"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Matn2    996
+2 Nexn     996
+3 Nwd2     996
+4 P2rx4    996
+5 Pknox2   996
+6 Pou3f4   996
+[1] "Matn2"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Nexn     996
+2 Nwd2     996
+3 P2rx4    996
+4 Pknox2   996
+5 Pou3f4   996
+6 Tead1    996
+[1] "Nexn"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Nwd2     996
+2 P2rx4    996
+3 Pknox2   996
+4 Pou3f4   996
+5 Tead1    996
+6 Tgfb2    996
+[1] "Nwd2"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 P2rx4    996
+2 Pknox2   996
+3 Pou3f4   996
+4 Tead1    996
+5 Tgfb2    996
+6 Zfp57    996
+[1] "P2rx4"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Pknox2   996
+2 Pou3f4   996
+3 Tead1    996
+4 Tgfb2    996
+5 Zfp57    996
+6 Afap1    995
+[1] "Pknox2"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Pou3f4   996
+2 Tead1    996
+3 Tgfb2    996
+4 Zfp57    996
+5 Afap1    995
+6 Scml4    995
+[1] "Pou3f4"
+# A tibble: 6 × 2
+  gene  score
+  <chr> <dbl>
+1 Tead1   996
+2 Tgfb2   996
+3 Zfp57   996
+4 Afap1   995
+5 Scml4   995
+6 Sdk2    995
+[1] "Tead1"
+# A tibble: 4 × 2
+  gene  score
+  <chr> <dbl>
+1 Tgfb2   996
+2 Zfp57   996
+3 Afap1   995
+4 Scml4   995
+[1] "Tgfb2"
+# A tibble: 2 × 2
+  gene  score
+  <chr> <dbl>
+1 Zfp57   996
+2 Afap1   995
+[1] "Zfp57"
+[1] "root:MBO-PALv-OLF"
+[1] "@2/3   ngroup=4, ncluster=61"
+PAL Sln Glut sAMY/PAL/HY Skor1 Glut 
+PAL Sln Glut sAMY/PAL/HY Eomes Glut 
+OLF Eomes/Ms4a15 Glut PAL Sln Glut 
+OLF Eomes/Ms4a15 Glut sAMY/PAL/HY Skor1 Glut 
+OLF Eomes/Ms4a15 Glut sAMY/PAL/HY Eomes Glut 
+sAMY/PAL/HY Eomes Glut sAMY/PAL/HY Skor1 Glut 
+[1] "root:MBO-PALv-OLF:PAL Sln Glut"
+[1] "@3/3   ngroup=5, ncluster=5"
+[1] "root:MBO-PALv-OLF:OLF Eomes/Ms4a15 Glut"
+[1] "@3/3   ngroup=10, ncluster=10"
+[1] "root:MBO-PALv-OLF:sAMY/PAL/HY Skor1 Glut"
+[1] "@3/3   ngroup=42, ncluster=42"
+[1] "root:MBO-PALv-OLF:sAMY/PAL/HY Eomes Glut"
+[1] "@3/3   ngroup=4, ncluster=4"
+[1] "root:Other"
+[1] "@2/3   ngroup=20, ncluster=178"
+DG Glut L4 RSP-ACA Glut 
+DG Glut OLF IMN 
+DG Glut OLF Frmd7 GABA 
+DG Glut OLF Frmd7 IMN 
+DG Glut OLF Trdn GABA 
+DG Glut OLF Lmcd1 GABA 
+DG Glut DG IMN 
+DG Glut OPC NN 
+DG Glut Oligo NN 
+DG Glut ME Astro NN 
+DG Glut Ependymal NN 
+DG Glut Endo NN 
+DG Glut VLMC NN 
+DG Glut SMC-Peri NN 
+DG Glut Micro-PVM NN 
+L4 RSP-ACA Glut OLF IMN 
+L4 RSP-ACA Glut OLF Frmd7 GABA 
+L4 RSP-ACA Glut OLF Frmd7 IMN 
+L4 RSP-ACA Glut OLF Trdn GABA 
+L4 RSP-ACA Glut OLF Lmcd1 GABA 
+L4 RSP-ACA Glut OPC NN 
+L4 RSP-ACA Glut Oligo NN 
+L4 RSP-ACA Glut ME Astro NN 
+L4 RSP-ACA Glut VLMC NN 
+L4 RSP-ACA Glut SMC-Peri NN 
+L4 RSP-ACA Glut Micro-PVM NN 
+CNU IMN DG Glut 
+CNU IMN L4 RSP-ACA Glut 
+CNU IMN OLF IMN 
+CNU IMN OLF Frmd7 GABA 
+CNU IMN OLF Frmd7 IMN 
+CNU IMN CR Glut 
+CNU IMN OLF Trdn GABA 
+CNU IMN OLF Lmcd1 GABA 
+CNU IMN DG IMN 
+CNU IMN OPC NN 
+CNU IMN Oligo NN 
+CNU IMN ME Astro NN 
+CNU IMN Ependymal NN 
+CNU IMN Endo NN 
+CNU IMN VLMC NN 
+CNU IMN SMC-Peri NN 
+CNU IMN Micro-PVM NN 
+OLF IMN OLF Trdn GABA 
+OLF IMN OLF Lmcd1 GABA 
+OLF IMN OPC NN 
+OLF IMN Oligo NN 
+OLF IMN VLMC NN 
+OLF IMN SMC-Peri NN 
+OLF Frmd7 GABA OLF IMN 
+OLF Frmd7 GABA OLF Frmd7 IMN 
+OLF Frmd7 GABA OLF Trdn GABA 
+OLF Frmd7 GABA OLF Lmcd1 GABA 
+OLF Frmd7 GABA OPC NN 
+OLF Frmd7 GABA Oligo NN 
+OLF Frmd7 GABA VLMC NN 
+OLF Frmd7 GABA SMC-Peri NN 
+OLF Frmd7 IMN OLF IMN 
+OLF Frmd7 IMN OLF Trdn GABA 
+OLF Frmd7 IMN OLF Lmcd1 GABA 
+OLF Frmd7 IMN OPC NN 
+OLF Frmd7 IMN Oligo NN 
+OLF Frmd7 IMN VLMC NN 
+OLF Frmd7 IMN SMC-Peri NN 
+CR Glut DG Glut 
+CR Glut L4 RSP-ACA Glut 
+CR Glut OLF IMN 
+CR Glut OLF Frmd7 GABA 
+CR Glut OLF Frmd7 IMN 
+CR Glut OLF Trdn GABA 
+CR Glut OLF Lmcd1 GABA 
+CR Glut DG IMN 
+CR Glut OPC NN 
+CR Glut Oligo NN 
+CR Glut ME Astro NN 
+CR Glut Ependymal NN 
+CR Glut Endo NN 
+CR Glut VLMC NN 
+CR Glut SMC-Peri NN 
+CR Glut Micro-PVM NN 
+OLF Trdn GABA OPC NN 
+OLF Trdn GABA Oligo NN 
+OLF Trdn GABA VLMC NN 
+OLF Trdn GABA SMC-Peri NN 
+OLF Lmcd1 GABA OLF Trdn GABA 
+OLF Lmcd1 GABA OPC NN 
+OLF Lmcd1 GABA Oligo NN 
+OLF Lmcd1 GABA VLMC NN 
+OLF Lmcd1 GABA SMC-Peri NN 
+DG IMN L4 RSP-ACA Glut 
+DG IMN OLF IMN 
+DG IMN OLF Frmd7 GABA 
+DG IMN OLF Frmd7 IMN 
+DG IMN OLF Trdn GABA 
+DG IMN OLF Lmcd1 GABA 
+DG IMN OPC NN 
+DG IMN Oligo NN 
+DG IMN ME Astro NN 
+DG IMN Ependymal NN 
+DG IMN Endo NN 
+DG IMN VLMC NN 
+DG IMN SMC-Peri NN 
+DG IMN Micro-PVM NN 
+OPC NN VLMC NN 
+OPC NN SMC-Peri NN 
+Oligo NN OPC NN 
+Oligo NN VLMC NN 
+Oligo NN SMC-Peri NN 
+Astro NN DG Glut 
+Astro NN L4 RSP-ACA Glut 
+Astro NN CNU IMN 
+Astro NN OLF IMN 
+Astro NN OLF Frmd7 GABA 
+Astro NN OLF Frmd7 IMN 
+Astro NN CR Glut 
+Astro NN OLF Trdn GABA 
+Astro NN OLF Lmcd1 GABA 
+Astro NN DG IMN 
+Astro NN OPC NN 
+Astro NN Oligo NN 
+Astro NN ME Astro NN 
+Astro NN Ependymal NN 
+Astro NN Endo NN 
+Astro NN VLMC NN 
+Astro NN SMC-Peri NN 
+Astro NN Micro-PVM NN 
+ME Astro NN OLF IMN 
+ME Astro NN OLF Frmd7 GABA 
+ME Astro NN OLF Frmd7 IMN 
+ME Astro NN OLF Trdn GABA 
+ME Astro NN OLF Lmcd1 GABA 
+ME Astro NN OPC NN 
+ME Astro NN Oligo NN 
+ME Astro NN VLMC NN 
+ME Astro NN SMC-Peri NN 
+ME Astro NN Micro-PVM NN 
+Aqp1 NN DG Glut 
+Aqp1 NN L4 RSP-ACA Glut 
+Aqp1 NN CNU IMN 
+Aqp1 NN OLF IMN 
+Aqp1 NN OLF Frmd7 GABA 
+Aqp1 NN OLF Frmd7 IMN 
+Aqp1 NN CR Glut 
+Aqp1 NN OLF Trdn GABA 
+Aqp1 NN OLF Lmcd1 GABA 
+Aqp1 NN DG IMN 
+Aqp1 NN OPC NN 
+Aqp1 NN Oligo NN 
+Aqp1 NN Astro NN 
+Aqp1 NN ME Astro NN 
+Aqp1 NN Ependymal NN 
+Aqp1 NN Endo NN 
+Aqp1 NN VLMC NN 
+Aqp1 NN SMC-Peri NN 
+Aqp1 NN Micro-PVM NN 
+Ependymal NN L4 RSP-ACA Glut 
+Ependymal NN OLF IMN 
+Ependymal NN OLF Frmd7 GABA 
+Ependymal NN OLF Frmd7 IMN 
+Ependymal NN OLF Trdn GABA 
+Ependymal NN OLF Lmcd1 GABA 
+Ependymal NN OPC NN 
+Ependymal NN Oligo NN 
+Ependymal NN ME Astro NN 
+Ependymal NN VLMC NN 
+Ependymal NN SMC-Peri NN 
+Ependymal NN Micro-PVM NN 
+Endo NN L4 RSP-ACA Glut 
+Endo NN OLF IMN 
+Endo NN OLF Frmd7 GABA 
+Endo NN OLF Frmd7 IMN 
+Endo NN OLF Trdn GABA 
+Endo NN OLF Lmcd1 GABA 
+Endo NN OPC NN 
+Endo NN Oligo NN 
+Endo NN ME Astro NN 
+Endo NN Ependymal NN 
+Endo NN VLMC NN 
+Endo NN SMC-Peri NN 
+Endo NN Micro-PVM NN 
+SMC-Peri NN VLMC NN 
+Micro-PVM NN OLF IMN 
+Micro-PVM NN OLF Frmd7 GABA 
+Micro-PVM NN OLF Frmd7 IMN 
+Micro-PVM NN OLF Trdn GABA 
+Micro-PVM NN OLF Lmcd1 GABA 
+Micro-PVM NN OPC NN 
+Micro-PVM NN Oligo NN 
+Micro-PVM NN VLMC NN 
+Micro-PVM NN SMC-Peri NN 
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Masp1    998
+2 Baz1a    996
+3 Dlgap4   996
+4 Emp1     996
+5 Hs3st2   996
+6 Kcnh8    996
+[1] "Masp1"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Baz1a    996
+2 Dlgap4   996
+3 Emp1     996
+4 Hs3st2   996
+5 Kcnh8    996
+6 Pdgfc    996
+[1] "Baz1a"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Dlgap4   996
+2 Emp1     996
+3 Hs3st2   996
+4 Kcnh8    996
+5 Pdgfc    996
+6 Plxna2   996
+[1] "Dlgap4"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Emp1     996
+2 Hs3st2   996
+3 Kcnh8    996
+4 Pdgfc    996
+5 Plxna2   996
+6 Ptn      996
+[1] "Emp1"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Hs3st2   996
+2 Kcnh8    996
+3 Pdgfc    996
+4 Plxna2   996
+5 Ptn      996
+6 Rgmb     996
+[1] "Hs3st2"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Kcnh8    996
+2 Pdgfc    996
+3 Plxna2   996
+4 Ptn      996
+5 Rgmb     996
+6 Rspo3    996
+[1] "Kcnh8"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Pdgfc    996
+2 Plxna2   996
+3 Ptn      996
+4 Rgmb     996
+5 Rspo3    996
+6 Sox5     996
+[1] "Pdgfc"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Plxna2   996
+2 Ptn      996
+3 Rgmb     996
+4 Rspo3    996
+5 Sox5     996
+6 Tgfbi    996
+[1] "Plxna2"
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 Ptn       996
+2 Rgmb      996
+3 Rspo3     996
+4 Sox5      996
+5 Tgfbi     996
+6 Tinagl1   996
+[1] "Ptn"
+# A tibble: 6 × 2
+  gene     score
+  <chr>    <dbl>
+1 Rgmb       996
+2 Rspo3      996
+3 Sox5       996
+4 Tgfbi      996
+5 Tinagl1    996
+6 Tnfrsf19   996
+[1] "Rgmb"
+# A tibble: 6 × 2
+  gene          score
+  <chr>         <dbl>
+1 Rspo3           996
+2 Sox5            996
+3 Tgfbi           996
+4 Tinagl1         996
+5 Tnfrsf19        996
+6 2810459M11Rik   995
+[1] "Rspo3"
+# A tibble: 6 × 2
+  gene          score
+  <chr>         <dbl>
+1 Sox5            996
+2 Tgfbi           996
+3 Tinagl1         996
+4 Tnfrsf19        996
+5 2810459M11Rik   995
+6 Dcbld1          995
+[1] "Sox5"
+# A tibble: 6 × 2
+  gene          score
+  <chr>         <dbl>
+1 Tgfbi           996
+2 Tinagl1         996
+3 Tnfrsf19        996
+4 2810459M11Rik   995
+5 Edn1            995
+6 Edn3            994
+[1] "Tgfbi"
+# A tibble: 6 × 2
+  gene          score
+  <chr>         <dbl>
+1 Tinagl1         996
+2 Tnfrsf19        996
+3 2810459M11Rik   995
+4 Edn1            995
+5 Edn3            994
+6 Sema6a          994
+[1] "Tinagl1"
+# A tibble: 3 × 2
+  gene          score
+  <chr>         <dbl>
+1 Tnfrsf19        996
+2 2810459M11Rik   995
+3 Sema6a          994
+[1] "Tnfrsf19"
+[1] "root:Other:DG Glut"
+[1] "@3/3   ngroup=7, ncluster=7"
+[1] "root:Other:L4 RSP-ACA Glut"
+[1] "@3/3   ngroup=1, ncluster=1"
+[1] "root:Other:CNU IMN"
+[1] "@3/3   ngroup=5, ncluster=5"
+[1] "root:Other:OLF IMN"
+[1] "@3/3   ngroup=7, ncluster=7"
+[1] "root:Other:OLF Frmd7 GABA"
+[1] "@3/3   ngroup=42, ncluster=42"
+[1] "root:Other:OLF Frmd7 IMN"
+[1] "@3/3   ngroup=1, ncluster=1"
+[1] "root:Other:CR Glut"
+[1] "@3/3   ngroup=3, ncluster=3"
+[1] "root:Other:OLF Trdn GABA"
+[1] "@3/3   ngroup=3, ncluster=3"
+[1] "root:Other:OLF Lmcd1 GABA"
+[1] "@3/3   ngroup=1, ncluster=1"
+[1] "root:Other:DG IMN"
+[1] "@3/3   ngroup=3, ncluster=3"
+[1] "root:Other:OPC NN"
+[1] "@3/3   ngroup=10, ncluster=10"
+[1] "root:Other:Oligo NN"
+[1] "@3/3   ngroup=31, ncluster=31"
+[1] "root:Other:Astro NN"
+[1] "@3/3   ngroup=20, ncluster=20"
+[1] "root:Other:ME Astro NN"
+[1] "@3/3   ngroup=3, ncluster=3"
+[1] "root:Other:Aqp1 NN"
+[1] "@3/3   ngroup=3, ncluster=3"
+[1] "root:Other:Ependymal NN"
+[1] "@3/3   ngroup=6, ncluster=6"
+[1] "root:Other:Endo NN"
+[1] "@3/3   ngroup=5, ncluster=5"
+[1] "root:Other:VLMC NN"
+[1] "@3/3   ngroup=13, ncluster=13"
+[1] "root:Other:SMC-Peri NN"
+[1] "@3/3   ngroup=6, ncluster=6"
+[1] "root:Other:Micro-PVM NN"
+[1] "@3/3   ngroup=8, ncluster=8"
+[1] "root:NP-CT-L6b"
+[1] "@2/3   ngroup=10, ncluster=52"
+NP PPP Glut NP SUB Glut 
+L5 NP CTX Glut NP PPP Glut 
+L5 NP CTX Glut NP SUB Glut 
+L5 NP CTX Glut L6b/CT ENT Glut 
+L5 NP CTX Glut L6 CT CTX Glut 
+L5 NP CTX Glut L6 CT CTXsp Glut 
+L5 NP CTX Glut L6b CTXsp Glut 
+L5 NP CTX Glut L6b CTX Glut 
+L5 NP CTX Glut L6b CTXsp/ENT Glut 
+CT SUB Glut NP PPP Glut 
+CT SUB Glut L5 NP CTX Glut 
+CT SUB Glut NP SUB Glut 
+CT SUB Glut L6b/CT ENT Glut 
+CT SUB Glut L6 CT CTX Glut 
+CT SUB Glut L6 CT CTXsp Glut 
+CT SUB Glut L6b CTXsp Glut 
+CT SUB Glut L6b CTX Glut 
+CT SUB Glut L6b CTXsp/ENT Glut 
+L6b/CT ENT Glut NP PPP Glut 
+L6b/CT ENT Glut NP SUB Glut 
+L6 CT CTX Glut NP PPP Glut 
+L6 CT CTX Glut NP SUB Glut 
+L6 CT CTX Glut L6b/CT ENT Glut 
+L6 CT CTX Glut L6 CT CTXsp Glut 
+L6 CT CTX Glut L6b CTXsp Glut 
+L6 CT CTX Glut L6b CTX Glut 
+L6 CT CTX Glut L6b CTXsp/ENT Glut 
+L6 CT CTXsp Glut NP PPP Glut 
+L6 CT CTXsp Glut NP SUB Glut 
+L6 CT CTXsp Glut L6b/CT ENT Glut 
+L6 CT CTXsp Glut L6b CTXsp Glut 
+L6 CT CTXsp Glut L6b CTX Glut 
+L6 CT CTXsp Glut L6b CTXsp/ENT Glut 
+L6b CTXsp Glut NP PPP Glut 
+L6b CTXsp Glut NP SUB Glut 
+L6b CTXsp Glut L6b/CT ENT Glut 
+L6b CTXsp Glut L6b CTXsp/ENT Glut 
+L6b CTX Glut NP PPP Glut 
+L6b CTX Glut NP SUB Glut 
+L6b CTX Glut L6b/CT ENT Glut 
+L6b CTX Glut L6b CTXsp Glut 
+L6b CTX Glut L6b CTXsp/ENT Glut 
+L6b CTXsp/ENT Glut NP PPP Glut 
+L6b CTXsp/ENT Glut NP SUB Glut 
+L6b CTXsp/ENT Glut L6b/CT ENT Glut 
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Pcdh19  1985
+2 Tmcc3   1980
+3 Cdh13    999
+4 Ror2     999
+5 Tmtc1    998
+6 Fam43a   997
+[1] "Pcdh19"
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 Ror2      999
+2 Tmtc1     998
+3 Fam43a    997
+4 Pde8b     997
+5 Sostdc1   997
+6 Igfbp6    996
+[1] "Ror2"
+# A tibble: 6 × 2
+  gene     score
+  <chr>    <dbl>
+1 Tmtc1      998
+2 Fam43a     997
+3 Sostdc1    997
+4 Igfbp6     996
+5 Adamts18   995
+6 Spock3     995
+[1] "Tmtc1"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Fam43a   997
+2 Igfbp6   996
+3 Spock3   995
+4 Tns1     994
+5 Htr4     992
+6 Tgfbr2   991
+[1] "Fam43a"
+[1] "root:NP-CT-L6b:NP PPP Glut"
+[1] "@3/3   ngroup=2, ncluster=2"
+[1] "root:NP-CT-L6b:L5 NP CTX Glut"
+[1] "@3/3   ngroup=9, ncluster=9"
+[1] "root:NP-CT-L6b:NP SUB Glut"
+[1] "@3/3   ngroup=4, ncluster=4"
+[1] "root:NP-CT-L6b:CT SUB Glut"
+[1] "@3/3   ngroup=2, ncluster=2"
+[1] "root:NP-CT-L6b:L6b/CT ENT Glut"
+[1] "@3/3   ngroup=4, ncluster=4"
+[1] "root:NP-CT-L6b:L6 CT CTX Glut"
+[1] "@3/3   ngroup=15, ncluster=15"
+[1] "root:NP-CT-L6b:L6 CT CTXsp Glut"
+[1] "@3/3   ngroup=1, ncluster=1"
+[1] "root:NP-CT-L6b:L6b CTXsp Glut"
+[1] "@3/3   ngroup=2, ncluster=2"
+[1] "root:NP-CT-L6b:L6b CTX Glut"
+[1] "@3/3   ngroup=10, ncluster=10"
+[1] "root:NP-CT-L6b:L6b CTXsp/ENT Glut"
+[1] "@3/3   ngroup=3, ncluster=3"
+[1] "root:ET"
+[1] "@2/3   ngroup=6, ncluster=64"
+L5 PT CTX Glut SUB-ProS Glut 
+L5 PPP Glut L5 PT CTX Glut 
+L5 PPP Glut SUB-ProS Glut 
+CA1-ProS Glut L5 PT CTX Glut 
+CA1-ProS Glut L5 PPP Glut 
+CA1-ProS Glut SUB-ProS Glut 
+CA1-ProS Glut CA2 Glut 
+CA1-ProS Glut CA3 Glut 
+CA2 Glut L5 PT CTX Glut 
+CA2 Glut L5 PPP Glut 
+CA2 Glut SUB-ProS Glut 
+CA2 Glut CA3 Glut 
+CA3 Glut L5 PT CTX Glut 
+CA3 Glut L5 PPP Glut 
+CA3 Glut SUB-ProS Glut 
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Kcnc4    999
+2 Hhip     998
+3 Blnk     997
+4 Ramp3    996
+5 Zfp536   995
+6 Cdh13    994
+[1] "Kcnc4"
+[1] "root:ET:L5 PT CTX Glut"
+[1] "@3/3   ngroup=20, ncluster=20"
+[1] "root:ET:L5 PPP Glut"
+[1] "@3/3   ngroup=1, ncluster=1"
+[1] "root:ET:SUB-ProS Glut"
+[1] "@3/3   ngroup=9, ncluster=9"
+[1] "root:ET:CA1-ProS Glut"
+[1] "@3/3   ngroup=21, ncluster=21"
+[1] "root:ET:CA2 Glut"
+[1] "@3/3   ngroup=2, ncluster=2"
+[1] "root:ET:CA3 Glut"
+[1] "@3/3   ngroup=11, ncluster=11"
+[1] "root:OLF-CTXsp-sAMY"
+[1] "@2/3   ngroup=14, ncluster=135"
+OLF Grp Glut OLF/CTXsp Tfap2d Glut 
+OLF Grp Glut OLF Grxcr2 Glut 
+OLF Grp Glut OLF Ly6g6e Glut 
+OLF Grp Glut OLF IT St18 Glut 
+OLF Grp Glut OLF Rho Glut 
+OLF Grp Glut OLF IT Ebf2 Glut 
+OLF Grp Glut sAMY/PAL/CTXsp Col12a1 Glut 
+OLF Grp Glut sAMY/PAL Barhl2 Glut 
+OLF Grp Glut sAMY/PAL Otp Glut 
+OLF Grp Glut sAMY/PAL/CTXsp Ccdc42 Glut 
+OLF/CTXsp Tfap2d Glut sAMY/PAL/CTXsp Col12a1 Glut 
+OLF/CTXsp Tfap2d Glut sAMY/PAL Barhl2 Glut 
+OLF/CTXsp Tfap2d Glut sAMY/PAL Otp Glut 
+OLF/CTXsp Tfap2d Glut sAMY/PAL/CTXsp Ccdc42 Glut 
+OLF Grxcr2 Glut OLF/CTXsp Tfap2d Glut 
+OLF Grxcr2 Glut OLF Ly6g6e Glut 
+OLF Grxcr2 Glut OLF IT St18 Glut 
+OLF Grxcr2 Glut OLF Rho Glut 
+OLF Grxcr2 Glut OLF IT Ebf2 Glut 
+OLF Grxcr2 Glut sAMY/PAL/CTXsp Col12a1 Glut 
+OLF Grxcr2 Glut sAMY/PAL Barhl2 Glut 
+OLF Grxcr2 Glut sAMY/PAL Otp Glut 
+OLF Grxcr2 Glut sAMY/PAL/CTXsp Ccdc42 Glut 
+CTXsp/sAMY Dcn Glut OLF Grp Glut 
+CTXsp/sAMY Dcn Glut OLF/CTXsp Tfap2d Glut 
+CTXsp/sAMY Dcn Glut OLF Grxcr2 Glut 
+CTXsp/sAMY Dcn Glut CTXsp/sAMY/OLF Ecm2 Glut 
+CTXsp/sAMY Dcn Glut OLF Ly6g6e Glut 
+CTXsp/sAMY Dcn Glut OLF IT St18 Glut 
+CTXsp/sAMY Dcn Glut OLF Rho Glut 
+CTXsp/sAMY Dcn Glut OLF IT Ebf2 Glut 
+CTXsp/sAMY Dcn Glut sAMY/PAL/CTXsp Col12a1 Glut 
+CTXsp/sAMY Dcn Glut sAMY/PAL Barhl2 Glut 
+CTXsp/sAMY Dcn Glut sAMY/PAL Otp Glut 
+CTXsp/sAMY Dcn Glut sAMY/PAL/CTXsp Ccdc42 Glut 
+CTXsp/sAMY/OLF Ecm2 Glut OLF Grp Glut 
+CTXsp/sAMY/OLF Ecm2 Glut OLF/CTXsp Tfap2d Glut 
+CTXsp/sAMY/OLF Ecm2 Glut OLF Grxcr2 Glut 
+CTXsp/sAMY/OLF Ecm2 Glut OLF Ly6g6e Glut 
+CTXsp/sAMY/OLF Ecm2 Glut OLF IT St18 Glut 
+CTXsp/sAMY/OLF Ecm2 Glut OLF Rho Glut 
+CTXsp/sAMY/OLF Ecm2 Glut OLF IT Ebf2 Glut 
+CTXsp/sAMY/OLF Ecm2 Glut sAMY/PAL/CTXsp Col12a1 Glut 
+CTXsp/sAMY/OLF Ecm2 Glut sAMY/PAL Barhl2 Glut 
+CTXsp/sAMY/OLF Ecm2 Glut sAMY/PAL Otp Glut 
+CTXsp/sAMY/OLF Ecm2 Glut sAMY/PAL/CTXsp Ccdc42 Glut 
+CTXsp/sAMY Cyp26b1 Glut OLF Grp Glut 
+CTXsp/sAMY Cyp26b1 Glut OLF/CTXsp Tfap2d Glut 
+CTXsp/sAMY Cyp26b1 Glut OLF Grxcr2 Glut 
+CTXsp/sAMY Cyp26b1 Glut CTXsp/sAMY Dcn Glut 
+CTXsp/sAMY Cyp26b1 Glut CTXsp/sAMY/OLF Ecm2 Glut 
+CTXsp/sAMY Cyp26b1 Glut OLF Ly6g6e Glut 
+CTXsp/sAMY Cyp26b1 Glut OLF IT St18 Glut 
+CTXsp/sAMY Cyp26b1 Glut OLF Rho Glut 
+CTXsp/sAMY Cyp26b1 Glut OLF IT Ebf2 Glut 
+CTXsp/sAMY Cyp26b1 Glut sAMY/PAL/CTXsp Col12a1 Glut 
+CTXsp/sAMY Cyp26b1 Glut sAMY/PAL Barhl2 Glut 
+CTXsp/sAMY Cyp26b1 Glut sAMY/PAL Otp Glut 
+CTXsp/sAMY Cyp26b1 Glut sAMY/PAL/CTXsp Ccdc42 Glut 
+OLF Ly6g6e Glut OLF/CTXsp Tfap2d Glut 
+OLF Ly6g6e Glut OLF Rho Glut 
+OLF Ly6g6e Glut sAMY/PAL/CTXsp Col12a1 Glut 
+OLF Ly6g6e Glut sAMY/PAL Barhl2 Glut 
+OLF Ly6g6e Glut sAMY/PAL Otp Glut 
+OLF Ly6g6e Glut sAMY/PAL/CTXsp Ccdc42 Glut 
+OLF IT St18 Glut OLF/CTXsp Tfap2d Glut 
+OLF IT St18 Glut OLF Ly6g6e Glut 
+OLF IT St18 Glut OLF Rho Glut 
+OLF IT St18 Glut sAMY/PAL/CTXsp Col12a1 Glut 
+OLF IT St18 Glut sAMY/PAL Barhl2 Glut 
+OLF IT St18 Glut sAMY/PAL Otp Glut 
+OLF IT St18 Glut sAMY/PAL/CTXsp Ccdc42 Glut 
+OLF Rho Glut OLF/CTXsp Tfap2d Glut 
+OLF Rho Glut sAMY/PAL/CTXsp Col12a1 Glut 
+OLF Rho Glut sAMY/PAL Barhl2 Glut 
+OLF Rho Glut sAMY/PAL Otp Glut 
+OLF Rho Glut sAMY/PAL/CTXsp Ccdc42 Glut 
+OLF IT Ebf2 Glut OLF/CTXsp Tfap2d Glut 
+OLF IT Ebf2 Glut OLF Ly6g6e Glut 
+OLF IT Ebf2 Glut OLF IT St18 Glut 
+OLF IT Ebf2 Glut OLF Rho Glut 
+OLF IT Ebf2 Glut sAMY/PAL/CTXsp Col12a1 Glut 
+OLF IT Ebf2 Glut sAMY/PAL Barhl2 Glut 
+OLF IT Ebf2 Glut sAMY/PAL Otp Glut 
+OLF IT Ebf2 Glut sAMY/PAL/CTXsp Ccdc42 Glut 
+sAMY/PAL Barhl2 Glut sAMY/PAL/CTXsp Col12a1 Glut 
+sAMY/PAL Barhl2 Glut sAMY/PAL Otp Glut 
+sAMY/PAL Barhl2 Glut sAMY/PAL/CTXsp Ccdc42 Glut 
+sAMY/PAL Otp Glut sAMY/PAL/CTXsp Col12a1 Glut 
+sAMY/PAL Otp Glut sAMY/PAL/CTXsp Ccdc42 Glut 
+sAMY/PAL/CTXsp Ccdc42 Glut sAMY/PAL/CTXsp Col12a1 Glut 
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 Col12a1   999
+2 Tekt1     998
+3 Cntnap3   997
+4 Npr3      997
+5 Dach2     996
+6 Epha4     996
+[1] "Col12a1"
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 Tekt1     998
+2 Npr3      997
+3 Dach2     996
+4 Epha4     996
+5 Fat4      996
+6 Galnt14   996
+[1] "Tekt1"
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 Dach2     996
+2 Epha4     996
+3 Fat4      996
+4 Galnt14   996
+5 Gpr88     996
+6 Pim1      996
+[1] "Dach2"
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 Epha4     996
+2 Fat4      996
+3 Galnt14   996
+4 Gpr88     996
+5 Pim1      996
+6 Samd5     996
+[1] "Epha4"
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 Fat4      996
+2 Galnt14   996
+3 Gpr88     996
+4 Pim1      996
+5 Samd5     996
+6 Vav3      996
+[1] "Fat4"
+# A tibble: 6 × 2
+  gene          score
+  <chr>         <dbl>
+1 Galnt14         996
+2 Gpr88           996
+3 Pim1            996
+4 Samd5           996
+5 Vav3            996
+6 1700018A04Rik   995
+[1] "Galnt14"
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 Gpr88     996
+2 Pim1      996
+3 Samd5     996
+4 Vav3      996
+5 Fos       995
+6 Fam107b   994
+[1] "Gpr88"
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 Pim1      996
+2 Samd5     996
+3 Vav3      996
+4 Fos       995
+5 Fam107b   994
+6 Cdkn1a    993
+[1] "Pim1"
+# A tibble: 2 × 2
+  gene  score
+  <chr> <dbl>
+1 Samd5   996
+2 Vav3    996
+[1] "Samd5"
+# A tibble: 1 × 2
+  gene  score
+  <chr> <dbl>
+1 Vav3    996
+[1] "Vav3"
+[1] "root:OLF-CTXsp-sAMY:OLF Grp Glut"
+[1] "@3/3   ngroup=2, ncluster=2"
+[1] "root:OLF-CTXsp-sAMY:OLF/CTXsp Tfap2d Glut"
+[1] "@3/3   ngroup=8, ncluster=8"
+[1] "root:OLF-CTXsp-sAMY:OLF Grxcr2 Glut"
+[1] "@3/3   ngroup=4, ncluster=4"
+[1] "root:OLF-CTXsp-sAMY:CTXsp/sAMY Dcn Glut"
+[1] "@3/3   ngroup=24, ncluster=24"
+[1] "root:OLF-CTXsp-sAMY:CTXsp/sAMY/OLF Ecm2 Glut"
+[1] "@3/3   ngroup=10, ncluster=10"
+[1] "root:OLF-CTXsp-sAMY:CTXsp/sAMY Cyp26b1 Glut"
+[1] "@3/3   ngroup=13, ncluster=13"
+[1] "root:OLF-CTXsp-sAMY:OLF Ly6g6e Glut"
+[1] "@3/3   ngroup=9, ncluster=9"
+[1] "root:OLF-CTXsp-sAMY:OLF IT St18 Glut"
+[1] "@3/3   ngroup=1, ncluster=1"
+[1] "root:OLF-CTXsp-sAMY:OLF Rho Glut"
+[1] "@3/3   ngroup=1, ncluster=1"
+[1] "root:OLF-CTXsp-sAMY:OLF IT Ebf2 Glut"
+[1] "@3/3   ngroup=1, ncluster=1"
+[1] "root:OLF-CTXsp-sAMY:sAMY/PAL/CTXsp Col12a1 Glut"
+[1] "@3/3   ngroup=9, ncluster=9"
+[1] "root:OLF-CTXsp-sAMY:sAMY/PAL Barhl2 Glut"
+[1] "@3/3   ngroup=26, ncluster=26"
+[1] "root:OLF-CTXsp-sAMY:sAMY/PAL Otp Glut"
+[1] "@3/3   ngroup=14, ncluster=14"
+[1] "root:OLF-CTXsp-sAMY:sAMY/PAL/CTXsp Ccdc42 Glut"
+[1] "@3/3   ngroup=13, ncluster=13"
+[1] "root:IT"
+[1] "@2/3   ngroup=17, ncluster=134"
+L2/3 IT ENTl/PIR Endou Glut OLF IT Blnk Glut 
+L2/3 IT ENTl/PIR Endou Glut OLF IT Trim54 Glut 
+L2/3 IT ENTl/PIR Endou Glut OLF IT Lnp1 Glut 
+L2/3 IT ENTl/PIR Endou Glut L3 IT ENT Glut 
+L2/3 IT ENTl/PIR Endou Glut L5 IT TPE-ENT Glut 
+L2/3 IT ENTl/PIR Endou Glut L6 IT CTX Glut 
+L2/3 IT ENTl/PIR Endou Glut L2/3 IT PPP Glut 
+L2/3 IT ENTl/PIR Endou Glut L4/5 IT CTX Glut 
+L2/3 IT ENTl/PIR Endou Glut L5 IT CTX Glut 
+OLF IT Blnk Glut OLF IT Trim54 Glut 
+OLF IT Blnk Glut OLF IT Lnp1 Glut 
+OLF IT Lnp1 Glut OLF IT Trim54 Glut 
+L2 IT ENTm Glut L2/3 IT ENTl/PIR Endou Glut 
+L2 IT ENTm Glut OLF IT Blnk Glut 
+L2 IT ENTm Glut OLF IT Trim54 Glut 
+L2 IT ENTm Glut OLF IT Lnp1 Glut 
+L2 IT ENTm Glut L2/3 IT CTX Glut 
+L2 IT ENTm Glut L3 IT ENT Glut 
+L2 IT ENTm Glut L2 IT HATA Glut 
+L2 IT ENTm Glut L5 IT TPE-ENT Glut 
+L2 IT ENTm Glut L6 IT CTX Glut 
+L2 IT ENTm Glut L2/3 IT PPP Glut 
+L2 IT ENTm Glut L4/5 IT CTX Glut 
+L2 IT ENTm Glut L5 IT CTX Glut 
+L2 IT ENTm Glut L2 IT ProS Glut 
+L2/3 IT CTX Glut L2/3 IT ENTl/PIR Endou Glut 
+L2/3 IT CTX Glut OLF IT Blnk Glut 
+L2/3 IT CTX Glut OLF IT Trim54 Glut 
+L2/3 IT CTX Glut OLF IT Lnp1 Glut 
+L2/3 IT CTX Glut L3 IT ENT Glut 
+L2/3 IT CTX Glut L5 IT TPE-ENT Glut 
+L2/3 IT CTX Glut L6 IT CTX Glut 
+L2/3 IT CTX Glut L2/3 IT PPP Glut 
+L2/3 IT CTX Glut L4/5 IT CTX Glut 
+L2/3 IT CTX Glut L5 IT CTX Glut 
+L3 IT ENT Glut OLF IT Blnk Glut 
+L3 IT ENT Glut OLF IT Trim54 Glut 
+L3 IT ENT Glut OLF IT Lnp1 Glut 
+L3 IT ENT Glut L5 IT TPE-ENT Glut 
+L3 IT ENT Glut L6 IT CTX Glut 
+L3 IT ENT Glut L4/5 IT CTX Glut 
+L3 IT ENT Glut L5 IT CTX Glut 
+L2 IT ENTl Glut L2/3 IT ENTl/PIR Endou Glut 
+L2 IT ENTl Glut OLF IT Blnk Glut 
+L2 IT ENTl Glut OLF IT Trim54 Glut 
+L2 IT ENTl Glut OLF IT Lnp1 Glut 
+L2 IT ENTl Glut L2 IT ENTm Glut 
+L2 IT ENTl Glut L2/3 IT CTX Glut 
+L2 IT ENTl Glut L3 IT ENT Glut 
+L2 IT ENTl Glut L2 IT HATA Glut 
+L2 IT ENTl Glut L5 IT TPE-ENT Glut 
+L2 IT ENTl Glut L6 IT CTX Glut 
+L2 IT ENTl Glut L2/3 IT PPP Glut 
+L2 IT ENTl Glut L4/5 IT CTX Glut 
+L2 IT ENTl Glut L5 IT CTX Glut 
+L2 IT ENTl Glut L2 IT ProS Glut 
+L2 IT HATA Glut L2/3 IT ENTl/PIR Endou Glut 
+L2 IT HATA Glut OLF IT Blnk Glut 
+L2 IT HATA Glut OLF IT Trim54 Glut 
+L2 IT HATA Glut OLF IT Lnp1 Glut 
+L2 IT HATA Glut L2/3 IT CTX Glut 
+L2 IT HATA Glut L3 IT ENT Glut 
+L2 IT HATA Glut L5 IT TPE-ENT Glut 
+L2 IT HATA Glut L6 IT CTX Glut 
+L2 IT HATA Glut L2/3 IT PPP Glut 
+L2 IT HATA Glut L4/5 IT CTX Glut 
+L2 IT HATA Glut L5 IT CTX Glut 
+L2 IT HATA Glut L2 IT ProS Glut 
+L5 IT TPE-ENT Glut OLF IT Blnk Glut 
+L5 IT TPE-ENT Glut OLF IT Trim54 Glut 
+L5 IT TPE-ENT Glut OLF IT Lnp1 Glut 
+L5 IT TPE-ENT Glut L6 IT CTX Glut 
+L6 IT CTX Glut OLF IT Blnk Glut 
+L6 IT CTX Glut OLF IT Trim54 Glut 
+L6 IT CTX Glut OLF IT Lnp1 Glut 
+CTXsp/sAMY Osr1 Glut L2/3 IT ENTl/PIR Endou Glut 
+CTXsp/sAMY Osr1 Glut OLF IT Blnk Glut 
+CTXsp/sAMY Osr1 Glut OLF IT Trim54 Glut 
+CTXsp/sAMY Osr1 Glut OLF IT Lnp1 Glut 
+CTXsp/sAMY Osr1 Glut L2 IT ENTm Glut 
+CTXsp/sAMY Osr1 Glut L2/3 IT CTX Glut 
+CTXsp/sAMY Osr1 Glut L3 IT ENT Glut 
+CTXsp/sAMY Osr1 Glut L2 IT ENTl Glut 
+CTXsp/sAMY Osr1 Glut L2 IT HATA Glut 
+CTXsp/sAMY Osr1 Glut L5 IT TPE-ENT Glut 
+CTXsp/sAMY Osr1 Glut L6 IT CTX Glut 
+CTXsp/sAMY Osr1 Glut L2/3 IT PPP Glut 
+CTXsp/sAMY Osr1 Glut L4/5 IT CTX Glut 
+CTXsp/sAMY Osr1 Glut L5 IT CTX Glut 
+CTXsp/sAMY Osr1 Glut L2 IT ProS Glut 
+CTXsp/sAMY Abca8a Glut L2/3 IT ENTl/PIR Endou Glut 
+CTXsp/sAMY Abca8a Glut OLF IT Blnk Glut 
+CTXsp/sAMY Abca8a Glut OLF IT Trim54 Glut 
+CTXsp/sAMY Abca8a Glut OLF IT Lnp1 Glut 
+CTXsp/sAMY Abca8a Glut L2 IT ENTm Glut 
+CTXsp/sAMY Abca8a Glut L2/3 IT CTX Glut 
+CTXsp/sAMY Abca8a Glut L3 IT ENT Glut 
+CTXsp/sAMY Abca8a Glut L2 IT ENTl Glut 
+CTXsp/sAMY Abca8a Glut L2 IT HATA Glut 
+CTXsp/sAMY Abca8a Glut L5 IT TPE-ENT Glut 
+CTXsp/sAMY Abca8a Glut L6 IT CTX Glut 
+CTXsp/sAMY Abca8a Glut CTXsp/sAMY Osr1 Glut 
+CTXsp/sAMY Abca8a Glut L2/3 IT PPP Glut 
+CTXsp/sAMY Abca8a Glut L4/5 IT CTX Glut 
+CTXsp/sAMY Abca8a Glut L5 IT CTX Glut 
+CTXsp/sAMY Abca8a Glut L2 IT ProS Glut 
+L2/3 IT PPP Glut OLF IT Blnk Glut 
+L2/3 IT PPP Glut OLF IT Trim54 Glut 
+L2/3 IT PPP Glut OLF IT Lnp1 Glut 
+L2/3 IT PPP Glut L3 IT ENT Glut 
+L2/3 IT PPP Glut L5 IT TPE-ENT Glut 
+L2/3 IT PPP Glut L6 IT CTX Glut 
+L2/3 IT PPP Glut L4/5 IT CTX Glut 
+L2/3 IT PPP Glut L5 IT CTX Glut 
+L4/5 IT CTX Glut OLF IT Blnk Glut 
+L4/5 IT CTX Glut OLF IT Trim54 Glut 
+L4/5 IT CTX Glut OLF IT Lnp1 Glut 
+L4/5 IT CTX Glut L5 IT TPE-ENT Glut 
+L4/5 IT CTX Glut L6 IT CTX Glut 
+L4/5 IT CTX Glut L5 IT CTX Glut 
+L5 IT CTX Glut OLF IT Blnk Glut 
+L5 IT CTX Glut OLF IT Trim54 Glut 
+L5 IT CTX Glut OLF IT Lnp1 Glut 
+L5 IT CTX Glut L5 IT TPE-ENT Glut 
+L5 IT CTX Glut L6 IT CTX Glut 
+L2 IT ProS Glut L2/3 IT ENTl/PIR Endou Glut 
+L2 IT ProS Glut OLF IT Blnk Glut 
+L2 IT ProS Glut OLF IT Trim54 Glut 
+L2 IT ProS Glut OLF IT Lnp1 Glut 
+L2 IT ProS Glut L2/3 IT CTX Glut 
+L2 IT ProS Glut L3 IT ENT Glut 
+L2 IT ProS Glut L5 IT TPE-ENT Glut 
+L2 IT ProS Glut L6 IT CTX Glut 
+L2 IT ProS Glut L2/3 IT PPP Glut 
+L2 IT ProS Glut L4/5 IT CTX Glut 
+L2 IT ProS Glut L5 IT CTX Glut 
+# A tibble: 6 × 2
+  gene     score
+  <chr>    <dbl>
+1 Rnf152    1991
+2 Lcp1       999
+3 Rspo1      999
+4 Ackr3      998
+5 Antxr1     997
+6 Cacna2d2   997
+[1] "Rnf152"
+# A tibble: 6 × 2
+  gene     score
+  <chr>    <dbl>
+1 Lcp1       999
+2 Rspo1      999
+3 Ackr3      998
+4 Antxr1     997
+5 Cacna2d2   997
+6 Cmpk2      997
+[1] "Lcp1"
+# A tibble: 6 × 2
+  gene     score
+  <chr>    <dbl>
+1 Rspo1      999
+2 Ackr3      998
+3 Cacna2d2   997
+4 Cmpk2      997
+5 Dach1      997
+6 Dpp4       997
+[1] "Rspo1"
+# A tibble: 6 × 2
+  gene     score
+  <chr>    <dbl>
+1 Ackr3      998
+2 Cacna2d2   997
+3 Cmpk2      997
+4 Dach1      997
+5 Dpp4       997
+6 Scn4b      997
+[1] "Ackr3"
+# A tibble: 6 × 2
+  gene     score
+  <chr>    <dbl>
+1 Cacna2d2   997
+2 Dach1      997
+3 Dpp4       997
+4 Scn4b      997
+5 Kitl       996
+6 L3mbtl4    996
+[1] "Cacna2d2"
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 Dach1     997
+2 Dpp4      997
+3 Scn4b     997
+4 Kitl      996
+5 L3mbtl4   996
+6 Sema5b    996
+[1] "Dach1"
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 Dpp4      997
+2 Scn4b     997
+3 Kitl      996
+4 L3mbtl4   996
+5 Sema5b    996
+6 Sla       996
+[1] "Dpp4"
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 Scn4b     997
+2 Kitl      996
+3 L3mbtl4   996
+4 Sema5b    996
+5 Sla       996
+6 B3galt2   995
+[1] "Scn4b"
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 Kitl      996
+2 L3mbtl4   996
+3 Sema5b    996
+4 Sla       996
+5 B3galt2   995
+6 Rnd2      995
+[1] "Kitl"
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 L3mbtl4   996
+2 Sema5b    996
+3 Sla       996
+4 B3galt2   995
+5 Steap2    995
+6 Slc35f4   994
+[1] "L3mbtl4"
+# A tibble: 3 × 2
+  gene   score
+  <chr>  <dbl>
+1 Sema5b   996
+2 Sla      996
+3 Steap2   995
+[1] "Sema5b"
+# A tibble: 1 × 2
+  gene  score
+  <chr> <dbl>
+1 Sla     996
+[1] "Sla"
+[1] "root:IT:L2/3 IT ENTl/PIR Endou Glut"
+[1] "@3/3   ngroup=6, ncluster=6"
+[1] "root:IT:OLF IT Blnk Glut"
+[1] "@3/3   ngroup=5, ncluster=5"
+[1] "root:IT:OLF IT Trim54 Glut"
+[1] "@3/3   ngroup=3, ncluster=3"
+[1] "root:IT:OLF IT Lnp1 Glut"
+[1] "@3/3   ngroup=4, ncluster=4"
+[1] "root:IT:L2 IT ENTm Glut"
+[1] "@3/3   ngroup=4, ncluster=4"
+[1] "root:IT:L2/3 IT CTX Glut"
+[1] "@3/3   ngroup=7, ncluster=7"
+[1] "root:IT:L3 IT ENT Glut"
+[1] "@3/3   ngroup=11, ncluster=11"
+[1] "root:IT:L2 IT ENTl Glut"
+[1] "@3/3   ngroup=5, ncluster=5"
+[1] "root:IT:L2 IT HATA Glut"
+[1] "@3/3   ngroup=3, ncluster=3"
+[1] "root:IT:L5 IT TPE-ENT Glut"
+[1] "@3/3   ngroup=5, ncluster=5"
+[1] "root:IT:L6 IT CTX Glut"
+[1] "@3/3   ngroup=14, ncluster=14"
+[1] "root:IT:CTXsp/sAMY Osr1 Glut"
+[1] "@3/3   ngroup=13, ncluster=13"
+[1] "root:IT:CTXsp/sAMY Abca8a Glut"
+[1] "@3/3   ngroup=2, ncluster=2"
+[1] "root:IT:L2/3 IT PPP Glut"
+[1] "@3/3   ngroup=22, ncluster=22"
+[1] "root:IT:L4/5 IT CTX Glut"
+[1] "@3/3   ngroup=21, ncluster=21"
+[1] "root:IT:L5 IT CTX Glut"
+[1] "@3/3   ngroup=8, ncluster=8"
+[1] "root:IT:L2 IT ProS Glut"
+[1] "@3/3   ngroup=1, ncluster=1"
+[1] "root:Car3"
+[1] "@2/3   ngroup=1, ncluster=10"
+[1] "root:Car3:Car3 Glut"
+[1] "@3/3   ngroup=10, ncluster=10"
+[1] "root:CGE"
+[1] "@2/3   ngroup=6, ncluster=64"
+OLF Htr3a GABA Vip GABA 
+OLF Htr3a GABA Sncg GABA 
+OLF Htr3a GABA RHP/OLF/sAMY Ndnf GABA 
+Lamp5 GABA OLF Htr3a GABA 
+Lamp5 GABA Vip GABA 
+Lamp5 GABA Sncg GABA 
+Lamp5 GABA RHP/OLF/sAMY Ndnf GABA 
+Lamp5 GABA Lamp5 Lhx6 GABA 
+Sncg GABA Vip GABA 
+RHP/OLF/sAMY Ndnf GABA Vip GABA 
+RHP/OLF/sAMY Ndnf GABA Sncg GABA 
+Lamp5 Lhx6 GABA OLF Htr3a GABA 
+Lamp5 Lhx6 GABA Vip GABA 
+Lamp5 Lhx6 GABA Sncg GABA 
+Lamp5 Lhx6 GABA RHP/OLF/sAMY Ndnf GABA 
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Chrna4  3931
+2 Cbln2   2993
+3 Rassf2  1994
+4 Fbn2    1991
+5 Rspo2   1988
+6 Npy2r   1987
+[1] "Chrna4"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Gpc6    1984
+2 Tac2     999
+3 Cd24a    998
+4 Grin3a   998
+5 Cbln2    997
+6 Nwd2     997
+[1] "Gpc6"
+# A tibble: 6 × 2
+  gene          score
+  <chr>         <dbl>
+1 Cd24a           998
+2 Baiap3          996
+3 Cdh8            996
+4 Chn2            996
+5 Runx1t1         996
+6 A330008L17Rik   995
+[1] "Cd24a"
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 Baiap3    996
+2 Chn2      996
+3 Runx1t1   996
+4 Fbln7     995
+5 Rbms1     995
+6 Cybrd1    994
+[1] "Baiap3"
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 Chn2      996
+2 Runx1t1   996
+3 Fbln7     995
+4 Rbms1     995
+5 Cybrd1    994
+6 Cdh24     993
+[1] "Chn2"
+# A tibble: 2 × 2
+  gene    score
+  <chr>   <dbl>
+1 Runx1t1   996
+2 Rbms1     995
+[1] "Runx1t1"
+[1] "root:CGE:OLF Htr3a GABA"
+[1] "@3/3   ngroup=2, ncluster=2"
+[1] "root:CGE:Vip GABA"
+[1] "@3/3   ngroup=24, ncluster=24"
+[1] "root:CGE:Lamp5 GABA"
+[1] "@3/3   ngroup=10, ncluster=10"
+[1] "root:CGE:Sncg GABA"
+[1] "@3/3   ngroup=19, ncluster=19"
+[1] "root:CGE:RHP/OLF/sAMY Ndnf GABA"
+[1] "@3/3   ngroup=3, ncluster=3"
+[1] "root:CGE:Lamp5 Lhx6 GABA"
+[1] "@3/3   ngroup=6, ncluster=6"
+[1] "root:MGE"
+[1] "@2/3   ngroup=5, ncluster=87"
+Prox1 Lhx6 GABA Sst GABA 
+Prox1 Lhx6 GABA Sst Lhx8 GABA 
+Prox1 Lhx6 GABA Pvalb GABA 
+Prox1 Lhx6 GABA Sst Chodl GABA 
+Sst GABA Sst Lhx8 GABA 
+Pvalb GABA Sst GABA 
+Pvalb GABA Sst Lhx8 GABA 
+Pvalb GABA Sst Chodl GABA 
+Sst Chodl GABA Sst GABA 
+Sst Chodl GABA Sst Lhx8 GABA 
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Cadps2  1988
+2 Kcnh1   1986
+3 Pbx3    1986
+4 Sorcs3  1984
+5 Ajap1    996
+6 Cpne8    996
+[1] "Cadps2"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Slit2    996
+2 Spag17   996
+3 Gpr139   995
+4 Plk2     995
+5 Stk32b   994
+6 Kcnab3   993
+[1] "Slit2"
+# A tibble: 6 × 2
+  gene          score
+  <chr>         <dbl>
+1 Spag17          996
+2 Gpr139          995
+3 Stk32b          994
+4 Kcnab3          993
+5 A830082K12Rik   992
+6 Kcnh1           991
+[1] "Spag17"
+[1] "root:MGE:Prox1 Lhx6 GABA"
+[1] "@3/3   ngroup=6, ncluster=6"
+[1] "root:MGE:Sst GABA"
+[1] "@3/3   ngroup=43, ncluster=43"
+[1] "root:MGE:Sst Lhx8 GABA"
+[1] "@3/3   ngroup=5, ncluster=5"
+[1] "root:MGE:Pvalb GABA"
+[1] "@3/3   ngroup=18, ncluster=18"
+[1] "root:MGE:Sst Chodl GABA"
+[1] "@3/3   ngroup=15, ncluster=15"
+[1] "root:LSX"
+[1] "@2/3   ngroup=6, ncluster=167"
+LSX Otx2 GABA LSX Prdm12 GABA 
+LSX Otx2 GABA LSX Sall3 GABA 
+LSX Prdm12 GABA LSX Sall3 GABA 
+LSX Nkx2-1 GABA LSX Otx2 GABA 
+LSX Nkx2-1 GABA LSX Prdm12 GABA 
+LSX Nkx2-1 GABA LSX Sall3 GABA 
+LSX Lhx8 GABA LSX Otx2 GABA 
+LSX Lhx8 GABA LSX Prdm12 GABA 
+LSX Lhx8 GABA LSX Nkx2-1 GABA 
+LSX Lhx8 GABA LSX Sall3 GABA 
+LSX Chat GABA LSX Otx2 GABA 
+LSX Chat GABA LSX Prdm12 GABA 
+LSX Chat GABA LSX Nkx2-1 GABA 
+LSX Chat GABA LSX Sall3 GABA 
+LSX Chat GABA LSX Lhx8 GABA 
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Ap1s2    996
+2 Fos      996
+3 Gprc5b   996
+4 Map7     996
+5 Mt2      996
+6 Pantr1   996
+[1] "Ap1s2"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Fos      996
+2 Gprc5b   996
+3 Map7     996
+4 Mt2      996
+5 Pantr1   996
+6 Rgs6     996
+[1] "Fos"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Gprc5b   996
+2 Map7     996
+3 Mt2      996
+4 Pantr1   996
+5 Rgs6     996
+6 Sept6    996
+[1] "Gprc5b"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Map7     996
+2 Mt2      996
+3 Pantr1   996
+4 Rgs6     996
+5 Sept6    996
+6 Kcnk9    995
+[1] "Map7"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Mt2      996
+2 Pantr1   996
+3 Rgs6     996
+4 Sept6    996
+5 Kcnk9    995
+6 Man2a1   995
+[1] "Mt2"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Pantr1   996
+2 Rgs6     996
+3 Sept6    996
+4 Man2a1   995
+5 Sema6a   995
+6 Vstm2b   994
+[1] "Pantr1"
+# A tibble: 4 × 2
+  gene   score
+  <chr>  <dbl>
+1 Rgs6     996
+2 Sept6    996
+3 Man2a1   995
+4 Vstm2b   994
+[1] "Rgs6"
+# A tibble: 1 × 2
+  gene  score
+  <chr> <dbl>
+1 Sept6   996
+[1] "Sept6"
+[1] "root:LSX:LSX Otx2 GABA"
+[1] "@3/3   ngroup=23, ncluster=23"
+[1] "root:LSX:LSX Prdm12 GABA"
+[1] "@3/3   ngroup=98, ncluster=98"
+[1] "root:LSX:LSX Nkx2-1 GABA"
+[1] "@3/3   ngroup=11, ncluster=11"
+[1] "root:LSX:LSX Sall3 GABA"
+[1] "@3/3   ngroup=28, ncluster=28"
+[1] "root:LSX:LSX Lhx8 GABA"
+[1] "@3/3   ngroup=2, ncluster=2"
+[1] "root:LSX:LSX Chat GABA"
+[1] "@3/3   ngroup=5, ncluster=5"
+[1] "root:sAMY-PAL"
+[1] "@2/3   ngroup=16, ncluster=312"
+LSX Six3 GABA PAL Avp GABA 
+LSX Six3 GABA PAL/sAMY Sox6 Cyp26b1 GABA 
+LSX Six3 GABA sAMY/PAL/OLF Prox1 GABA 
+LSX Six3 GABA PAL/sAMY Htr3a GABA 
+LSX Six3 GABA PAL/sAMY Six3 Cyp26b1 GABA 
+LSX Six3 GABA sAMY/PAL Six3 Lamp5 GABA 
+LSX Six3 GABA sAMY Ebf1 GABA 
+LSX Six3 GABA sAMY/PAL Ebf1 GABA 
+LSX Six3 GABA sAMY/PAL Six3 Meis2 GABA 
+LSX Six3 GABA PAL/sAMY Crh GABA 
+LSX Six3 GABA sAMY/PAL/HY Lhx8 GABA 
+PAL Avp GABA PAL/sAMY Sox6 Cyp26b1 GABA 
+PAL Avp GABA sAMY/PAL/OLF Prox1 GABA 
+PAL Avp GABA PAL/sAMY Htr3a GABA 
+PAL Avp GABA PAL/sAMY Six3 Cyp26b1 GABA 
+PAL Avp GABA sAMY/PAL Six3 Lamp5 GABA 
+PAL Avp GABA sAMY Ebf1 GABA 
+PAL Avp GABA sAMY/PAL Ebf1 GABA 
+PAL Avp GABA sAMY/PAL Six3 Meis2 GABA 
+PAL Avp GABA PAL/sAMY Crh GABA 
+PAL Avp GABA sAMY/PAL/HY Lhx8 GABA 
+PAL/sAMY Sox6 Cyp26b1 GABA sAMY/PAL/OLF Prox1 GABA 
+PAL/sAMY Sox6 Cyp26b1 GABA sAMY/PAL Six3 Lamp5 GABA 
+PAL/sAMY Sox6 Cyp26b1 GABA sAMY Ebf1 GABA 
+PAL/sAMY Sox6 Cyp26b1 GABA sAMY/PAL Ebf1 GABA 
+PAL/sAMY Sox6 Cyp26b1 GABA sAMY/PAL Six3 Meis2 GABA 
+PAL/sAMY Sox6 Cyp26b1 GABA sAMY/PAL/HY Lhx8 GABA 
+PAL/sAMY Htr3a GABA PAL/sAMY Sox6 Cyp26b1 GABA 
+PAL/sAMY Htr3a GABA sAMY/PAL/OLF Prox1 GABA 
+PAL/sAMY Htr3a GABA PAL/sAMY Six3 Cyp26b1 GABA 
+PAL/sAMY Htr3a GABA sAMY/PAL Six3 Lamp5 GABA 
+PAL/sAMY Htr3a GABA sAMY Ebf1 GABA 
+PAL/sAMY Htr3a GABA sAMY/PAL Ebf1 GABA 
+PAL/sAMY Htr3a GABA sAMY/PAL Six3 Meis2 GABA 
+PAL/sAMY Htr3a GABA sAMY/PAL/HY Lhx8 GABA 
+HY/PAL/sAMY Lhx6 GABA LSX Six3 GABA 
+HY/PAL/sAMY Lhx6 GABA PAL Avp GABA 
+HY/PAL/sAMY Lhx6 GABA PAL/sAMY Sox6 Cyp26b1 GABA 
+HY/PAL/sAMY Lhx6 GABA sAMY/PAL/OLF Prox1 GABA 
+HY/PAL/sAMY Lhx6 GABA PAL/sAMY Htr3a GABA 
+HY/PAL/sAMY Lhx6 GABA HY/PAL/sAMY Sox6 GABA 
+HY/PAL/sAMY Lhx6 GABA PAL/sAMY Six3 Cyp26b1 GABA 
+HY/PAL/sAMY Lhx6 GABA sAMY/PAL Six3 Lamp5 GABA 
+HY/PAL/sAMY Lhx6 GABA sAMY Ebf1 GABA 
+HY/PAL/sAMY Lhx6 GABA sAMY/PAL Ebf1 GABA 
+HY/PAL/sAMY Lhx6 GABA sAMY/PAL Six3 Meis2 GABA 
+HY/PAL/sAMY Lhx6 GABA PAL/sAMY Crh GABA 
+HY/PAL/sAMY Lhx6 GABA sAMY/PAL/HY Lhx8 GABA 
+HY/PAL/sAMY Sox6 GABA LSX Six3 GABA 
+HY/PAL/sAMY Sox6 GABA PAL Avp GABA 
+HY/PAL/sAMY Sox6 GABA PAL/sAMY Sox6 Cyp26b1 GABA 
+HY/PAL/sAMY Sox6 GABA sAMY/PAL/OLF Prox1 GABA 
+HY/PAL/sAMY Sox6 GABA PAL/sAMY Htr3a GABA 
+HY/PAL/sAMY Sox6 GABA PAL/sAMY Six3 Cyp26b1 GABA 
+HY/PAL/sAMY Sox6 GABA sAMY/PAL Six3 Lamp5 GABA 
+HY/PAL/sAMY Sox6 GABA sAMY Ebf1 GABA 
+HY/PAL/sAMY Sox6 GABA sAMY/PAL Ebf1 GABA 
+HY/PAL/sAMY Sox6 GABA sAMY/PAL Six3 Meis2 GABA 
+HY/PAL/sAMY Sox6 GABA PAL/sAMY Crh GABA 
+HY/PAL/sAMY Sox6 GABA sAMY/PAL/HY Lhx8 GABA 
+PAL/sAMY Six3 Cyp26b1 GABA PAL/sAMY Sox6 Cyp26b1 GABA 
+PAL/sAMY Six3 Cyp26b1 GABA sAMY/PAL/OLF Prox1 GABA 
+PAL/sAMY Six3 Cyp26b1 GABA sAMY/PAL Six3 Lamp5 GABA 
+PAL/sAMY Six3 Cyp26b1 GABA sAMY Ebf1 GABA 
+PAL/sAMY Six3 Cyp26b1 GABA sAMY/PAL Ebf1 GABA 
+PAL/sAMY Six3 Cyp26b1 GABA sAMY/PAL Six3 Meis2 GABA 
+PAL/sAMY Six3 Cyp26b1 GABA sAMY/PAL/HY Lhx8 GABA 
+sAMY/PAL Six3 Lamp5 GABA sAMY/PAL/OLF Prox1 GABA 
+sAMY/PAL Six3 Lamp5 GABA sAMY/PAL Six3 Meis2 GABA 
+sAMY/PAL Six3 Lamp5 GABA sAMY/PAL/HY Lhx8 GABA 
+sAMY Ebf1 GABA sAMY/PAL/OLF Prox1 GABA 
+sAMY Ebf1 GABA sAMY/PAL Six3 Lamp5 GABA 
+sAMY Ebf1 GABA sAMY/PAL Ebf1 GABA 
+sAMY Ebf1 GABA sAMY/PAL Six3 Meis2 GABA 
+sAMY Ebf1 GABA sAMY/PAL/HY Lhx8 GABA 
+sAMY/PAL Ebf1 GABA sAMY/PAL/OLF Prox1 GABA 
+sAMY/PAL Ebf1 GABA sAMY/PAL Six3 Lamp5 GABA 
+sAMY/PAL Ebf1 GABA sAMY/PAL Six3 Meis2 GABA 
+sAMY/PAL Ebf1 GABA sAMY/PAL/HY Lhx8 GABA 
+sAMY/PAL Six3 Meis2 GABA sAMY/PAL/OLF Prox1 GABA 
+sAMY/PAL Six3 Meis2 GABA sAMY/PAL/HY Lhx8 GABA 
+HY/PAL/sAMY Isl1 GABA LSX Six3 GABA 
+HY/PAL/sAMY Isl1 GABA PAL Avp GABA 
+HY/PAL/sAMY Isl1 GABA PAL/sAMY Sox6 Cyp26b1 GABA 
+HY/PAL/sAMY Isl1 GABA sAMY/PAL/OLF Prox1 GABA 
+HY/PAL/sAMY Isl1 GABA PAL/sAMY Htr3a GABA 
+HY/PAL/sAMY Isl1 GABA HY/PAL/sAMY Lhx6 GABA 
+HY/PAL/sAMY Isl1 GABA HY/PAL/sAMY Sox6 GABA 
+HY/PAL/sAMY Isl1 GABA PAL/sAMY Six3 Cyp26b1 GABA 
+HY/PAL/sAMY Isl1 GABA sAMY/PAL Six3 Lamp5 GABA 
+HY/PAL/sAMY Isl1 GABA sAMY Ebf1 GABA 
+HY/PAL/sAMY Isl1 GABA sAMY/PAL Ebf1 GABA 
+HY/PAL/sAMY Isl1 GABA sAMY/PAL Six3 Meis2 GABA 
+HY/PAL/sAMY Isl1 GABA PAL/sAMY Crh GABA 
+HY/PAL/sAMY Isl1 GABA sAMY/PAL/HY Lhx8 GABA 
+PAL/sAMY Crh GABA PAL/sAMY Sox6 Cyp26b1 GABA 
+PAL/sAMY Crh GABA sAMY/PAL/OLF Prox1 GABA 
+PAL/sAMY Crh GABA PAL/sAMY Htr3a GABA 
+PAL/sAMY Crh GABA PAL/sAMY Six3 Cyp26b1 GABA 
+PAL/sAMY Crh GABA sAMY/PAL Six3 Lamp5 GABA 
+PAL/sAMY Crh GABA sAMY Ebf1 GABA 
+PAL/sAMY Crh GABA sAMY/PAL Ebf1 GABA 
+PAL/sAMY Crh GABA sAMY/PAL Six3 Meis2 GABA 
+PAL/sAMY Crh GABA sAMY/PAL/HY Lhx8 GABA 
+CEA Vdr GABA LSX Six3 GABA 
+CEA Vdr GABA PAL Avp GABA 
+CEA Vdr GABA PAL/sAMY Sox6 Cyp26b1 GABA 
+CEA Vdr GABA sAMY/PAL/OLF Prox1 GABA 
+CEA Vdr GABA PAL/sAMY Htr3a GABA 
+CEA Vdr GABA HY/PAL/sAMY Lhx6 GABA 
+CEA Vdr GABA HY/PAL/sAMY Sox6 GABA 
+CEA Vdr GABA PAL/sAMY Six3 Cyp26b1 GABA 
+CEA Vdr GABA sAMY/PAL Six3 Lamp5 GABA 
+CEA Vdr GABA sAMY Ebf1 GABA 
+CEA Vdr GABA sAMY/PAL Ebf1 GABA 
+CEA Vdr GABA sAMY/PAL Six3 Meis2 GABA 
+CEA Vdr GABA HY/PAL/sAMY Isl1 GABA 
+CEA Vdr GABA PAL/sAMY Crh GABA 
+CEA Vdr GABA sAMY/PAL/HY Lhx8 GABA 
+sAMY/PAL/HY Lhx8 GABA sAMY/PAL/OLF Prox1 GABA 
+# A tibble: 6 × 2
+  gene     score
+  <chr>    <dbl>
+1 Sncaip    1989
+2 Crhbp      999
+3 Scube2     999
+4 Cacna2d3   998
+5 Ror2       998
+6 Gldn       997
+[1] "Sncaip"
+# A tibble: 6 × 2
+  gene     score
+  <chr>    <dbl>
+1 Crhbp      999
+2 Cacna2d3   998
+3 Gldn       997
+4 Onecut2    997
+5 Pdlim5     997
+6 Adam12     996
+[1] "Crhbp"
+# A tibble: 6 × 2
+  gene     score
+  <chr>    <dbl>
+1 Cacna2d3   998
+2 Onecut2    997
+3 Pdlim5     997
+4 Adam12     996
+5 Arhgef26   996
+6 Calb2      996
+[1] "Cacna2d3"
+# A tibble: 6 × 2
+  gene     score
+  <chr>    <dbl>
+1 Onecut2    997
+2 Pdlim5     997
+3 Adam12     996
+4 Arhgef26   996
+5 Calb2      996
+6 Chrna3     996
+[1] "Onecut2"
+# A tibble: 6 × 2
+  gene     score
+  <chr>    <dbl>
+1 Pdlim5     997
+2 Adam12     996
+3 Arhgef26   996
+4 Calb2      996
+5 Chrna3     996
+6 Clic6      996
+[1] "Pdlim5"
+# A tibble: 6 × 2
+  gene     score
+  <chr>    <dbl>
+1 Adam12     996
+2 Arhgef26   996
+3 Calb2      996
+4 Chrna3     996
+5 Clic6      996
+6 Foxo1      996
+[1] "Adam12"
+# A tibble: 6 × 2
+  gene     score
+  <chr>    <dbl>
+1 Arhgef26   996
+2 Calb2      996
+3 Chrna3     996
+4 Clic6      996
+5 Foxo1      996
+6 Htr2a      996
+[1] "Arhgef26"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Calb2    996
+2 Chrna3   996
+3 Clic6    996
+4 Foxo1    996
+5 Htr2a    996
+6 Ntn4     996
+[1] "Calb2"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Chrna3   996
+2 Clic6    996
+3 Foxo1    996
+4 Htr2a    996
+5 Ntn4     996
+6 Ntng1    996
+[1] "Chrna3"
+# A tibble: 6 × 2
+  gene  score
+  <chr> <dbl>
+1 Clic6   996
+2 Foxo1   996
+3 Htr2a   996
+4 Ntn4    996
+5 Ntng1   996
+6 Olfm3   996
+[1] "Clic6"
+# A tibble: 6 × 2
+  gene  score
+  <chr> <dbl>
+1 Foxo1   996
+2 Htr2a   996
+3 Ntn4    996
+4 Ntng1   996
+5 Olfm3   996
+6 Plcl1   996
+[1] "Foxo1"
+# A tibble: 6 × 2
+  gene  score
+  <chr> <dbl>
+1 Htr2a   996
+2 Ntn4    996
+3 Ntng1   996
+4 Olfm3   996
+5 Plcl1   996
+6 Prmt8   996
+[1] "Htr2a"
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 Ntn4      996
+2 Ntng1     996
+3 Olfm3     996
+4 Plcl1     996
+5 Prmt8     996
+6 Rtn4rl1   996
+[1] "Ntn4"
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 Ntng1     996
+2 Olfm3     996
+3 Plcl1     996
+4 Prmt8     996
+5 Rtn4rl1   996
+6 Sdk1      996
+[1] "Ntng1"
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 Olfm3     996
+2 Plcl1     996
+3 Prmt8     996
+4 Rtn4rl1   996
+5 Sdk1      996
+6 Sox13     996
+[1] "Olfm3"
+# A tibble: 6 × 2
+  gene     score
+  <chr>    <dbl>
+1 Plcl1      996
+2 Prmt8      996
+3 Rtn4rl1    996
+4 Sdk1       996
+5 Sox13      996
+6 Ankrd34c   995
+[1] "Plcl1"
+# A tibble: 6 × 2
+  gene     score
+  <chr>    <dbl>
+1 Prmt8      996
+2 Rtn4rl1    996
+3 Sdk1       996
+4 Sox13      996
+5 Ankrd34c   995
+6 Il1rap     995
+[1] "Prmt8"
+# A tibble: 4 × 2
+  gene     score
+  <chr>    <dbl>
+1 Rtn4rl1    996
+2 Sdk1       996
+3 Sox13      996
+4 Ankrd34c   995
+[1] "Rtn4rl1"
+# A tibble: 3 × 2
+  gene     score
+  <chr>    <dbl>
+1 Sdk1       996
+2 Sox13      996
+3 Ankrd34c   995
+[1] "Sdk1"
+# A tibble: 1 × 2
+  gene  score
+  <chr> <dbl>
+1 Sox13   996
+[1] "Sox13"
+[1] "root:sAMY-PAL:LSX Six3 GABA"
+[1] "@3/3   ngroup=3, ncluster=3"
+[1] "root:sAMY-PAL:PAL Avp GABA"
+[1] "@3/3   ngroup=2, ncluster=2"
+[1] "root:sAMY-PAL:PAL/sAMY Sox6 Cyp26b1 GABA"
+[1] "@3/3   ngroup=4, ncluster=4"
+[1] "root:sAMY-PAL:sAMY/PAL/OLF Prox1 GABA"
+[1] "@3/3   ngroup=5, ncluster=5"
+[1] "root:sAMY-PAL:PAL/sAMY Htr3a GABA"
+[1] "@3/3   ngroup=6, ncluster=6"
+[1] "root:sAMY-PAL:HY/PAL/sAMY Lhx6 GABA"
+[1] "@3/3   ngroup=59, ncluster=59"
+[1] "root:sAMY-PAL:HY/PAL/sAMY Sox6 GABA"
+[1] "@3/3   ngroup=23, ncluster=23"
+[1] "root:sAMY-PAL:PAL/sAMY Six3 Cyp26b1 GABA"
+[1] "@3/3   ngroup=14, ncluster=14"
+[1] "root:sAMY-PAL:sAMY/PAL Six3 Lamp5 GABA"
+[1] "@3/3   ngroup=4, ncluster=4"
+[1] "root:sAMY-PAL:sAMY Ebf1 GABA"
+[1] "@3/3   ngroup=29, ncluster=29"
+[1] "root:sAMY-PAL:sAMY/PAL Ebf1 GABA"
+[1] "@3/3   ngroup=12, ncluster=12"
+[1] "root:sAMY-PAL:sAMY/PAL Six3 Meis2 GABA"
+[1] "@3/3   ngroup=29, ncluster=29"
+[1] "root:sAMY-PAL:HY/PAL/sAMY Isl1 GABA"
+[1] "@3/3   ngroup=3, ncluster=3"
+[1] "root:sAMY-PAL:PAL/sAMY Crh GABA"
+[1] "@3/3   ngroup=9, ncluster=9"
+[1] "root:sAMY-PAL:CEA Vdr GABA"
+[1] "@3/3   ngroup=1, ncluster=1"
+[1] "root:sAMY-PAL:sAMY/PAL/HY Lhx8 GABA"
+[1] "@3/3   ngroup=109, ncluster=109"
+[1] "root:HY"
+[1] "@2/3   ngroup=46, ncluster=629"
+TH Otx2 GABA VMH Tbx3 Glut 
+TH Otx2 GABA VMH Fezf1 Glut 
+TH Otx2 GABA VMH Nr5a1 Glut 
+TH Otx2 GABA VMH Nr5a1 Tbx3 Glut 
+TH Otx2 GABA TH/HY Pax6 GABA 
+TH Otx2 GABA Trp73 Glut 
+TH Otx2 GABA TH Tfap2d Glut 
+HY Otp GABA TH Otx2 GABA 
+HY Otp GABA HY Tbx3 Glut 
+HY Otp GABA VMH Tbx3 Glut 
+HY Otp GABA HY Tbx3 GABA 
+HY Otp GABA HY Vgll2 Glut 
+HY Otp GABA HY Skor2 Glut 
+HY Otp GABA VMH Fezf1 Glut 
+HY Otp GABA VMH Nr5a1 Glut 
+HY Otp GABA VMH Nr5a1 Tbx3 Glut 
+HY Otp GABA HY Six6 GABA 
+HY Otp GABA HY Otp Six6 GABA 
+HY Otp GABA HY Six3 GABA 
+HY Otp GABA HY Tac2 GABA 
+HY Otp GABA HY Prdm12 GABA 
+HY Otp GABA TH/HY Pax6 GABA 
+HY Otp GABA Trp73 Glut 
+HY Otp GABA HY Otp Glut 
+HY Otp GABA HY Pitx2 Glut 
+HY Otp GABA MB En1 Hybrid 
+HY Otp GABA TH Tfap2d Glut 
+HY Otp GABA LSX/HY Otx2 Glut 
+HY Otp GABA LSX/PAL/HY Bsx Glut 
+HY Otp GABA HY/PAL Tbr1 Glut 
+HY Otp GABA LSX/HY Otx2 GABA 
+HY Otp GABA HY Satb2 GABA 
+HY Otp GABA HY Pmch Glut 
+HY Otp GABA sAMY/PAL/HY Cngb3 Hybrid 
+HY Otp GABA HY/TH Gnb3 GABA 
+HY Otp GABA SCH GABA 
+HY Tbx3 Glut TH Otx2 GABA 
+HY Tbx3 Glut VMH Tbx3 Glut 
+HY Tbx3 Glut HY Vgll2 Glut 
+HY Tbx3 Glut VMH Fezf1 Glut 
+HY Tbx3 Glut VMH Nr5a1 Glut 
+HY Tbx3 Glut VMH Nr5a1 Tbx3 Glut 
+HY Tbx3 Glut TH/HY Pax6 GABA 
+HY Tbx3 Glut Trp73 Glut 
+HY Tbx3 Glut MB En1 Hybrid 
+HY Tbx3 Glut TH Tfap2d Glut 
+HY Tbx3 Glut LSX/HY Otx2 Glut 
+HY Tbx3 Glut LSX/PAL/HY Bsx Glut 
+HY Tbx3 Glut HY/PAL Tbr1 Glut 
+HY Tbx3 Glut LSX/HY Otx2 GABA 
+HY Tbx3 Glut sAMY/PAL/HY Cngb3 Hybrid 
+HY Tbx3 Glut HY/TH Gnb3 GABA 
+HY Tbx3 Glut SCH GABA 
+HY Tbx3 GABA TH Otx2 GABA 
+HY Tbx3 GABA HY Tbx3 Glut 
+HY Tbx3 GABA VMH Tbx3 Glut 
+HY Tbx3 GABA HY Vgll2 Glut 
+HY Tbx3 GABA VMH Fezf1 Glut 
+HY Tbx3 GABA VMH Nr5a1 Glut 
+HY Tbx3 GABA VMH Nr5a1 Tbx3 Glut 
+HY Tbx3 GABA TH/HY Pax6 GABA 
+HY Tbx3 GABA Trp73 Glut 
+HY Tbx3 GABA MB En1 Hybrid 
+HY Tbx3 GABA TH Tfap2d Glut 
+HY Tbx3 GABA LSX/HY Otx2 Glut 
+HY Tbx3 GABA LSX/PAL/HY Bsx Glut 
+HY Tbx3 GABA HY/PAL Tbr1 Glut 
+HY Tbx3 GABA LSX/HY Otx2 GABA 
+HY Tbx3 GABA sAMY/PAL/HY Cngb3 Hybrid 
+HY Tbx3 GABA HY/TH Gnb3 GABA 
+HY Tbx3 GABA SCH GABA 
+HY Vgll2 Glut TH Otx2 GABA 
+HY Vgll2 Glut VMH Tbx3 Glut 
+HY Vgll2 Glut VMH Fezf1 Glut 
+HY Vgll2 Glut VMH Nr5a1 Glut 
+HY Vgll2 Glut VMH Nr5a1 Tbx3 Glut 
+HY Vgll2 Glut TH/HY Pax6 GABA 
+HY Vgll2 Glut Trp73 Glut 
+HY Vgll2 Glut MB En1 Hybrid 
+HY Vgll2 Glut TH Tfap2d Glut 
+HY Vgll2 Glut LSX/HY Otx2 Glut 
+HY Vgll2 Glut LSX/PAL/HY Bsx Glut 
+HY Vgll2 Glut HY/PAL Tbr1 Glut 
+HY Vgll2 Glut LSX/HY Otx2 GABA 
+HY Vgll2 Glut sAMY/PAL/HY Cngb3 Hybrid 
+HY Vgll2 Glut HY/TH Gnb3 GABA 
+HY Vgll2 Glut SCH GABA 
+HY Hmx2 Glut TH Otx2 GABA 
+HY Hmx2 Glut HY Otp GABA 
+HY Hmx2 Glut HY Tbx3 Glut 
+HY Hmx2 Glut VMH Tbx3 Glut 
+HY Hmx2 Glut HY Tbx3 GABA 
+HY Hmx2 Glut HY Vgll2 Glut 
+HY Hmx2 Glut HY Skor2 Glut 
+HY Hmx2 Glut VMH Fezf1 Glut 
+HY Hmx2 Glut VMH Nr5a1 Glut 
+HY Hmx2 Glut VMH Nr5a1 Tbx3 Glut 
+HY Hmx2 Glut HY Six6 GABA 
+HY Hmx2 Glut HY Otp Six6 GABA 
+HY Hmx2 Glut HY Six3 GABA 
+HY Hmx2 Glut HY Tac2 GABA 
+HY Hmx2 Glut HY Onecut3 GABA 
+HY Hmx2 Glut HY Lhx1 GABA 
+HY Hmx2 Glut HY Prdm12 GABA 
+HY Hmx2 Glut TH/HY Pax6 GABA 
+HY Hmx2 Glut Trp73 Glut 
+HY Hmx2 Glut HY Otp Glut 
+HY Hmx2 Glut HY Irx6 Glut 
+HY Hmx2 Glut HY Pitx2 Glut 
+HY Hmx2 Glut MB En1 Hybrid 
+HY Hmx2 Glut TH Tfap2d Glut 
+HY Hmx2 Glut HY Isl1 Glut 
+HY Hmx2 Glut LSX/HY Otx2 Glut 
+HY Hmx2 Glut LSX/PAL/HY Bsx Glut 
+HY Hmx2 Glut HY/PAL Tbr1 Glut 
+HY Hmx2 Glut LSX/HY Otx2 GABA 
+HY Hmx2 Glut HY Satb2 GABA 
+HY Hmx2 Glut HY Nkx2-4 GABA 
+HY Hmx2 Glut HY Nkx2-4 Glut 
+HY Hmx2 Glut HY Pmch Glut 
+HY Hmx2 Glut sAMY/PAL/HY Cngb3 Hybrid 
+HY Hmx2 Glut HY/TH Gnb3 GABA 
+HY Hmx2 Glut SCH GABA 
+HY Skor2 Glut TH Otx2 GABA 
+HY Skor2 Glut HY Tbx3 Glut 
+HY Skor2 Glut VMH Tbx3 Glut 
+HY Skor2 Glut HY Tbx3 GABA 
+HY Skor2 Glut HY Vgll2 Glut 
+HY Skor2 Glut VMH Fezf1 Glut 
+HY Skor2 Glut VMH Nr5a1 Glut 
+HY Skor2 Glut VMH Nr5a1 Tbx3 Glut 
+HY Skor2 Glut HY Tac2 GABA 
+HY Skor2 Glut TH/HY Pax6 GABA 
+HY Skor2 Glut Trp73 Glut 
+HY Skor2 Glut MB En1 Hybrid 
+HY Skor2 Glut TH Tfap2d Glut 
+HY Skor2 Glut LSX/HY Otx2 Glut 
+HY Skor2 Glut LSX/PAL/HY Bsx Glut 
+HY Skor2 Glut HY/PAL Tbr1 Glut 
+HY Skor2 Glut LSX/HY Otx2 GABA 
+HY Skor2 Glut sAMY/PAL/HY Cngb3 Hybrid 
+HY Skor2 Glut HY/TH Gnb3 GABA 
+HY Skor2 Glut SCH GABA 
+HY Eomes Glut TH Otx2 GABA 
+HY Eomes Glut HY Otp GABA 
+HY Eomes Glut HY Tbx3 Glut 
+HY Eomes Glut VMH Tbx3 Glut 
+HY Eomes Glut HY Tbx3 GABA 
+HY Eomes Glut HY Vgll2 Glut 
+HY Eomes Glut HY Hmx2 Glut 
+HY Eomes Glut HY Skor2 Glut 
+HY Eomes Glut VMH Fezf1 Glut 
+HY Eomes Glut VMH Nr5a1 Glut 
+HY Eomes Glut VMH Nr5a1 Tbx3 Glut 
+HY Eomes Glut HY Six6 GABA 
+HY Eomes Glut HY Gsx1 GABA 
+HY Eomes Glut HY Otp Six6 GABA 
+HY Eomes Glut HY Six3 GABA 
+HY Eomes Glut HY Hmx2 GABA 
+HY Eomes Glut HY Tac2 GABA 
+HY Eomes Glut HY Onecut3 GABA 
+HY Eomes Glut HY Lhx1 GABA 
+HY Eomes Glut HY Prdm12 GABA 
+HY Eomes Glut TH/HY Pax6 GABA 
+HY Eomes Glut HY Foxd2 GABA 
+HY Eomes Glut Trp73 Glut 
+HY Eomes Glut HY Otp Glut 
+HY Eomes Glut HY Irx6 Glut 
+HY Eomes Glut HY Foxa1 Glut 
+HY Eomes Glut HY Pitx2 Glut 
+HY Eomes Glut MB En1 Hybrid 
+HY Eomes Glut TH Tfap2d Glut 
+HY Eomes Glut HY Foxb1 Glut 
+HY Eomes Glut HY Isl1 Glut 
+HY Eomes Glut LSX/HY Otx2 Glut 
+HY Eomes Glut LSX/PAL/HY Bsx Glut 
+HY Eomes Glut HY/PAL Tbr1 Glut 
+HY Eomes Glut LSX/HY Otx2 GABA 
+HY Eomes Glut HY Satb2 GABA 
+HY Eomes Glut HY Nkx2-4 GABA 
+HY Eomes Glut HY Nkx2-4 Glut 
+HY Eomes Glut HY Pmch Glut 
+HY Eomes Glut sAMY/PAL/HY Cngb3 Hybrid 
+HY Eomes Glut HY/TH Gnb3 GABA 
+HY Eomes Glut SCH GABA 
+HY Eomes Glut HY Gnrh1 Glut 
+VMH Fezf1 Glut VMH Tbx3 Glut 
+VMH Fezf1 Glut VMH Nr5a1 Glut 
+VMH Fezf1 Glut VMH Nr5a1 Tbx3 Glut 
+VMH Nr5a1 Glut VMH Tbx3 Glut 
+VMH Nr5a1 Glut VMH Nr5a1 Tbx3 Glut 
+VMH Nr5a1 Tbx3 Glut VMH Tbx3 Glut 
+HY Six6 GABA TH Otx2 GABA 
+HY Six6 GABA HY Tbx3 Glut 
+HY Six6 GABA VMH Tbx3 Glut 
+HY Six6 GABA HY Tbx3 GABA 
+HY Six6 GABA HY Vgll2 Glut 
+HY Six6 GABA HY Skor2 Glut 
+HY Six6 GABA VMH Fezf1 Glut 
+HY Six6 GABA VMH Nr5a1 Glut 
+HY Six6 GABA VMH Nr5a1 Tbx3 Glut 
+HY Six6 GABA HY Tac2 GABA 
+HY Six6 GABA TH/HY Pax6 GABA 
+HY Six6 GABA Trp73 Glut 
+HY Six6 GABA MB En1 Hybrid 
+HY Six6 GABA TH Tfap2d Glut 
+HY Six6 GABA LSX/HY Otx2 Glut 
+HY Six6 GABA LSX/PAL/HY Bsx Glut 
+HY Six6 GABA HY/PAL Tbr1 Glut 
+HY Six6 GABA LSX/HY Otx2 GABA 
+HY Six6 GABA sAMY/PAL/HY Cngb3 Hybrid 
+HY Six6 GABA HY/TH Gnb3 GABA 
+HY Six6 GABA SCH GABA 
+HY Gsx1 GABA TH Otx2 GABA 
+HY Gsx1 GABA HY Otp GABA 
+HY Gsx1 GABA HY Tbx3 Glut 
+HY Gsx1 GABA VMH Tbx3 Glut 
+HY Gsx1 GABA HY Tbx3 GABA 
+HY Gsx1 GABA HY Vgll2 Glut 
+HY Gsx1 GABA HY Hmx2 Glut 
+HY Gsx1 GABA HY Skor2 Glut 
+HY Gsx1 GABA VMH Fezf1 Glut 
+HY Gsx1 GABA VMH Nr5a1 Glut 
+HY Gsx1 GABA VMH Nr5a1 Tbx3 Glut 
+HY Gsx1 GABA HY Six6 GABA 
+HY Gsx1 GABA HY Otp Six6 GABA 
+HY Gsx1 GABA HY Six3 GABA 
+HY Gsx1 GABA HY Hmx2 GABA 
+HY Gsx1 GABA HY Tac2 GABA 
+HY Gsx1 GABA HY Onecut3 GABA 
+HY Gsx1 GABA HY Lhx1 GABA 
+HY Gsx1 GABA HY Prdm12 GABA 
+HY Gsx1 GABA TH/HY Pax6 GABA 
+HY Gsx1 GABA Trp73 Glut 
+HY Gsx1 GABA HY Otp Glut 
+HY Gsx1 GABA HY Irx6 Glut 
+HY Gsx1 GABA HY Pitx2 Glut 
+HY Gsx1 GABA MB En1 Hybrid 
+HY Gsx1 GABA TH Tfap2d Glut 
+HY Gsx1 GABA HY Isl1 Glut 
+HY Gsx1 GABA LSX/HY Otx2 Glut 
+HY Gsx1 GABA LSX/PAL/HY Bsx Glut 
+HY Gsx1 GABA HY/PAL Tbr1 Glut 
+HY Gsx1 GABA LSX/HY Otx2 GABA 
+HY Gsx1 GABA HY Satb2 GABA 
+HY Gsx1 GABA HY Nkx2-4 GABA 
+HY Gsx1 GABA HY Nkx2-4 Glut 
+HY Gsx1 GABA HY Pmch Glut 
+HY Gsx1 GABA sAMY/PAL/HY Cngb3 Hybrid 
+HY Gsx1 GABA HY/TH Gnb3 GABA 
+HY Gsx1 GABA SCH GABA 
+HY Otp Six6 GABA TH Otx2 GABA 
+HY Otp Six6 GABA HY Tbx3 Glut 
+HY Otp Six6 GABA VMH Tbx3 Glut 
+HY Otp Six6 GABA HY Tbx3 GABA 
+HY Otp Six6 GABA HY Vgll2 Glut 
+HY Otp Six6 GABA HY Skor2 Glut 
+HY Otp Six6 GABA VMH Fezf1 Glut 
+HY Otp Six6 GABA VMH Nr5a1 Glut 
+HY Otp Six6 GABA VMH Nr5a1 Tbx3 Glut 
+HY Otp Six6 GABA HY Six6 GABA 
+HY Otp Six6 GABA HY Six3 GABA 
+HY Otp Six6 GABA HY Tac2 GABA 
+HY Otp Six6 GABA HY Prdm12 GABA 
+HY Otp Six6 GABA TH/HY Pax6 GABA 
+HY Otp Six6 GABA Trp73 Glut 
+HY Otp Six6 GABA HY Pitx2 Glut 
+HY Otp Six6 GABA MB En1 Hybrid 
+HY Otp Six6 GABA TH Tfap2d Glut 
+HY Otp Six6 GABA LSX/HY Otx2 Glut 
+HY Otp Six6 GABA LSX/PAL/HY Bsx Glut 
+HY Otp Six6 GABA HY/PAL Tbr1 Glut 
+HY Otp Six6 GABA LSX/HY Otx2 GABA 
+HY Otp Six6 GABA HY Satb2 GABA 
+HY Otp Six6 GABA HY Pmch Glut 
+HY Otp Six6 GABA sAMY/PAL/HY Cngb3 Hybrid 
+HY Otp Six6 GABA HY/TH Gnb3 GABA 
+HY Otp Six6 GABA SCH GABA 
+HY Six3 GABA TH Otx2 GABA 
+HY Six3 GABA HY Tbx3 Glut 
+HY Six3 GABA VMH Tbx3 Glut 
+HY Six3 GABA HY Tbx3 GABA 
+HY Six3 GABA HY Vgll2 Glut 
+HY Six3 GABA HY Skor2 Glut 
+HY Six3 GABA VMH Fezf1 Glut 
+HY Six3 GABA VMH Nr5a1 Glut 
+HY Six3 GABA VMH Nr5a1 Tbx3 Glut 
+HY Six3 GABA HY Six6 GABA 
+HY Six3 GABA HY Tac2 GABA 
+HY Six3 GABA TH/HY Pax6 GABA 
+HY Six3 GABA Trp73 Glut 
+HY Six3 GABA MB En1 Hybrid 
+HY Six3 GABA TH Tfap2d Glut 
+HY Six3 GABA LSX/HY Otx2 Glut 
+HY Six3 GABA LSX/PAL/HY Bsx Glut 
+HY Six3 GABA HY/PAL Tbr1 Glut 
+HY Six3 GABA LSX/HY Otx2 GABA 
+HY Six3 GABA sAMY/PAL/HY Cngb3 Hybrid 
+HY Six3 GABA HY/TH Gnb3 GABA 
+HY Six3 GABA SCH GABA 
+HY Hmx2 GABA TH Otx2 GABA 
+HY Hmx2 GABA HY Otp GABA 
+HY Hmx2 GABA HY Tbx3 Glut 
+HY Hmx2 GABA VMH Tbx3 Glut 
+HY Hmx2 GABA HY Tbx3 GABA 
+HY Hmx2 GABA HY Vgll2 Glut 
+HY Hmx2 GABA HY Hmx2 Glut 
+HY Hmx2 GABA HY Skor2 Glut 
+HY Hmx2 GABA VMH Fezf1 Glut 
+HY Hmx2 GABA VMH Nr5a1 Glut 
+HY Hmx2 GABA VMH Nr5a1 Tbx3 Glut 
+HY Hmx2 GABA HY Six6 GABA 
+HY Hmx2 GABA HY Otp Six6 GABA 
+HY Hmx2 GABA HY Six3 GABA 
+HY Hmx2 GABA HY Tac2 GABA 
+HY Hmx2 GABA HY Onecut3 GABA 
+HY Hmx2 GABA HY Lhx1 GABA 
+HY Hmx2 GABA HY Prdm12 GABA 
+HY Hmx2 GABA TH/HY Pax6 GABA 
+HY Hmx2 GABA Trp73 Glut 
+HY Hmx2 GABA HY Otp Glut 
+HY Hmx2 GABA HY Irx6 Glut 
+HY Hmx2 GABA HY Pitx2 Glut 
+HY Hmx2 GABA MB En1 Hybrid 
+HY Hmx2 GABA TH Tfap2d Glut 
+HY Hmx2 GABA HY Isl1 Glut 
+HY Hmx2 GABA LSX/HY Otx2 Glut 
+HY Hmx2 GABA LSX/PAL/HY Bsx Glut 
+HY Hmx2 GABA HY/PAL Tbr1 Glut 
+HY Hmx2 GABA LSX/HY Otx2 GABA 
+HY Hmx2 GABA HY Satb2 GABA 
+HY Hmx2 GABA HY Nkx2-4 GABA 
+HY Hmx2 GABA HY Nkx2-4 Glut 
+HY Hmx2 GABA HY Pmch Glut 
+HY Hmx2 GABA sAMY/PAL/HY Cngb3 Hybrid 
+HY Hmx2 GABA HY/TH Gnb3 GABA 
+HY Hmx2 GABA SCH GABA 
+HY Tac2 GABA TH Otx2 GABA 
+HY Tac2 GABA HY Tbx3 Glut 
+HY Tac2 GABA VMH Tbx3 Glut 
+HY Tac2 GABA HY Tbx3 GABA 
+HY Tac2 GABA HY Vgll2 Glut 
+HY Tac2 GABA VMH Fezf1 Glut 
+HY Tac2 GABA VMH Nr5a1 Glut 
+HY Tac2 GABA VMH Nr5a1 Tbx3 Glut 
+HY Tac2 GABA TH/HY Pax6 GABA 
+HY Tac2 GABA Trp73 Glut 
+HY Tac2 GABA MB En1 Hybrid 
+HY Tac2 GABA TH Tfap2d Glut 
+HY Tac2 GABA LSX/HY Otx2 Glut 
+HY Tac2 GABA LSX/PAL/HY Bsx Glut 
+HY Tac2 GABA HY/PAL Tbr1 Glut 
+HY Tac2 GABA LSX/HY Otx2 GABA 
+HY Tac2 GABA sAMY/PAL/HY Cngb3 Hybrid 
+HY Tac2 GABA HY/TH Gnb3 GABA 
+HY Tac2 GABA SCH GABA 
+HY Onecut3 GABA TH Otx2 GABA 
+HY Onecut3 GABA HY Otp GABA 
+HY Onecut3 GABA HY Tbx3 Glut 
+HY Onecut3 GABA VMH Tbx3 Glut 
+HY Onecut3 GABA HY Tbx3 GABA 
+HY Onecut3 GABA HY Vgll2 Glut 
+HY Onecut3 GABA HY Skor2 Glut 
+HY Onecut3 GABA VMH Fezf1 Glut 
+HY Onecut3 GABA VMH Nr5a1 Glut 
+HY Onecut3 GABA VMH Nr5a1 Tbx3 Glut 
+HY Onecut3 GABA HY Six6 GABA 
+HY Onecut3 GABA HY Otp Six6 GABA 
+HY Onecut3 GABA HY Six3 GABA 
+HY Onecut3 GABA HY Tac2 GABA 
+HY Onecut3 GABA HY Prdm12 GABA 
+HY Onecut3 GABA TH/HY Pax6 GABA 
+HY Onecut3 GABA Trp73 Glut 
+HY Onecut3 GABA HY Otp Glut 
+HY Onecut3 GABA HY Pitx2 Glut 
+HY Onecut3 GABA MB En1 Hybrid 
+HY Onecut3 GABA TH Tfap2d Glut 
+HY Onecut3 GABA LSX/HY Otx2 Glut 
+HY Onecut3 GABA LSX/PAL/HY Bsx Glut 
+HY Onecut3 GABA HY/PAL Tbr1 Glut 
+HY Onecut3 GABA LSX/HY Otx2 GABA 
+HY Onecut3 GABA HY Satb2 GABA 
+HY Onecut3 GABA HY Pmch Glut 
+HY Onecut3 GABA sAMY/PAL/HY Cngb3 Hybrid 
+HY Onecut3 GABA HY/TH Gnb3 GABA 
+HY Onecut3 GABA SCH GABA 
+HY Lhx1 GABA TH Otx2 GABA 
+HY Lhx1 GABA HY Otp GABA 
+HY Lhx1 GABA HY Tbx3 Glut 
+HY Lhx1 GABA VMH Tbx3 Glut 
+HY Lhx1 GABA HY Tbx3 GABA 
+HY Lhx1 GABA HY Vgll2 Glut 
+HY Lhx1 GABA HY Skor2 Glut 
+HY Lhx1 GABA VMH Fezf1 Glut 
+HY Lhx1 GABA VMH Nr5a1 Glut 
+HY Lhx1 GABA VMH Nr5a1 Tbx3 Glut 
+HY Lhx1 GABA HY Six6 GABA 
+HY Lhx1 GABA HY Otp Six6 GABA 
+HY Lhx1 GABA HY Six3 GABA 
+HY Lhx1 GABA HY Tac2 GABA 
+HY Lhx1 GABA HY Onecut3 GABA 
+HY Lhx1 GABA HY Prdm12 GABA 
+HY Lhx1 GABA TH/HY Pax6 GABA 
+HY Lhx1 GABA Trp73 Glut 
+HY Lhx1 GABA HY Otp Glut 
+HY Lhx1 GABA HY Pitx2 Glut 
+HY Lhx1 GABA MB En1 Hybrid 
+HY Lhx1 GABA TH Tfap2d Glut 
+HY Lhx1 GABA LSX/HY Otx2 Glut 
+HY Lhx1 GABA LSX/PAL/HY Bsx Glut 
+HY Lhx1 GABA HY/PAL Tbr1 Glut 
+HY Lhx1 GABA LSX/HY Otx2 GABA 
+HY Lhx1 GABA HY Satb2 GABA 
+HY Lhx1 GABA HY Nkx2-4 GABA 
+HY Lhx1 GABA HY Nkx2-4 Glut 
+HY Lhx1 GABA HY Pmch Glut 
+HY Lhx1 GABA sAMY/PAL/HY Cngb3 Hybrid 
+HY Lhx1 GABA HY/TH Gnb3 GABA 
+HY Lhx1 GABA SCH GABA 
+HY Prdm12 GABA TH Otx2 GABA 
+HY Prdm12 GABA HY Tbx3 Glut 
+HY Prdm12 GABA VMH Tbx3 Glut 
+HY Prdm12 GABA HY Tbx3 GABA 
+HY Prdm12 GABA HY Vgll2 Glut 
+HY Prdm12 GABA HY Skor2 Glut 
+HY Prdm12 GABA VMH Fezf1 Glut 
+HY Prdm12 GABA VMH Nr5a1 Glut 
+HY Prdm12 GABA VMH Nr5a1 Tbx3 Glut 
+HY Prdm12 GABA HY Six6 GABA 
+HY Prdm12 GABA HY Six3 GABA 
+HY Prdm12 GABA HY Tac2 GABA 
+HY Prdm12 GABA TH/HY Pax6 GABA 
+HY Prdm12 GABA Trp73 Glut 
+HY Prdm12 GABA MB En1 Hybrid 
+HY Prdm12 GABA TH Tfap2d Glut 
+HY Prdm12 GABA LSX/HY Otx2 Glut 
+HY Prdm12 GABA LSX/PAL/HY Bsx Glut 
+HY Prdm12 GABA HY/PAL Tbr1 Glut 
+HY Prdm12 GABA LSX/HY Otx2 GABA 
+HY Prdm12 GABA HY Satb2 GABA 
+HY Prdm12 GABA sAMY/PAL/HY Cngb3 Hybrid 
+HY Prdm12 GABA HY/TH Gnb3 GABA 
+HY Prdm12 GABA SCH GABA 
+TH/HY Pax6 GABA VMH Tbx3 Glut 
+TH/HY Pax6 GABA VMH Fezf1 Glut 
+TH/HY Pax6 GABA VMH Nr5a1 Glut 
+TH/HY Pax6 GABA VMH Nr5a1 Tbx3 Glut 
+TH/HY Pax6 GABA Trp73 Glut 
+HY Foxd2 GABA TH Otx2 GABA 
+HY Foxd2 GABA HY Otp GABA 
+HY Foxd2 GABA HY Tbx3 Glut 
+HY Foxd2 GABA VMH Tbx3 Glut 
+HY Foxd2 GABA HY Tbx3 GABA 
+HY Foxd2 GABA HY Vgll2 Glut 
+HY Foxd2 GABA HY Hmx2 Glut 
+HY Foxd2 GABA HY Skor2 Glut 
+HY Foxd2 GABA VMH Fezf1 Glut 
+HY Foxd2 GABA VMH Nr5a1 Glut 
+HY Foxd2 GABA VMH Nr5a1 Tbx3 Glut 
+HY Foxd2 GABA HY Six6 GABA 
+HY Foxd2 GABA HY Gsx1 GABA 
+HY Foxd2 GABA HY Otp Six6 GABA 
+HY Foxd2 GABA HY Six3 GABA 
+HY Foxd2 GABA HY Hmx2 GABA 
+HY Foxd2 GABA HY Tac2 GABA 
+HY Foxd2 GABA HY Onecut3 GABA 
+HY Foxd2 GABA HY Lhx1 GABA 
+HY Foxd2 GABA HY Prdm12 GABA 
+HY Foxd2 GABA TH/HY Pax6 GABA 
+HY Foxd2 GABA Trp73 Glut 
+HY Foxd2 GABA HY Otp Glut 
+HY Foxd2 GABA HY Irx6 Glut 
+HY Foxd2 GABA HY Pitx2 Glut 
+HY Foxd2 GABA MB En1 Hybrid 
+HY Foxd2 GABA TH Tfap2d Glut 
+HY Foxd2 GABA HY Isl1 Glut 
+HY Foxd2 GABA LSX/HY Otx2 Glut 
+HY Foxd2 GABA LSX/PAL/HY Bsx Glut 
+HY Foxd2 GABA HY/PAL Tbr1 Glut 
+HY Foxd2 GABA LSX/HY Otx2 GABA 
+HY Foxd2 GABA HY Satb2 GABA 
+HY Foxd2 GABA HY Nkx2-4 GABA 
+HY Foxd2 GABA HY Nkx2-4 Glut 
+HY Foxd2 GABA HY Pmch Glut 
+HY Foxd2 GABA sAMY/PAL/HY Cngb3 Hybrid 
+HY Foxd2 GABA HY/TH Gnb3 GABA 
+HY Foxd2 GABA SCH GABA 
+HY Foxd2 GABA HY Gnrh1 Glut 
+HY Bsx Lef1 GABA TH Otx2 GABA 
+HY Bsx Lef1 GABA HY Otp GABA 
+HY Bsx Lef1 GABA HY Tbx3 Glut 
+HY Bsx Lef1 GABA VMH Tbx3 Glut 
+HY Bsx Lef1 GABA HY Tbx3 GABA 
+HY Bsx Lef1 GABA HY Vgll2 Glut 
+HY Bsx Lef1 GABA HY Hmx2 Glut 
+HY Bsx Lef1 GABA HY Skor2 Glut 
+HY Bsx Lef1 GABA HY Eomes Glut 
+HY Bsx Lef1 GABA VMH Fezf1 Glut 
+HY Bsx Lef1 GABA VMH Nr5a1 Glut 
+HY Bsx Lef1 GABA VMH Nr5a1 Tbx3 Glut 
+HY Bsx Lef1 GABA HY Six6 GABA 
+HY Bsx Lef1 GABA HY Gsx1 GABA 
+HY Bsx Lef1 GABA HY Otp Six6 GABA 
+HY Bsx Lef1 GABA HY Six3 GABA 
+HY Bsx Lef1 GABA HY Hmx2 GABA 
+HY Bsx Lef1 GABA HY Tac2 GABA 
+HY Bsx Lef1 GABA HY Onecut3 GABA 
+HY Bsx Lef1 GABA HY Lhx1 GABA 
+HY Bsx Lef1 GABA HY Prdm12 GABA 
+HY Bsx Lef1 GABA TH/HY Pax6 GABA 
+HY Bsx Lef1 GABA HY Foxd2 GABA 
+HY Bsx Lef1 GABA Trp73 Glut 
+HY Bsx Lef1 GABA HY Otp Glut 
+HY Bsx Lef1 GABA HY Irx6 Glut 
+HY Bsx Lef1 GABA HY Foxa1 Glut 
+HY Bsx Lef1 GABA HY Pitx2 Glut 
+HY Bsx Lef1 GABA MB En1 Hybrid 
+HY Bsx Lef1 GABA TH Tfap2d Glut 
+HY Bsx Lef1 GABA HY Foxb1 Glut 
+HY Bsx Lef1 GABA HY Isl1 Glut 
+HY Bsx Lef1 GABA LSX/HY Otx2 Glut 
+HY Bsx Lef1 GABA LSX/PAL/HY Bsx Glut 
+HY Bsx Lef1 GABA HY/PAL Tbr1 Glut 
+HY Bsx Lef1 GABA LSX/HY Otx2 GABA 
+HY Bsx Lef1 GABA HY Satb2 GABA 
+HY Bsx Lef1 GABA HY Nkx2-4 GABA 
+HY Bsx Lef1 GABA HY Nkx2-4 Glut 
+HY Bsx Lef1 GABA HY Pmch Glut 
+HY Bsx Lef1 GABA sAMY/PAL/HY Cngb3 Hybrid 
+HY Bsx Lef1 GABA HY/TH Gnb3 GABA 
+HY Bsx Lef1 GABA SCH GABA 
+HY Bsx Lef1 GABA HY Gnrh1 Glut 
+HY Barhl2 Glut TH Otx2 GABA 
+HY Barhl2 Glut HY Otp GABA 
+HY Barhl2 Glut HY Tbx3 Glut 
+HY Barhl2 Glut VMH Tbx3 Glut 
+HY Barhl2 Glut HY Tbx3 GABA 
+HY Barhl2 Glut HY Vgll2 Glut 
+HY Barhl2 Glut HY Hmx2 Glut 
+HY Barhl2 Glut HY Skor2 Glut 
+HY Barhl2 Glut HY Eomes Glut 
+HY Barhl2 Glut VMH Fezf1 Glut 
+HY Barhl2 Glut VMH Nr5a1 Glut 
+HY Barhl2 Glut VMH Nr5a1 Tbx3 Glut 
+HY Barhl2 Glut HY Six6 GABA 
+HY Barhl2 Glut HY Gsx1 GABA 
+HY Barhl2 Glut HY Otp Six6 GABA 
+HY Barhl2 Glut HY Six3 GABA 
+HY Barhl2 Glut HY Hmx2 GABA 
+HY Barhl2 Glut HY Tac2 GABA 
+HY Barhl2 Glut HY Onecut3 GABA 
+HY Barhl2 Glut HY Lhx1 GABA 
+HY Barhl2 Glut HY Prdm12 GABA 
+HY Barhl2 Glut TH/HY Pax6 GABA 
+HY Barhl2 Glut HY Foxd2 GABA 
+HY Barhl2 Glut HY Bsx Lef1 GABA 
+HY Barhl2 Glut Trp73 Glut 
+HY Barhl2 Glut HY Otp Glut 
+HY Barhl2 Glut HY Irx6 Glut 
+HY Barhl2 Glut HY Foxa1 Glut 
+HY Barhl2 Glut HY Pitx2 Glut 
+HY Barhl2 Glut MB En1 Hybrid 
+HY Barhl2 Glut TH Tfap2d Glut 
+HY Barhl2 Glut HY Foxb1 Glut 
+HY Barhl2 Glut HY Isl1 Glut 
+HY Barhl2 Glut LSX/HY Otx2 Glut 
+HY Barhl2 Glut LSX/PAL/HY Bsx Glut 
+HY Barhl2 Glut HY/PAL Tbr1 Glut 
+HY Barhl2 Glut LSX/HY Otx2 GABA 
+HY Barhl2 Glut HY Satb2 GABA 
+HY Barhl2 Glut HY Nkx2-4 GABA 
+HY Barhl2 Glut HY Nkx2-4 Glut 
+HY Barhl2 Glut HY Pmch Glut 
+HY Barhl2 Glut sAMY/PAL/HY Cngb3 Hybrid 
+HY Barhl2 Glut HY/TH Gnb3 GABA 
+HY Barhl2 Glut SCH GABA 
+HY Barhl2 Glut HY Gnrh1 Glut 
+Trp73 Glut VMH Tbx3 Glut 
+Trp73 Glut VMH Fezf1 Glut 
+Trp73 Glut VMH Nr5a1 Glut 
+Trp73 Glut VMH Nr5a1 Tbx3 Glut 
+HY Otp Glut TH Otx2 GABA 
+HY Otp Glut HY Tbx3 Glut 
+HY Otp Glut VMH Tbx3 Glut 
+HY Otp Glut HY Tbx3 GABA 
+HY Otp Glut HY Vgll2 Glut 
+HY Otp Glut HY Skor2 Glut 
+HY Otp Glut VMH Fezf1 Glut 
+HY Otp Glut VMH Nr5a1 Glut 
+HY Otp Glut VMH Nr5a1 Tbx3 Glut 
+HY Otp Glut HY Six6 GABA 
+HY Otp Glut HY Otp Six6 GABA 
+HY Otp Glut HY Six3 GABA 
+HY Otp Glut HY Tac2 GABA 
+HY Otp Glut HY Prdm12 GABA 
+HY Otp Glut TH/HY Pax6 GABA 
+HY Otp Glut Trp73 Glut 
+HY Otp Glut HY Pitx2 Glut 
+HY Otp Glut MB En1 Hybrid 
+HY Otp Glut TH Tfap2d Glut 
+HY Otp Glut LSX/HY Otx2 Glut 
+HY Otp Glut LSX/PAL/HY Bsx Glut 
+HY Otp Glut HY/PAL Tbr1 Glut 
+HY Otp Glut LSX/HY Otx2 GABA 
+HY Otp Glut HY Satb2 GABA 
+HY Otp Glut HY Pmch Glut 
+HY Otp Glut sAMY/PAL/HY Cngb3 Hybrid 
+HY Otp Glut HY/TH Gnb3 GABA 
+HY Otp Glut SCH GABA 
+HY Irx6 Glut TH Otx2 GABA 
+HY Irx6 Glut HY Otp GABA 
+HY Irx6 Glut HY Tbx3 Glut 
+HY Irx6 Glut VMH Tbx3 Glut 
+HY Irx6 Glut HY Tbx3 GABA 
+HY Irx6 Glut HY Vgll2 Glut 
+HY Irx6 Glut HY Skor2 Glut 
+HY Irx6 Glut VMH Fezf1 Glut 
+HY Irx6 Glut VMH Nr5a1 Glut 
+HY Irx6 Glut VMH Nr5a1 Tbx3 Glut 
+HY Irx6 Glut HY Six6 GABA 
+HY Irx6 Glut HY Otp Six6 GABA 
+HY Irx6 Glut HY Six3 GABA 
+HY Irx6 Glut HY Tac2 GABA 
+HY Irx6 Glut HY Onecut3 GABA 
+HY Irx6 Glut HY Lhx1 GABA 
+HY Irx6 Glut HY Prdm12 GABA 
+HY Irx6 Glut TH/HY Pax6 GABA 
+HY Irx6 Glut Trp73 Glut 
+HY Irx6 Glut HY Otp Glut 
+HY Irx6 Glut HY Pitx2 Glut 
+HY Irx6 Glut MB En1 Hybrid 
+HY Irx6 Glut TH Tfap2d Glut 
+HY Irx6 Glut HY Isl1 Glut 
+HY Irx6 Glut LSX/HY Otx2 Glut 
+HY Irx6 Glut LSX/PAL/HY Bsx Glut 
+HY Irx6 Glut HY/PAL Tbr1 Glut 
+HY Irx6 Glut LSX/HY Otx2 GABA 
+HY Irx6 Glut HY Satb2 GABA 
+HY Irx6 Glut HY Nkx2-4 GABA 
+HY Irx6 Glut HY Nkx2-4 Glut 
+HY Irx6 Glut HY Pmch Glut 
+HY Irx6 Glut sAMY/PAL/HY Cngb3 Hybrid 
+HY Irx6 Glut HY/TH Gnb3 GABA 
+HY Irx6 Glut SCH GABA 
+HY Foxa1 Glut TH Otx2 GABA 
+HY Foxa1 Glut HY Otp GABA 
+HY Foxa1 Glut HY Tbx3 Glut 
+HY Foxa1 Glut VMH Tbx3 Glut 
+HY Foxa1 Glut HY Tbx3 GABA 
+HY Foxa1 Glut HY Vgll2 Glut 
+HY Foxa1 Glut HY Hmx2 Glut 
+HY Foxa1 Glut HY Skor2 Glut 
+HY Foxa1 Glut VMH Fezf1 Glut 
+HY Foxa1 Glut VMH Nr5a1 Glut 
+HY Foxa1 Glut VMH Nr5a1 Tbx3 Glut 
+HY Foxa1 Glut HY Six6 GABA 
+HY Foxa1 Glut HY Gsx1 GABA 
+HY Foxa1 Glut HY Otp Six6 GABA 
+HY Foxa1 Glut HY Six3 GABA 
+HY Foxa1 Glut HY Hmx2 GABA 
+HY Foxa1 Glut HY Tac2 GABA 
+HY Foxa1 Glut HY Onecut3 GABA 
+HY Foxa1 Glut HY Lhx1 GABA 
+HY Foxa1 Glut HY Prdm12 GABA 
+HY Foxa1 Glut TH/HY Pax6 GABA 
+HY Foxa1 Glut HY Foxd2 GABA 
+HY Foxa1 Glut Trp73 Glut 
+HY Foxa1 Glut HY Otp Glut 
+HY Foxa1 Glut HY Irx6 Glut 
+HY Foxa1 Glut HY Pitx2 Glut 
+HY Foxa1 Glut MB En1 Hybrid 
+HY Foxa1 Glut TH Tfap2d Glut 
+HY Foxa1 Glut HY Foxb1 Glut 
+HY Foxa1 Glut HY Isl1 Glut 
+HY Foxa1 Glut LSX/HY Otx2 Glut 
+HY Foxa1 Glut LSX/PAL/HY Bsx Glut 
+HY Foxa1 Glut HY/PAL Tbr1 Glut 
+HY Foxa1 Glut LSX/HY Otx2 GABA 
+HY Foxa1 Glut HY Satb2 GABA 
+HY Foxa1 Glut HY Nkx2-4 GABA 
+HY Foxa1 Glut HY Nkx2-4 Glut 
+HY Foxa1 Glut HY Pmch Glut 
+HY Foxa1 Glut sAMY/PAL/HY Cngb3 Hybrid 
+HY Foxa1 Glut HY/TH Gnb3 GABA 
+HY Foxa1 Glut SCH GABA 
+HY Foxa1 Glut HY Gnrh1 Glut 
+HY Pitx2 Glut TH Otx2 GABA 
+HY Pitx2 Glut HY Tbx3 Glut 
+HY Pitx2 Glut VMH Tbx3 Glut 
+HY Pitx2 Glut HY Tbx3 GABA 
+HY Pitx2 Glut HY Vgll2 Glut 
+HY Pitx2 Glut HY Skor2 Glut 
+HY Pitx2 Glut VMH Fezf1 Glut 
+HY Pitx2 Glut VMH Nr5a1 Glut 
+HY Pitx2 Glut VMH Nr5a1 Tbx3 Glut 
+HY Pitx2 Glut HY Six6 GABA 
+HY Pitx2 Glut HY Six3 GABA 
+HY Pitx2 Glut HY Tac2 GABA 
+HY Pitx2 Glut HY Prdm12 GABA 
+HY Pitx2 Glut TH/HY Pax6 GABA 
+HY Pitx2 Glut Trp73 Glut 
+HY Pitx2 Glut MB En1 Hybrid 
+HY Pitx2 Glut TH Tfap2d Glut 
+HY Pitx2 Glut LSX/HY Otx2 Glut 
+HY Pitx2 Glut LSX/PAL/HY Bsx Glut 
+HY Pitx2 Glut HY/PAL Tbr1 Glut 
+HY Pitx2 Glut LSX/HY Otx2 GABA 
+HY Pitx2 Glut HY Satb2 GABA 
+HY Pitx2 Glut HY Pmch Glut 
+HY Pitx2 Glut sAMY/PAL/HY Cngb3 Hybrid 
+HY Pitx2 Glut HY/TH Gnb3 GABA 
+HY Pitx2 Glut SCH GABA 
+MB En1 Hybrid TH Otx2 GABA 
+MB En1 Hybrid VMH Tbx3 Glut 
+MB En1 Hybrid VMH Fezf1 Glut 
+MB En1 Hybrid VMH Nr5a1 Glut 
+MB En1 Hybrid VMH Nr5a1 Tbx3 Glut 
+MB En1 Hybrid TH/HY Pax6 GABA 
+MB En1 Hybrid Trp73 Glut 
+MB En1 Hybrid TH Tfap2d Glut 
+MB En1 Hybrid sAMY/PAL/HY Cngb3 Hybrid 
+MB En1 Hybrid SCH GABA 
+TH Tfap2d Glut VMH Tbx3 Glut 
+TH Tfap2d Glut VMH Fezf1 Glut 
+TH Tfap2d Glut VMH Nr5a1 Glut 
+TH Tfap2d Glut VMH Nr5a1 Tbx3 Glut 
+TH Tfap2d Glut TH/HY Pax6 GABA 
+TH Tfap2d Glut Trp73 Glut 
+HY Foxb1 Glut TH Otx2 GABA 
+HY Foxb1 Glut HY Otp GABA 
+HY Foxb1 Glut HY Tbx3 Glut 
+HY Foxb1 Glut VMH Tbx3 Glut 
+HY Foxb1 Glut HY Tbx3 GABA 
+HY Foxb1 Glut HY Vgll2 Glut 
+HY Foxb1 Glut HY Hmx2 Glut 
+HY Foxb1 Glut HY Skor2 Glut 
+HY Foxb1 Glut VMH Fezf1 Glut 
+HY Foxb1 Glut VMH Nr5a1 Glut 
+HY Foxb1 Glut VMH Nr5a1 Tbx3 Glut 
+HY Foxb1 Glut HY Six6 GABA 
+HY Foxb1 Glut HY Gsx1 GABA 
+HY Foxb1 Glut HY Otp Six6 GABA 
+HY Foxb1 Glut HY Six3 GABA 
+HY Foxb1 Glut HY Hmx2 GABA 
+HY Foxb1 Glut HY Tac2 GABA 
+HY Foxb1 Glut HY Onecut3 GABA 
+HY Foxb1 Glut HY Lhx1 GABA 
+HY Foxb1 Glut HY Prdm12 GABA 
+HY Foxb1 Glut TH/HY Pax6 GABA 
+HY Foxb1 Glut HY Foxd2 GABA 
+HY Foxb1 Glut Trp73 Glut 
+HY Foxb1 Glut HY Otp Glut 
+HY Foxb1 Glut HY Irx6 Glut 
+HY Foxb1 Glut HY Pitx2 Glut 
+HY Foxb1 Glut MB En1 Hybrid 
+HY Foxb1 Glut TH Tfap2d Glut 
+HY Foxb1 Glut HY Isl1 Glut 
+HY Foxb1 Glut LSX/HY Otx2 Glut 
+HY Foxb1 Glut LSX/PAL/HY Bsx Glut 
+HY Foxb1 Glut HY/PAL Tbr1 Glut 
+HY Foxb1 Glut LSX/HY Otx2 GABA 
+HY Foxb1 Glut HY Satb2 GABA 
+HY Foxb1 Glut HY Nkx2-4 GABA 
+HY Foxb1 Glut HY Nkx2-4 Glut 
+HY Foxb1 Glut HY Pmch Glut 
+HY Foxb1 Glut sAMY/PAL/HY Cngb3 Hybrid 
+HY Foxb1 Glut HY/TH Gnb3 GABA 
+HY Foxb1 Glut SCH GABA 
+HY Foxb1 Glut HY Gnrh1 Glut 
+HY Isl1 Glut TH Otx2 GABA 
+HY Isl1 Glut HY Otp GABA 
+HY Isl1 Glut HY Tbx3 Glut 
+HY Isl1 Glut VMH Tbx3 Glut 
+HY Isl1 Glut HY Tbx3 GABA 
+HY Isl1 Glut HY Vgll2 Glut 
+HY Isl1 Glut HY Skor2 Glut 
+HY Isl1 Glut VMH Fezf1 Glut 
+HY Isl1 Glut VMH Nr5a1 Glut 
+HY Isl1 Glut VMH Nr5a1 Tbx3 Glut 
+HY Isl1 Glut HY Six6 GABA 
+HY Isl1 Glut HY Otp Six6 GABA 
+HY Isl1 Glut HY Six3 GABA 
+HY Isl1 Glut HY Tac2 GABA 
+HY Isl1 Glut HY Onecut3 GABA 
+HY Isl1 Glut HY Lhx1 GABA 
+HY Isl1 Glut HY Prdm12 GABA 
+HY Isl1 Glut TH/HY Pax6 GABA 
+HY Isl1 Glut Trp73 Glut 
+HY Isl1 Glut HY Otp Glut 
+HY Isl1 Glut HY Pitx2 Glut 
+HY Isl1 Glut MB En1 Hybrid 
+HY Isl1 Glut TH Tfap2d Glut 
+HY Isl1 Glut LSX/HY Otx2 Glut 
+HY Isl1 Glut LSX/PAL/HY Bsx Glut 
+HY Isl1 Glut HY/PAL Tbr1 Glut 
+HY Isl1 Glut LSX/HY Otx2 GABA 
+HY Isl1 Glut HY Satb2 GABA 
+HY Isl1 Glut HY Nkx2-4 GABA 
+HY Isl1 Glut HY Nkx2-4 Glut 
+HY Isl1 Glut HY Pmch Glut 
+HY Isl1 Glut sAMY/PAL/HY Cngb3 Hybrid 
+HY Isl1 Glut HY/TH Gnb3 GABA 
+HY Isl1 Glut SCH GABA 
+LSX/HY Otx2 Glut TH Otx2 GABA 
+LSX/HY Otx2 Glut VMH Tbx3 Glut 
+LSX/HY Otx2 Glut VMH Fezf1 Glut 
+LSX/HY Otx2 Glut VMH Nr5a1 Glut 
+LSX/HY Otx2 Glut VMH Nr5a1 Tbx3 Glut 
+LSX/HY Otx2 Glut TH/HY Pax6 GABA 
+LSX/HY Otx2 Glut Trp73 Glut 
+LSX/HY Otx2 Glut MB En1 Hybrid 
+LSX/HY Otx2 Glut TH Tfap2d Glut 
+LSX/HY Otx2 Glut LSX/PAL/HY Bsx Glut 
+LSX/HY Otx2 Glut sAMY/PAL/HY Cngb3 Hybrid 
+LSX/HY Otx2 Glut SCH GABA 
+LSX/PAL/HY Bsx Glut TH Otx2 GABA 
+LSX/PAL/HY Bsx Glut VMH Tbx3 Glut 
+LSX/PAL/HY Bsx Glut VMH Fezf1 Glut 
+LSX/PAL/HY Bsx Glut VMH Nr5a1 Glut 
+LSX/PAL/HY Bsx Glut VMH Nr5a1 Tbx3 Glut 
+LSX/PAL/HY Bsx Glut TH/HY Pax6 GABA 
+LSX/PAL/HY Bsx Glut Trp73 Glut 
+LSX/PAL/HY Bsx Glut MB En1 Hybrid 
+LSX/PAL/HY Bsx Glut TH Tfap2d Glut 
+LSX/PAL/HY Bsx Glut sAMY/PAL/HY Cngb3 Hybrid 
+LSX/PAL/HY Bsx Glut SCH GABA 
+HY/PAL Tbr1 Glut TH Otx2 GABA 
+HY/PAL Tbr1 Glut VMH Tbx3 Glut 
+HY/PAL Tbr1 Glut VMH Fezf1 Glut 
+HY/PAL Tbr1 Glut VMH Nr5a1 Glut 
+HY/PAL Tbr1 Glut VMH Nr5a1 Tbx3 Glut 
+HY/PAL Tbr1 Glut TH/HY Pax6 GABA 
+HY/PAL Tbr1 Glut Trp73 Glut 
+HY/PAL Tbr1 Glut MB En1 Hybrid 
+HY/PAL Tbr1 Glut TH Tfap2d Glut 
+HY/PAL Tbr1 Glut LSX/HY Otx2 Glut 
+HY/PAL Tbr1 Glut LSX/PAL/HY Bsx Glut 
+HY/PAL Tbr1 Glut LSX/HY Otx2 GABA 
+HY/PAL Tbr1 Glut sAMY/PAL/HY Cngb3 Hybrid 
+HY/PAL Tbr1 Glut HY/TH Gnb3 GABA 
+HY/PAL Tbr1 Glut SCH GABA 
+LSX/HY Otx2 GABA TH Otx2 GABA 
+LSX/HY Otx2 GABA VMH Tbx3 Glut 
+LSX/HY Otx2 GABA VMH Fezf1 Glut 
+LSX/HY Otx2 GABA VMH Nr5a1 Glut 
+LSX/HY Otx2 GABA VMH Nr5a1 Tbx3 Glut 
+LSX/HY Otx2 GABA TH/HY Pax6 GABA 
+LSX/HY Otx2 GABA Trp73 Glut 
+LSX/HY Otx2 GABA MB En1 Hybrid 
+LSX/HY Otx2 GABA TH Tfap2d Glut 
+LSX/HY Otx2 GABA LSX/HY Otx2 Glut 
+LSX/HY Otx2 GABA LSX/PAL/HY Bsx Glut 
+LSX/HY Otx2 GABA sAMY/PAL/HY Cngb3 Hybrid 
+LSX/HY Otx2 GABA SCH GABA 
+HY Satb2 GABA TH Otx2 GABA 
+HY Satb2 GABA HY Tbx3 Glut 
+HY Satb2 GABA VMH Tbx3 Glut 
+HY Satb2 GABA HY Tbx3 GABA 
+HY Satb2 GABA HY Vgll2 Glut 
+HY Satb2 GABA HY Skor2 Glut 
+HY Satb2 GABA VMH Fezf1 Glut 
+HY Satb2 GABA VMH Nr5a1 Glut 
+HY Satb2 GABA VMH Nr5a1 Tbx3 Glut 
+HY Satb2 GABA HY Six6 GABA 
+HY Satb2 GABA HY Six3 GABA 
+HY Satb2 GABA HY Tac2 GABA 
+HY Satb2 GABA TH/HY Pax6 GABA 
+HY Satb2 GABA Trp73 Glut 
+HY Satb2 GABA MB En1 Hybrid 
+HY Satb2 GABA TH Tfap2d Glut 
+HY Satb2 GABA LSX/HY Otx2 Glut 
+HY Satb2 GABA LSX/PAL/HY Bsx Glut 
+HY Satb2 GABA HY/PAL Tbr1 Glut 
+HY Satb2 GABA LSX/HY Otx2 GABA 
+HY Satb2 GABA sAMY/PAL/HY Cngb3 Hybrid 
+HY Satb2 GABA HY/TH Gnb3 GABA 
+HY Satb2 GABA SCH GABA 
+HY Nkx2-4 GABA TH Otx2 GABA 
+HY Nkx2-4 GABA HY Otp GABA 
+HY Nkx2-4 GABA HY Tbx3 Glut 
+HY Nkx2-4 GABA VMH Tbx3 Glut 
+HY Nkx2-4 GABA HY Tbx3 GABA 
+HY Nkx2-4 GABA HY Vgll2 Glut 
+HY Nkx2-4 GABA HY Skor2 Glut 
+HY Nkx2-4 GABA VMH Fezf1 Glut 
+HY Nkx2-4 GABA VMH Nr5a1 Glut 
+HY Nkx2-4 GABA VMH Nr5a1 Tbx3 Glut 
+HY Nkx2-4 GABA HY Six6 GABA 
+HY Nkx2-4 GABA HY Otp Six6 GABA 
+HY Nkx2-4 GABA HY Six3 GABA 
+HY Nkx2-4 GABA HY Tac2 GABA 
+HY Nkx2-4 GABA HY Onecut3 GABA 
+HY Nkx2-4 GABA HY Prdm12 GABA 
+HY Nkx2-4 GABA TH/HY Pax6 GABA 
+HY Nkx2-4 GABA Trp73 Glut 
+HY Nkx2-4 GABA HY Otp Glut 
+HY Nkx2-4 GABA HY Pitx2 Glut 
+HY Nkx2-4 GABA MB En1 Hybrid 
+HY Nkx2-4 GABA TH Tfap2d Glut 
+HY Nkx2-4 GABA LSX/HY Otx2 Glut 
+HY Nkx2-4 GABA LSX/PAL/HY Bsx Glut 
+HY Nkx2-4 GABA HY/PAL Tbr1 Glut 
+HY Nkx2-4 GABA LSX/HY Otx2 GABA 
+HY Nkx2-4 GABA HY Satb2 GABA 
+HY Nkx2-4 GABA HY Nkx2-4 Glut 
+HY Nkx2-4 GABA HY Pmch Glut 
+HY Nkx2-4 GABA sAMY/PAL/HY Cngb3 Hybrid 
+HY Nkx2-4 GABA HY/TH Gnb3 GABA 
+HY Nkx2-4 GABA SCH GABA 
+HY Nkx2-4 Glut TH Otx2 GABA 
+HY Nkx2-4 Glut HY Otp GABA 
+HY Nkx2-4 Glut HY Tbx3 Glut 
+HY Nkx2-4 Glut VMH Tbx3 Glut 
+HY Nkx2-4 Glut HY Tbx3 GABA 
+HY Nkx2-4 Glut HY Vgll2 Glut 
+HY Nkx2-4 Glut HY Skor2 Glut 
+HY Nkx2-4 Glut VMH Fezf1 Glut 
+HY Nkx2-4 Glut VMH Nr5a1 Glut 
+HY Nkx2-4 Glut VMH Nr5a1 Tbx3 Glut 
+HY Nkx2-4 Glut HY Six6 GABA 
+HY Nkx2-4 Glut HY Otp Six6 GABA 
+HY Nkx2-4 Glut HY Six3 GABA 
+HY Nkx2-4 Glut HY Tac2 GABA 
+HY Nkx2-4 Glut HY Onecut3 GABA 
+HY Nkx2-4 Glut HY Prdm12 GABA 
+HY Nkx2-4 Glut TH/HY Pax6 GABA 
+HY Nkx2-4 Glut Trp73 Glut 
+HY Nkx2-4 Glut HY Otp Glut 
+HY Nkx2-4 Glut HY Pitx2 Glut 
+HY Nkx2-4 Glut MB En1 Hybrid 
+HY Nkx2-4 Glut TH Tfap2d Glut 
+HY Nkx2-4 Glut LSX/HY Otx2 Glut 
+HY Nkx2-4 Glut LSX/PAL/HY Bsx Glut 
+HY Nkx2-4 Glut HY/PAL Tbr1 Glut 
+HY Nkx2-4 Glut LSX/HY Otx2 GABA 
+HY Nkx2-4 Glut HY Satb2 GABA 
+HY Nkx2-4 Glut HY Pmch Glut 
+HY Nkx2-4 Glut sAMY/PAL/HY Cngb3 Hybrid 
+HY Nkx2-4 Glut HY/TH Gnb3 GABA 
+HY Nkx2-4 Glut SCH GABA 
+HY Pmch Glut TH Otx2 GABA 
+HY Pmch Glut HY Tbx3 Glut 
+HY Pmch Glut VMH Tbx3 Glut 
+HY Pmch Glut HY Tbx3 GABA 
+HY Pmch Glut HY Vgll2 Glut 
+HY Pmch Glut HY Skor2 Glut 
+HY Pmch Glut VMH Fezf1 Glut 
+HY Pmch Glut VMH Nr5a1 Glut 
+HY Pmch Glut VMH Nr5a1 Tbx3 Glut 
+HY Pmch Glut HY Six6 GABA 
+HY Pmch Glut HY Six3 GABA 
+HY Pmch Glut HY Tac2 GABA 
+HY Pmch Glut HY Prdm12 GABA 
+HY Pmch Glut TH/HY Pax6 GABA 
+HY Pmch Glut Trp73 Glut 
+HY Pmch Glut MB En1 Hybrid 
+HY Pmch Glut TH Tfap2d Glut 
+HY Pmch Glut LSX/HY Otx2 Glut 
+HY Pmch Glut LSX/PAL/HY Bsx Glut 
+HY Pmch Glut HY/PAL Tbr1 Glut 
+HY Pmch Glut LSX/HY Otx2 GABA 
+HY Pmch Glut HY Satb2 GABA 
+HY Pmch Glut sAMY/PAL/HY Cngb3 Hybrid 
+HY Pmch Glut HY/TH Gnb3 GABA 
+HY Pmch Glut SCH GABA 
+sAMY/PAL/HY Cngb3 Hybrid TH Otx2 GABA 
+sAMY/PAL/HY Cngb3 Hybrid VMH Tbx3 Glut 
+sAMY/PAL/HY Cngb3 Hybrid VMH Fezf1 Glut 
+sAMY/PAL/HY Cngb3 Hybrid VMH Nr5a1 Glut 
+sAMY/PAL/HY Cngb3 Hybrid VMH Nr5a1 Tbx3 Glut 
+sAMY/PAL/HY Cngb3 Hybrid TH/HY Pax6 GABA 
+sAMY/PAL/HY Cngb3 Hybrid Trp73 Glut 
+sAMY/PAL/HY Cngb3 Hybrid TH Tfap2d Glut 
+sAMY/PAL/HY Cngb3 Hybrid SCH GABA 
+HY/TH Gnb3 GABA TH Otx2 GABA 
+HY/TH Gnb3 GABA VMH Tbx3 Glut 
+HY/TH Gnb3 GABA VMH Fezf1 Glut 
+HY/TH Gnb3 GABA VMH Nr5a1 Glut 
+HY/TH Gnb3 GABA VMH Nr5a1 Tbx3 Glut 
+HY/TH Gnb3 GABA TH/HY Pax6 GABA 
+HY/TH Gnb3 GABA Trp73 Glut 
+HY/TH Gnb3 GABA MB En1 Hybrid 
+HY/TH Gnb3 GABA TH Tfap2d Glut 
+HY/TH Gnb3 GABA LSX/HY Otx2 Glut 
+HY/TH Gnb3 GABA LSX/PAL/HY Bsx Glut 
+HY/TH Gnb3 GABA LSX/HY Otx2 GABA 
+HY/TH Gnb3 GABA sAMY/PAL/HY Cngb3 Hybrid 
+HY/TH Gnb3 GABA SCH GABA 
+SCH GABA TH Otx2 GABA 
+SCH GABA VMH Tbx3 Glut 
+SCH GABA VMH Fezf1 Glut 
+SCH GABA VMH Nr5a1 Glut 
+SCH GABA VMH Nr5a1 Tbx3 Glut 
+SCH GABA TH/HY Pax6 GABA 
+SCH GABA Trp73 Glut 
+SCH GABA TH Tfap2d Glut 
+HY Gnrh1 Glut TH Otx2 GABA 
+HY Gnrh1 Glut HY Otp GABA 
+HY Gnrh1 Glut HY Tbx3 Glut 
+HY Gnrh1 Glut VMH Tbx3 Glut 
+HY Gnrh1 Glut HY Tbx3 GABA 
+HY Gnrh1 Glut HY Vgll2 Glut 
+HY Gnrh1 Glut HY Hmx2 Glut 
+HY Gnrh1 Glut HY Skor2 Glut 
+HY Gnrh1 Glut VMH Fezf1 Glut 
+HY Gnrh1 Glut VMH Nr5a1 Glut 
+HY Gnrh1 Glut VMH Nr5a1 Tbx3 Glut 
+HY Gnrh1 Glut HY Six6 GABA 
+HY Gnrh1 Glut HY Gsx1 GABA 
+HY Gnrh1 Glut HY Otp Six6 GABA 
+HY Gnrh1 Glut HY Six3 GABA 
+HY Gnrh1 Glut HY Hmx2 GABA 
+HY Gnrh1 Glut HY Tac2 GABA 
+HY Gnrh1 Glut HY Onecut3 GABA 
+HY Gnrh1 Glut HY Lhx1 GABA 
+HY Gnrh1 Glut HY Prdm12 GABA 
+HY Gnrh1 Glut TH/HY Pax6 GABA 
+HY Gnrh1 Glut Trp73 Glut 
+HY Gnrh1 Glut HY Otp Glut 
+HY Gnrh1 Glut HY Irx6 Glut 
+HY Gnrh1 Glut HY Pitx2 Glut 
+HY Gnrh1 Glut MB En1 Hybrid 
+HY Gnrh1 Glut TH Tfap2d Glut 
+HY Gnrh1 Glut HY Isl1 Glut 
+HY Gnrh1 Glut LSX/HY Otx2 Glut 
+HY Gnrh1 Glut LSX/PAL/HY Bsx Glut 
+HY Gnrh1 Glut HY/PAL Tbr1 Glut 
+HY Gnrh1 Glut LSX/HY Otx2 GABA 
+HY Gnrh1 Glut HY Satb2 GABA 
+HY Gnrh1 Glut HY Nkx2-4 GABA 
+HY Gnrh1 Glut HY Nkx2-4 Glut 
+HY Gnrh1 Glut HY Pmch Glut 
+HY Gnrh1 Glut sAMY/PAL/HY Cngb3 Hybrid 
+HY Gnrh1 Glut HY/TH Gnb3 GABA 
+HY Gnrh1 Glut SCH GABA 
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 Gadd45g  2984
+2 C1ql2    1996
+3 Gpc3     1993
+4 Cdh6     1992
+5 Crim1    1992
+6 Pou2f2   1992
+[1] "Gadd45g"
+# A tibble: 6 × 2
+  gene    score
+  <chr>   <dbl>
+1 C1ql2    1996
+2 Gpc3     1993
+3 Cdh6     1992
+4 Crim1    1992
+5 Pou2f2   1992
+6 Slc18a2  1992
+[1] "C1ql2"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Gpc3    1993
+2 Cdh6    1992
+3 Crim1   1992
+4 Pou2f2  1992
+5 C1ql1    999
+6 Cdh13    999
+[1] "Gpc3"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Cdh6    1992
+2 Crim1   1992
+3 Pou2f2  1992
+4 C1ql1    999
+5 Cdh13    999
+6 Fibcd1   999
+[1] "Cdh6"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Crim1   1992
+2 Pou2f2  1992
+3 C1ql1    999
+4 Cdh13    999
+5 Fibcd1   999
+6 Lsp1     999
+[1] "Crim1"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Pou2f2  1992
+2 C1ql1    999
+3 Cdh13    999
+4 Fibcd1   999
+5 Lsp1     999
+6 Plce1    999
+[1] "Pou2f2"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 C1ql1    999
+2 Cdh13    999
+3 Fibcd1   999
+4 Lsp1     999
+5 Plce1    999
+6 Prr16    999
+[1] "C1ql1"
+# A tibble: 6 × 2
+  gene          score
+  <chr>         <dbl>
+1 Cdh13           999
+2 Fibcd1          999
+3 Lsp1            999
+4 Plce1           999
+5 Prr16           999
+6 D930028M14Rik   998
+[1] "Cdh13"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Fibcd1   999
+2 Lsp1     999
+3 Plce1    999
+4 Prr16    999
+5 Qrfpr    998
+6 Scn5a    998
+[1] "Fibcd1"
+# A tibble: 6 × 2
+  gene  score
+  <chr> <dbl>
+1 Lsp1    999
+2 Plce1   999
+3 Prr16   999
+4 Qrfpr   998
+5 Sntb1   998
+6 Esrrg   997
+[1] "Lsp1"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Plce1    999
+2 Prr16    999
+3 Qrfpr    998
+4 Sntb1    998
+5 Esrrg    997
+6 Nckap5   997
+[1] "Plce1"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Prr16    999
+2 Qrfpr    998
+3 Sntb1    998
+4 Esrrg    997
+5 Nckap5   997
+6 Nkain3   997
+[1] "Prr16"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Qrfpr    998
+2 Sntb1    998
+3 Esrrg    997
+4 Nckap5   997
+5 Pbx3     997
+6 Rnf152   997
+[1] "Qrfpr"
+# A tibble: 6 × 2
+  gene          score
+  <chr>         <dbl>
+1 Sntb1           998
+2 Esrrg           997
+3 Nckap5          997
+4 Pbx3            997
+5 Rnf152          997
+6 2010005H15Rik   996
+[1] "Sntb1"
+# A tibble: 6 × 2
+  gene          score
+  <chr>         <dbl>
+1 Esrrg           997
+2 Nckap5          997
+3 Pbx3            997
+4 Rnf152          997
+5 2010005H15Rik   996
+6 Cpa6            996
+[1] "Esrrg"
+# A tibble: 6 × 2
+  gene          score
+  <chr>         <dbl>
+1 Nckap5          997
+2 Pbx3            997
+3 Rnf152          997
+4 2010005H15Rik   996
+5 Cpa6            996
+6 Csmd2           996
+[1] "Nckap5"
+# A tibble: 6 × 2
+  gene          score
+  <chr>         <dbl>
+1 Pbx3            997
+2 Rnf152          997
+3 2010005H15Rik   996
+4 Cpa6            996
+5 Csmd2           996
+6 Impa2           996
+[1] "Pbx3"
+# A tibble: 6 × 2
+  gene          score
+  <chr>         <dbl>
+1 Rnf152          997
+2 2010005H15Rik   996
+3 Cpa6            996
+4 Csmd2           996
+5 Impa2           996
+6 P2rx4           996
+[1] "Rnf152"
+# A tibble: 6 × 2
+  gene          score
+  <chr>         <dbl>
+1 2010005H15Rik   996
+2 Cpa6            996
+3 Csmd2           996
+4 Impa2           996
+5 P2rx4           996
+6 Pdgfc           996
+[1] "2010005H15Rik"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Cpa6     996
+2 Csmd2    996
+3 Impa2    996
+4 P2rx4    996
+5 Pdgfc    996
+6 Pou3f4   996
+[1] "Cpa6"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Csmd2    996
+2 Impa2    996
+3 P2rx4    996
+4 Pdgfc    996
+5 Pou3f4   996
+6 Ptprk    996
+[1] "Csmd2"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Impa2    996
+2 P2rx4    996
+3 Pdgfc    996
+4 Pou3f4   996
+5 Ptprk    996
+6 Rbp3     996
+[1] "Impa2"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 P2rx4    996
+2 Pdgfc    996
+3 Pou3f4   996
+4 Ptprk    996
+5 Rbp3     996
+6 Stac2    996
+[1] "P2rx4"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Pdgfc    996
+2 Pou3f4   996
+3 Ptprk    996
+4 Rbp3     996
+5 Stac2    996
+6 Tns3     996
+[1] "Pdgfc"
+# A tibble: 6 × 2
+  gene          score
+  <chr>         <dbl>
+1 Pou3f4          996
+2 Ptprk           996
+3 Rbp3            996
+4 Stac2           996
+5 Tns3            996
+6 9330158H04Rik   995
+[1] "Pou3f4"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Ptprk    996
+2 Rbp3     996
+3 Stac2    996
+4 Tns3     996
+5 Col8a1   995
+6 Elfn1    995
+[1] "Ptprk"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Rbp3     996
+2 Stac2    996
+3 Tns3     996
+4 Col8a1   995
+5 Elfn1    995
+6 Kcnab3   995
+[1] "Rbp3"
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Stac2    996
+2 Tns3     996
+3 Elfn1    995
+4 Kcnab3   995
+5 Pde1a    994
+6 Tspan9   994
+[1] "Stac2"
+# A tibble: 4 × 2
+  gene   score
+  <chr>  <dbl>
+1 Tns3     996
+2 Elfn1    995
+3 Tspan9   994
+4 Mme      993
+[1] "Tns3"
+[1] "root:HY:TH Otx2 GABA"
+[1] "@3/3   ngroup=5, ncluster=5"
+[1] "root:HY:HY Otp GABA"
+[1] "@3/3   ngroup=1, ncluster=1"
+[1] "root:HY:HY Tbx3 Glut"
+[1] "@3/3   ngroup=4, ncluster=4"
+[1] "root:HY:VMH Tbx3 Glut"
+[1] "@3/3   ngroup=3, ncluster=3"
+[1] "root:HY:HY Tbx3 GABA"
+[1] "@3/3   ngroup=9, ncluster=9"
+[1] "root:HY:HY Vgll2 Glut"
+[1] "@3/3   ngroup=3, ncluster=3"
+[1] "root:HY:HY Hmx2 Glut"
+[1] "@3/3   ngroup=5, ncluster=5"
+[1] "root:HY:HY Skor2 Glut"
+[1] "@3/3   ngroup=11, ncluster=11"
+[1] "root:HY:HY Eomes Glut"
+[1] "@3/3   ngroup=12, ncluster=12"
+[1] "root:HY:VMH Fezf1 Glut"
+[1] "@3/3   ngroup=11, ncluster=11"
+[1] "root:HY:VMH Nr5a1 Glut"
+[1] "@3/3   ngroup=9, ncluster=9"
+[1] "root:HY:VMH Nr5a1 Tbx3 Glut"
+[1] "@3/3   ngroup=4, ncluster=4"
+[1] "root:HY:HY Six6 GABA"
+[1] "@3/3   ngroup=10, ncluster=10"
+[1] "root:HY:HY Gsx1 GABA"
+[1] "@3/3   ngroup=17, ncluster=17"
+[1] "root:HY:HY Otp Six6 GABA"
+[1] "@3/3   ngroup=16, ncluster=16"
+[1] "root:HY:HY Six3 GABA"
+[1] "@3/3   ngroup=44, ncluster=44"
+[1] "root:HY:HY Hmx2 GABA"
+[1] "@3/3   ngroup=50, ncluster=50"
+[1] "root:HY:HY Tac2 GABA"
+[1] "@3/3   ngroup=11, ncluster=11"
+[1] "root:HY:HY Onecut3 GABA"
+[1] "@3/3   ngroup=8, ncluster=8"
+[1] "root:HY:HY Lhx1 GABA"
+[1] "@3/3   ngroup=25, ncluster=25"
+[1] "root:HY:HY Prdm12 GABA"
+[1] "@3/3   ngroup=19, ncluster=19"
+[1] "root:HY:TH/HY Pax6 GABA"
+[1] "@3/3   ngroup=36, ncluster=36"
+[1] "root:HY:HY Foxd2 GABA"
+[1] "@3/3   ngroup=15, ncluster=15"
+[1] "root:HY:HY Bsx Lef1 GABA"
+[1] "@3/3   ngroup=3, ncluster=3"
+[1] "root:HY:HY Barhl2 Glut"
+[1] "@3/3   ngroup=11, ncluster=11"
+[1] "root:HY:Trp73 Glut"
+[1] "@3/3   ngroup=12, ncluster=12"
+[1] "root:HY:HY Otp Glut"
+[1] "@3/3   ngroup=75, ncluster=75"
+[1] "root:HY:HY Irx6 Glut"
+[1] "@3/3   ngroup=19, ncluster=19"
+[1] "root:HY:HY Foxa1 Glut"
+[1] "@3/3   ngroup=22, ncluster=22"
+[1] "root:HY:HY Pitx2 Glut"
+[1] "@3/3   ngroup=30, ncluster=30"
+[1] "root:HY:MB En1 Hybrid"
+[1] "@3/3   ngroup=3, ncluster=3"
+[1] "root:HY:TH Tfap2d Glut"
+[1] "@3/3   ngroup=16, ncluster=16"
+[1] "root:HY:HY Foxb1 Glut"
+[1] "@3/3   ngroup=28, ncluster=28"
+[1] "root:HY:HY Isl1 Glut"
+[1] "@3/3   ngroup=1, ncluster=1"
+[1] "root:HY:LSX/HY Otx2 Glut"
+[1] "@3/3   ngroup=4, ncluster=4"
+[1] "root:HY:LSX/PAL/HY Bsx Glut"
+[1] "@3/3   ngroup=10, ncluster=10"
+[1] "root:HY:HY/PAL Tbr1 Glut"
+[1] "@3/3   ngroup=15, ncluster=15"
+[1] "root:HY:LSX/HY Otx2 GABA"
+[1] "@3/3   ngroup=8, ncluster=8"
+[1] "root:HY:HY Satb2 GABA"
+[1] "@3/3   ngroup=7, ncluster=7"
+[1] "root:HY:HY Nkx2-4 GABA"
+[1] "@3/3   ngroup=5, ncluster=5"
+[1] "root:HY:HY Nkx2-4 Glut"
+[1] "@3/3   ngroup=5, ncluster=5"
+[1] "root:HY:HY Pmch Glut"
+[1] "@3/3   ngroup=4, ncluster=4"
+[1] "root:HY:sAMY/PAL/HY Cngb3 Hybrid"
+[1] "@3/3   ngroup=3, ncluster=3"
+[1] "root:HY:HY/TH Gnb3 GABA"
+[1] "@3/3   ngroup=12, ncluster=12"
+[1] "root:HY:SCH GABA"
+[1] "@3/3   ngroup=7, ncluster=7"
+[1] "root:HY:HY Gnrh1 Glut"
+[1] "@3/3   ngroup=1, ncluster=1"
+[1] "root:TH-GABA"
+[1] "@2/3   ngroup=2, ncluster=32"
+[1] "root:TH-GABA:TH/HY Gata3 GABA"
+[1] "@3/3   ngroup=31, ncluster=31"
+[1] "root:TH-GABA:TH Dmbx1 GABA"
+[1] "@3/3   ngroup=1, ncluster=1"
+[1] "root:TH"
+[1] "@2/3   ngroup=9, ncluster=123"
+TH/HY Gbx2 Zim1 Glut TH/HY Pth2 Glut 
+TH/HY Gbx2 Fmo1 Glut TH/HY Gbx2 Zim1 Glut 
+TH/HY Gbx2 Fmo1 Glut TH/HY Pth2 Glut 
+TH PF_Fzd5 Glut TH/HY Gbx2 Zim1 Glut 
+TH PF_Fzd5 Glut TH/HY Pth2 Glut 
+TH PF_Fzd5 Glut TH/HY Gbx2 Fmo1 Glut 
+TH PF_Fzd5 Glut TH PVT_Ntrk1 Glut 
+TH PF_Fzd5 Glut TH_Rxfp1_Epb4 Glut 
+TH PF_Fzd5 Glut TH Prkcd_Grin2c Glut 
+TH PF_Fzd5 Glut TH Serpinb7 Glut 
+TH PVT_Ntrk1 Glut TH/HY Gbx2 Zim1 Glut 
+TH PVT_Ntrk1 Glut TH/HY Pth2 Glut 
+TH PVT_Ntrk1 Glut TH/HY Gbx2 Fmo1 Glut 
+TH PVT_Ntrk1 Glut TH_Rxfp1_Epb4 Glut 
+TH PVT_Ntrk1 Glut TH Serpinb7 Glut 
+TH_Rxfp1_Epb4 Glut TH/HY Gbx2 Zim1 Glut 
+TH_Rxfp1_Epb4 Glut TH/HY Pth2 Glut 
+TH_Rxfp1_Epb4 Glut TH/HY Gbx2 Fmo1 Glut 
+TH Prkcd_Grin2c Glut TH/HY Gbx2 Zim1 Glut 
+TH Prkcd_Grin2c Glut TH/HY Pth2 Glut 
+TH Prkcd_Grin2c Glut TH/HY Gbx2 Fmo1 Glut 
+TH Prkcd_Grin2c Glut TH PVT_Ntrk1 Glut 
+TH Prkcd_Grin2c Glut TH_Rxfp1_Epb4 Glut 
+TH Prkcd_Grin2c Glut TH Serpinb7 Glut 
+TH AV_Col27a1 Glut TH/HY Gbx2 Zim1 Glut 
+TH AV_Col27a1 Glut TH/HY Pth2 Glut 
+TH AV_Col27a1 Glut TH/HY Gbx2 Fmo1 Glut 
+TH AV_Col27a1 Glut TH PF_Fzd5 Glut 
+TH AV_Col27a1 Glut TH PVT_Ntrk1 Glut 
+TH AV_Col27a1 Glut TH_Rxfp1_Epb4 Glut 
+TH AV_Col27a1 Glut TH Prkcd_Grin2c Glut 
+TH AV_Col27a1 Glut TH Serpinb7 Glut 
+TH Serpinb7 Glut TH/HY Gbx2 Zim1 Glut 
+TH Serpinb7 Glut TH/HY Pth2 Glut 
+TH Serpinb7 Glut TH/HY Gbx2 Fmo1 Glut 
+TH Serpinb7 Glut TH_Rxfp1_Epb4 Glut 
+# A tibble: 6 × 2
+  gene          score
+  <chr>         <dbl>
+1 A330008L17Rik   996
+2 Galnt14         996
+3 Megf11          996
+4 Plcl1           996
+5 Gabrg1          995
+6 Nhlh2           995
+[1] "A330008L17Rik"
+# A tibble: 6 × 2
+  gene     score
+  <chr>    <dbl>
+1 Galnt14    996
+2 Megf11     996
+3 Plcl1      996
+4 Nhlh2      995
+5 Syndig1l   995
+6 Angpt1     994
+[1] "Galnt14"
+# A tibble: 6 × 2
+  gene     score
+  <chr>    <dbl>
+1 Megf11     996
+2 Plcl1      996
+3 Nhlh2      995
+4 Tmem163    994
+5 Tmem255a   993
+6 Mpp3       992
+[1] "Megf11"
+# A tibble: 5 × 2
+  gene     score
+  <chr>    <dbl>
+1 Plcl1      996
+2 Nhlh2      995
+3 Tmem163    994
+4 Tmem255a   993
+5 Mpp3       992
+[1] "Plcl1"
+[1] "root:TH:TH/HY Gbx2 Zim1 Glut"
+[1] "@3/3   ngroup=31, ncluster=31"
+[1] "root:TH:TH/HY Pth2 Glut"
+[1] "@3/3   ngroup=5, ncluster=5"
+[1] "root:TH:TH/HY Gbx2 Fmo1 Glut"
+[1] "@3/3   ngroup=1, ncluster=1"
+[1] "root:TH:TH PF_Fzd5 Glut"
+[1] "@3/3   ngroup=12, ncluster=12"
+[1] "root:TH:TH PVT_Ntrk1 Glut"
+[1] "@3/3   ngroup=9, ncluster=9"
+[1] "root:TH:TH_Rxfp1_Epb4 Glut"
+[1] "@3/3   ngroup=29, ncluster=29"
+[1] "root:TH:TH Prkcd_Grin2c Glut"
+[1] "@3/3   ngroup=33, ncluster=33"
+[1] "root:TH:TH AV_Col27a1 Glut"
+[1] "@3/3   ngroup=2, ncluster=2"
+[1] "root:TH:TH Serpinb7 Glut"
+[1] "@3/3   ngroup=1, ncluster=1"
+[1] "root:LH-MH"
+[1] "@2/3   ngroup=2, ncluster=30"
+[1] "root:LH-MH:TH LH_Pou4f1_Sox1 Glut"
+[1] "@3/3   ngroup=12, ncluster=12"
+[1] "root:LH-MH:TH MH_Tac2 Glut"
+[1] "@3/3   ngroup=18, ncluster=18"
+[1] "root:STR-MSN"
+[1] "@2/3   ngroup=5, ncluster=76"
+MSN D1 outer GABA sAMY/PAL Chst9 GABA 
+MSN D1 outer GABA MSN D2 GABA 
+MSN D2 GABA sAMY/PAL Chst9 GABA 
+MSN D1 GABA sAMY/PAL Chst9 GABA 
+MSN D1 GABA MSN D1 outer GABA 
+MSN D1 GABA MSN D2 GABA 
+HY/PAL/STR Folh1 GABA sAMY/PAL Chst9 GABA 
+HY/PAL/STR Folh1 GABA MSN D1 outer GABA 
+HY/PAL/STR Folh1 GABA MSN D2 GABA 
+HY/PAL/STR Folh1 GABA MSN D1 GABA 
+# A tibble: 6 × 2
+  gene   score
+  <chr>  <dbl>
+1 Htr2c    996
+2 Tle4     996
+3 Htr1b    995
+4 Sema5a   995
+5 Mpped1   994
+6 Oprk1    994
+[1] "Htr2c"
+# A tibble: 3 × 2
+  gene   score
+  <chr>  <dbl>
+1 Tle4     996
+2 Sema5a   995
+3 Mpped1   994
+[1] "Tle4"
+[1] "root:STR-MSN:sAMY/PAL Chst9 GABA"
+[1] "@3/3   ngroup=18, ncluster=18"
+[1] "root:STR-MSN:MSN D1 outer GABA"
+[1] "@3/3   ngroup=7, ncluster=7"
+[1] "root:STR-MSN:MSN D2 GABA"
+[1] "@3/3   ngroup=24, ncluster=24"
+[1] "root:STR-MSN:MSN D1 GABA"
+[1] "@3/3   ngroup=25, ncluster=25"
+[1] "root:STR-MSN:HY/PAL/STR Folh1 GABA"
+[1] "@3/3   ngroup=2, ncluster=2"

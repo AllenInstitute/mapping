@@ -1,0 +1,8 @@
+==========================================
+SLURM_JOB_ID = 5982535
+Username = clare.morris
+Group = 10513
+SLURM_JOB_NODELIST = n260
+==========================================
+INFO:    Using cached SIF image
+FATAL:   "example_update_select.marker_cl.dat.R": executable file not found in $PATH

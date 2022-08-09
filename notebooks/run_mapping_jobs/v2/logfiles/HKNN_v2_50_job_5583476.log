@@ -1,0 +1,7 @@
+==========================================
+SLURM_JOB_ID = 5583476
+Username = clare.morris
+Group = 10513
+SLURM_JOB_NODELIST = n294
+==========================================
+INFO:    Using cached SIF image

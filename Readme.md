@@ -1,4 +1,4 @@
-Documentation for Clare Morris, Data and Technology intern at Allen Institute for Brain Science. 
+Documentation for Clare Morris, Informatics and Data Science intern at Allen Institute for Brain Science. 
 
 This repository contains scripts and results from my work in the summer of 2022. 
 

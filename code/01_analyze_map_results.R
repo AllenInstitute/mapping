@@ -1,5 +1,6 @@
 #function to analyze ANY mapping results! 
 #NAMES_VECTOR should be a vector containing the names of the subset files as STRINGS!!!
+#data_name is a string that you want to use to identify your results--it will be put in the name of the results csv produced. 
 
 enter_results <- function(NAMES_VECTOR, data_name) {
   library(dplyr)
